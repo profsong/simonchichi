@@ -1,0 +1,741 @@
+[
+  {
+    "entryId": "suneung-2000-row-1569",
+    "headword": "correlation",
+    "koreanMeaning": "상관관계",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=correlation",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 13841651-n, 06031248-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1570",
+    "headword": "magnitude",
+    "koreanMeaning": "크기; 규모; 중요성",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=magnitude",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 05090441-n, 05168890-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1572",
+    "headword": "earnest",
+    "koreanMeaning": "진지한; 진심 어린; 열심인",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=earnest",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 02118840-a, 02179968-a, 01910114-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1584",
+    "headword": "passerby",
+    "koreanMeaning": "지나가는 사람; 행인",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=passerby",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 10404672-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1599",
+    "headword": "psychic",
+    "koreanMeaning": "정신의; 초자연적인",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=psychic",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 01780740-a, 01599898-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1620",
+    "headword": "cosmetic",
+    "koreanMeaning": "미용의; 겉모습만 꾸미는",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=cosmetic",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 00070111-a, 01091234-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1630",
+    "headword": "vocation",
+    "koreanMeaning": "직업",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=vocation",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 00583246-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1636",
+    "headword": "inseparable",
+    "koreanMeaning": "떼어 놓을 수 없는; 분리할 수 없는",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=inseparable",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 00786173-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1650",
+    "headword": "wail",
+    "koreanMeaning": "울부짖다; 통곡하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=wail",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 01046932-v, 00066025-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1654",
+    "headword": "disprove",
+    "koreanMeaning": "틀렸음을 입증하다; 반증하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=disprove",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 00667424-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1671",
+    "headword": "sway",
+    "koreanMeaning": "흔들리다; 마음을 움직이다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=sway",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 01875295-v, 02586121-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1674",
+    "headword": "pest",
+    "koreanMeaning": "해충; 성가신 사람",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=pest",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 01314388-n, 10419630-n. 해충 뜻은 발췌본에서 빠져 있어 원본 data.noun의 01314388-n 정의를 추가 확인했습니다."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1705",
+    "headword": "intermediate",
+    "koreanMeaning": "중간의; 중급의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=intermediate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 01014251-a, 01531957-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1706",
+    "headword": "shatter",
+    "koreanMeaning": "산산이 부서지다; 산산조각 내다; 무너뜨리다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=shatter",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 00333758-v, 00333907-v, 00334050-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1710",
+    "headword": "premature",
+    "koreanMeaning": "시기상조의; 너무 이른; 조산의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=premature",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 00815227-a, 00815000-a, 01495535-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1713",
+    "headword": "fiber",
+    "koreanMeaning": "섬유; 식이 섬유; 근육이나 신경의 섬유",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=fiber",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 14866889-n, 07568818-n, 05229622-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1722",
+    "headword": "composure",
+    "koreanMeaning": "침착함; 평정심",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=composure",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 04903813-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1740",
+    "headword": "frugal",
+    "koreanMeaning": "절약하는; 검소한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=frugal",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 02421364-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1756",
+    "headword": "statistical",
+    "koreanMeaning": "통계의; 통계적인",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=statistical",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 02911627-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1769",
+    "headword": "gust",
+    "koreanMeaning": "돌풍; 갑자기 세게 부는 바람",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=gust",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 11465017-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1780",
+    "headword": "outburst",
+    "koreanMeaning": "감정의 폭발; 갑작스러운 분출",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=outburst",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 07014320-n, 07434942-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1782",
+    "headword": "firsthand",
+    "koreanMeaning": "직접 얻은; 직접 경험한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=firsthand",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 01852812-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1807",
+    "headword": "clarify",
+    "koreanMeaning": "명확하게 하다; 액체를 맑게 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=clarify",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 00939857-v, 00505151-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1846",
+    "headword": "aviate",
+    "koreanMeaning": "비행기를 조종하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=aviate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 01941093-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1848",
+    "headword": "rectangular",
+    "koreanMeaning": "직사각형의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=rectangular",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 02048977-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1854",
+    "headword": "renovate",
+    "koreanMeaning": "개조하다; 보수하다; 새롭게 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=renovate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 00164201-v, 00163441-v, 00024279-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1859",
+    "headword": "shudder",
+    "koreanMeaning": "몸서리치다; 공포나 추위로 떨다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=shudder",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 00014201-v, 01888946-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1861",
+    "headword": "segment",
+    "koreanMeaning": "부분; 구획",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=segment",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 04164989-n, 09429387-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1877",
+    "headword": "bulk",
+    "koreanMeaning": "대부분; 큰 덩어리",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=bulk",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 05122557-n, 05099389-n, 05025413-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1888",
+    "headword": "fume",
+    "koreanMeaning": "연기; 매연; 격분하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=fume",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 11508092-n, 01795333-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1891",
+    "headword": "dispersal",
+    "koreanMeaning": "분산; 흩어짐",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=dispersal",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 00368592-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1893",
+    "headword": "innermost",
+    "koreanMeaning": "가장 안쪽의; 마음 가장 깊은 곳의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=innermost",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 00950465-a, 00951709-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1905",
+    "headword": "lagacy",
+    "koreanMeaning": "유산; 유증 재산",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=legacy",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 13263779-n. 원문 lagacy는 legacy의 오탈자로 보고 legacy를 조회했습니다. 원문 표제어와 행 ID는 변경하지 않았습니다.",
+        "lookupHeadword": "legacy"
+      }
+    ],
+    "uncertainties": [
+      "source-spelling-check"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1907",
+    "headword": "simplicity",
+    "koreanMeaning": "단순함; 소박함",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=simplicity",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 04766059-n, 04786490-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1924",
+    "headword": "frantic",
+    "koreanMeaning": "제정신이 아닐 정도로 흥분한; 미친 듯한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=frantic",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 00086341-a, 02390724-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1932",
+    "headword": "enchant",
+    "koreanMeaning": "매혹하다; 마법을 걸다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=enchant",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 01817314-v, 01806505-v, 00776988-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1939",
+    "headword": "tackle",
+    "koreanMeaning": "문제를 다루다; 해결에 나서다; 태클하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=tackle",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 02569630-v, 01150164-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1949",
+    "headword": "misplace",
+    "koreanMeaning": "잘못 두다; 둔 곳을 잊다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=misplace",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 01501793-v, 01503101-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1955",
+    "headword": "embed",
+    "koreanMeaning": "깊숙이 박아 넣다; 단단히 끼워 넣다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=embed",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 01528821-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1960",
+    "headword": "utensil",
+    "koreanMeaning": "가정에서 쓰는 기구; 도구",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=utensil",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 04516672-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1964",
+    "headword": "grumble",
+    "koreanMeaning": "투덜거리다; 불평하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=grumble",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 00909219-v, 00909573-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1965",
+    "headword": "landfill",
+    "koreanMeaning": "매립지",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=landfill",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 09335809-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1969",
+    "headword": "productive",
+    "koreanMeaning": "생산적인; 결실을 맺는; 성과가 있는",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=productive",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 01865197-a, 02332604-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1976",
+    "headword": "pitfall",
+    "koreanMeaning": "예상치 못한 위험이나 곤란; 함정",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=pitfall",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 05688990-n, 03949663-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1979",
+    "headword": "uncover",
+    "koreanMeaning": "드러내다; 밝히다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=uncover",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 02143283-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1985",
+    "headword": "transcend",
+    "koreanMeaning": "넘어서다; 초월하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=transcend",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 02669477-v, 02669081-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1986",
+    "headword": "tangle",
+    "koreanMeaning": "엉키게 하다; 복잡하게 만들다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=tangle",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 01521124-v, 01474034-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1991",
+    "headword": "pollination",
+    "koreanMeaning": "수분; 꽃가루받이",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=pollination",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 07437372-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1995",
+    "headword": "counterattack",
+    "koreanMeaning": "반격; 역습; 반격하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=counterattack",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 편집한 한국어 뜻입니다. WordNet 3.0 synsets: 00978173-n, 00458094-n, 01125084-v."
+      }
+    ]
+  }
+]

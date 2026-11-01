@@ -1,0 +1,3308 @@
+[
+  {
+    "entryId": "suneung-2000-row-0001",
+    "headword": "provide",
+    "koreanMeaning": "제공하다; 공급하다; 규정하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/provide#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-provide-en-verb-VDT4ZlvP, ko-provide-en-verb-ERzv1ok6 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=provide",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "provide",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 02327200-v, 01182709-v, 01063188-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0035",
+    "headword": "object",
+    "koreanMeaning": "물체; 대상; 목적; 목적어; 반대하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/object#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-object-en-noun-SJoNK4ZJ, ko-object-en-noun-fKPmb2tY, ko-object-en-noun-L~rw4itr, ko-object-en-verb-F0uSXltB 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=object",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "object",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00002684-n, 05810948-n, 05981230-n, 06310237-n, 00807461-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0038",
+    "headword": "recognize",
+    "koreanMeaning": "알아보다; 인식하다; 인정하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/recognize#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-recognize-en-verb-yZuPQtI3, ko-recognize-en-verb-ONdkWC9Z 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=recognize",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "recognize",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00610374-v, 00728617-v, 00592883-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0040",
+    "headword": "comfort",
+    "koreanMeaning": "편안함; 위로; 위로하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/comfort#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-comfort-en-verb-JfUDikXN 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=comfort",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "comfort",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 14445379-n, 01211667-n, 01814815-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0073",
+    "headword": "novel",
+    "koreanMeaning": "소설; 새로운; 참신한",
+    "partOfSpeech": "noun; adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/novel#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-novel-en-adj-rWvxqZx5 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=novel",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "novel",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 06367879-n, 01687167-s, 01642245-s."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0074",
+    "headword": "secure",
+    "koreanMeaning": "안전한; 확실한; 확보하다; 고정하다",
+    "partOfSpeech": "adjective; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/secure#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-secure-en-verb-VIIvOgXP 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=secure",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "secure",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 02093888-a, 02093305-a, 02238770-v, 01340439-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0093",
+    "headword": "term",
+    "koreanMeaning": "용어; 기간; 조건; 칭하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/term#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-term-en-verb-3-QGHcKH 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=term",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "term",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 06303888-n, 15224486-n, 06770875-n, 01029642-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0121",
+    "headword": "delight",
+    "koreanMeaning": "기쁨; 즐겁게 하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/delight#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-delight-en-unknown-1Ld8Bk19 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=delight",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "delight",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 07491038-n, 01815628-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0128",
+    "headword": "firm",
+    "koreanMeaning": "회사; 단단한; 확고한",
+    "partOfSpeech": "noun; adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/firm#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-firm-en-noun-izYoduxD, ko-firm-en-adj-ZjpJbp93 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=firm",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "firm",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 08059870-n, 01151740-s, 01990653-s."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0437",
+    "headword": "sensible",
+    "koreanMeaning": "분별 있는; 합리적인; 느낄 수 있는",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/sensible#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-sensible-en-unknown-ekViaE3X, ko-sensible-en-unknown-sdX4DjxJ 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=sensible",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "sensible",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01943406-a, 02102484-a."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0440",
+    "headword": "tone",
+    "koreanMeaning": "어조; 음색; 소리의 높낮이",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/tone#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-tone-en-unknown-WoSvEetP 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=tone",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "tone",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 07082573-n, 04987620-n, 04986883-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0449",
+    "headword": "current",
+    "koreanMeaning": "현재의; 흐름; 전류",
+    "partOfSpeech": "adjective; noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/current#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-current-en-noun-fIPzzVby, ko-current-en-noun-0Z7OgdAw 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=current",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "current",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00666058-a, 07406765-n, 11443532-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0520",
+    "headword": "utility",
+    "koreanMeaning": "유용성; 공공 서비스; 공익사업",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/utility#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-utility-en-adj-Imm~cijH 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=utility",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "utility",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05148699-n, 00579334-n, 08185758-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0570",
+    "headword": "contrary",
+    "koreanMeaning": "반대의; 정반대; 반대로",
+    "partOfSpeech": "adjective; noun; adverb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/contrary#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-contrary-en-noun-Qmz-1J4x, ko-contrary-en-adv-sFApzqTd 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=contrary",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "contrary",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 02065958-s, 13858270-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0601",
+    "headword": "general",
+    "koreanMeaning": "일반적인; 전반적인; 장군",
+    "partOfSpeech": "adjective; noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/general#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-general-en-noun-b6qUv6ZT, ko-general-en-verb-TZUfydES 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=general",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "general",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01101391-a, 00783840-s, 10123844-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0622",
+    "headword": "figure",
+    "koreanMeaning": "숫자; 도표; 체형; 생각하다; 계산하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/figure#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-figure-en-verb-oVYcayZv, ko-figure-en-verb--h-IxxOY, ko-figure-en-verb-vUW58Ucw 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=figure",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "figure",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 13741022-n, 06999647-n, 05217168-n, 00712135-v, 00637259-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0767",
+    "headword": "present",
+    "koreanMeaning": "현재의; 참석한; 선물; 현재; 제시하다; 발표하다",
+    "partOfSpeech": "adjective; noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/present#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-present-en-adj-bUfafFTC, ko-present-en-adj-NlcbD9nv, ko-present-en-noun-pC2x21Cc, ko-present-en-noun-njjCxlgZ, ko-present-en-verb-U6fVOrxv, ko-present-en-verb-4nJseDo1 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=present",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "present",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01731351-a, 01846413-a, 13268842-n, 15119536-n, 00772967-v, 00989602-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0801",
+    "headword": "merit",
+    "koreanMeaning": "장점; 가치; ~할 만하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/merit#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-merit-en-verb-DIkpdhdt 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=merit",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "merit",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05138958-n, 04807050-n, 02646378-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0900",
+    "headword": "desert",
+    "koreanMeaning": "사막; 버리다; 탈영하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/desert#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-desert-en-noun-p4mJYz3m, ko-desert-en-noun-7TWJHccL, ko-desert-en-adj-ru1-myV1, ko-desert-en-verb-6NjvILWH, ko-desert-en-verb-piU2-SKv 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=desert",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "desert",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 08505573-n, 00614057-v, 02584097-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0904",
+    "headword": "behalf",
+    "koreanMeaning": "이익; (on behalf of) ~을 대신하여, ~을 위하여",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/behalf#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-behalf-en-noun-0ubrPJC2 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=behalf",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "behalf",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00721660-n, 05143300-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1000",
+    "headword": "tin",
+    "koreanMeaning": "주석; 깡통",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/tin#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-tin-en-unknown-yHutrdQo 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=tin",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "tin",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 14658855-n, 02949542-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1001",
+    "headword": "reform",
+    "koreanMeaning": "개혁; 개혁하다; 개선하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/reform#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-reform-en-unknown-6p01tnSZ 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=reform",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "reform",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00260622-n, 00265386-v, 00265673-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1129",
+    "headword": "diagnose",
+    "koreanMeaning": "진단하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=diagnose",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "diagnose",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00645552-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1357",
+    "headword": "settle",
+    "koreanMeaning": "해결하다; 정산하다; 정착하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/settle#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-settle-en-verb-IVVsJ8hZ, ko-settle-en-verb-fZ~toBi2, ko-settle-en-verb-NCgoZDeC 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=settle",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "settle",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00698855-v, 02254258-v, 00413876-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1400",
+    "headword": "gross",
+    "koreanMeaning": "공제 전 총액의; 총수입; 144개 묶음",
+    "partOfSpeech": "adjective; noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/gross#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-gross-en-noun-qMlpd95n 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=gross",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "gross",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01582821-a, 13256691-n, 13750504-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1481",
+    "headword": "outgoing",
+    "koreanMeaning": "외향적인; 사교적인; 떠나는; 물러나는",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/outgoing#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-outgoing-en-adj-6BG~Y0qQ 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=outgoing",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "outgoing",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 02258249-s, 01295443-a, 01294185-a."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1553",
+    "headword": "throughout",
+    "koreanMeaning": "~의 곳곳에; ~동안 내내; 처음부터 끝까지",
+    "partOfSpeech": "preposition; adverb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/throughout#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-throughout-en-unknown-lEYFv6yO 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=throughout",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "throughout",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00103087-r."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1708",
+    "headword": "charge",
+    "koreanMeaning": "요금; 책임; 혐의; 충전; 청구하다; 고발하다; 돌진하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/charge#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-charge-en-verb-R7FiSpIF, ko-charge-en-noun-0zldv9h5, ko-charge-en-noun-6y4in0LD, ko-charge-en-noun-dKJzVlSp 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=charge",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "charge",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 13306870-n, 00829378-n, 06561942-n, 00517847-v, 02320374-v, 00869931-v, 01121719-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1743",
+    "headword": "comprise",
+    "koreanMeaning": "포함하다; ~으로 이루어지다; 구성하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/comprise#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-comprise-en-verb-iClDQZyw, ko-comprise-en-verb-WJxfLd40 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=comprise",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "comprise",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 02629535-v, 02633356-v, 02620587-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1961",
+    "headword": "penetrate",
+    "koreanMeaning": "꿰뚫다; 관통하다; 침투하다; 이해하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/penetrate#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-penetrate-en-verb-69dQ26No, ko-penetrate-en-verb-dkD6HN1o, ko-penetrate-en-verb-NH~AHYWb 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=penetrate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "penetrate",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01227675-v, 01993031-v, 00728954-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0032",
+    "headword": "international",
+    "koreanMeaning": "국제적인; 국가 간의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/international#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-international-en-noun-VTyL7XFd 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=international",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "international",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01568375-a, 01037885-s."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0394",
+    "headword": "identical",
+    "koreanMeaning": "동일한; 똑같은",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/identical#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-identical-en-unknown--TgcueNt 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=identical",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "identical",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 02064127-s, 02068946-s."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0878",
+    "headword": "passive",
+    "koreanMeaning": "수동적인; 소극적인; 수동태",
+    "partOfSpeech": "adjective; noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/passive#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-passive-en-noun-EyY7n~6K 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=passive",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "passive",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00039592-a, 13803431-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1016",
+    "headword": "particular",
+    "koreanMeaning": "특정한; 특별한; 상세 사항",
+    "partOfSpeech": "adjective; noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/particular#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-particular-en-noun-~sMIqNPZ 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=particular",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "particular",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01104026-s, 00488187-s, 13809920-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1585",
+    "headword": "tense",
+    "koreanMeaning": "긴장한; 팽팽한; 시제; 긴장시키다",
+    "partOfSpeech": "adjective; noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/tense#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-tense-en-unknown-kMKRirOF 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=tense",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "tense",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 02405326-a, 02403206-a, 06329506-n, 00025203-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1895",
+    "headword": "skull",
+    "koreanMeaning": "두개골; 머리뼈",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/skull#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-skull-en-unknown-1-LRzrAD 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=skull",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "skull",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05540121-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1123",
+    "headword": "supplement",
+    "koreanMeaning": "보충; 보충물; 보충제; 보충하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/supplement#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-supplement-en-noun-1mCZxL~9, ko-supplement-en-noun-YhGClaFN, ko-supplement-en-verb-G587Zjjm 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=supplement",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "supplement",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05110772-n, 02671421-n, 02342132-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1245",
+    "headword": "accord",
+    "koreanMeaning": "합의; 일치; 일치하다; 부여하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/accord#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-accord-en-verb-INQL4jka, ko-accord-en-verb-hh189UFp 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=accord",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "accord",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 06773434-n, 13971065-n, 02700104-v, 02255268-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0764",
+    "headword": "gender",
+    "koreanMeaning": "성별; 문법상의 성",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/gender#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-gender-en-noun-EUEtKfZx 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=gender",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "gender",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05006898-n, 06328643-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0885",
+    "headword": "concern",
+    "koreanMeaning": "걱정; 관심; 관련되다; 걱정시키다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/concern#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-concern-en-verb-bszQs4TW 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=concern",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "concern",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 07524529-n, 05670710-n, 02676054-v, 02678438-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1147",
+    "headword": "equity",
+    "koreanMeaning": "공평; 자기 자본; 지분",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/equity#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-equity-en-unknown-PmqlPIy4, ko-equity-en-unknown-5npKQMrr 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=equity",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "equity",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 04839154-n, 13333420-n, 13333696-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1791",
+    "headword": "sustain",
+    "koreanMeaning": "유지하다; 지탱하다; 겪다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/sustain#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-sustain-en-verb-rUKDkiGG, ko-sustain-en-verb-z78-L4o5 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=sustain",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "sustain",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 02679530-v, 01217043-v, 00065639-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0968",
+    "headword": "force",
+    "koreanMeaning": "힘; 무력; 강요하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/force#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-force-en-verb-G6KYvp4p, ko-force-en-verb-7T99wgbA 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=force",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "force",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05035353-n, 00965404-n, 02504562-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0969",
+    "headword": "nest",
+    "koreanMeaning": "둥지; 둥지를 짓다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/nest#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-nest-en-verb-zvjSkDj7 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=nest",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "nest",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 09369169-n, 02654947-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0970",
+    "headword": "gain",
+    "koreanMeaning": "이득; 증가; 얻다; 늘다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/gain#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-gain-en-unknown-q6d3gG9t 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=gain",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "gain",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 13254805-n, 13754293-n, 02292125-v, 00157462-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0975",
+    "headword": "astound",
+    "koreanMeaning": "크게 놀라게 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/astound#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-astound-en-adv-bZSpSUdY 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=astound",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "astound",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00724832-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0980",
+    "headword": "deck",
+    "koreanMeaning": "갑판; 장식하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/deck#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-deck-en-verb-tx3ZQuiL, ko-deck-en-verb-F8hLgn62 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=deck",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "deck",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 03167666-n, 01679980-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0984",
+    "headword": "aggressive",
+    "koreanMeaning": "공격적인; 적극적인",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/aggressive#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-aggressive-en-adj-9EWyvhaJ 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=aggressive",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "aggressive",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01244846-s, 00082241-a."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0985",
+    "headword": "cure",
+    "koreanMeaning": "치료; 치료법; 치료하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/cure#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-cure-en-verb-DKdpUM7l 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=cure",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "cure",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 04074482-n, 00081725-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0996",
+    "headword": "rear",
+    "koreanMeaning": "뒤쪽; 뒤의; 기르다",
+    "partOfSpeech": "noun; adjective; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/rear#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-rear-en-verb-qVbYNZhy, ko-rear-en-verb-RWL8W47v, ko-rear-en-verb-tkLFGgc6 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=rear",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "rear",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 08629508-n, 00197891-s, 02539788-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1005",
+    "headword": "workshop",
+    "koreanMeaning": "작업장; 연수회; 워크숍",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/workshop#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-workshop-en-noun-zUXWtLJq 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=workshop",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "workshop",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 04603081-n, 00892413-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1007",
+    "headword": "convention",
+    "koreanMeaning": "관습; 회의; 협약",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/convention#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-convention-en-noun-K2hHQkhB 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=convention",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "convention",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05667613-n, 08309086-n, 06774316-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1011",
+    "headword": "deliver",
+    "koreanMeaning": "배달하다; 전달하다; 연설하다; 분만을 돕다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/deliver#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-deliver-en-verb-JjsJ2xwS, ko-deliver-en-verb-bnEuUXHw, ko-deliver-en-verb-KUupa6hK 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=deliver",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "deliver",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01438304-v, 01062253-v, 00989602-v, 00056930-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1014",
+    "headword": "bay",
+    "koreanMeaning": "만; 구역; 사냥개 짖는 소리",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/bay#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-bay-en-unknown-2A-iPiM9, ko-bay-en-unknown-mkwHFRmP, ko-bay-en-unknown-OC4O8U9m 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=bay",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "bay",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 09215664-n, 02812631-n, 07376836-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1018",
+    "headword": "fluid",
+    "koreanMeaning": "유체; 액체; 유동적인",
+    "partOfSpeech": "noun; adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/fluid#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-fluid-en-unknown-VBX0ZOvf 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=fluid",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "fluid",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 14939445-n, 14939900-n, 02261746-s."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1020",
+    "headword": "dawn",
+    "koreanMeaning": "새벽; 시작; 날이 새다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/dawn#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-dawn-en-verb-4ciaYwny 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=dawn",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "dawn",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 15168790-n, 07326108-n, 00528836-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1025",
+    "headword": "concrete",
+    "koreanMeaning": "콘크리트; 구체적인",
+    "partOfSpeech": "noun; adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/concrete#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-concrete-en-adj-CKCZ9GnD 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=concrete",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "concrete",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 14820180-n, 00013160-a."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1028",
+    "headword": "variable",
+    "koreanMeaning": "변수; 변하기 쉬운",
+    "partOfSpeech": "noun; adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/variable#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-variable-en-noun-pSGJha0P 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=variable",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "variable",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05857459-n, 02504131-a."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1030",
+    "headword": "rule",
+    "koreanMeaning": "규칙; 지배; 통치하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/rule#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-rule-en-verb-Ge8w459G, ko-rule-en-verb-ZjSvYowH, ko-rule-en-verb-IPN33BVV 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=rule",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "rule",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 06652242-n, 14442933-n, 02586619-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1038",
+    "headword": "startle",
+    "koreanMeaning": "깜짝 놀라게 하다; 깜짝 놀라다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/startle#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-startle-en-verb-I0wotwUO 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=startle",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "startle",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01821634-v, 01910373-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1044",
+    "headword": "core",
+    "koreanMeaning": "핵심; 중심부; 과일의 속을 빼다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/core#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-core-en-verb-pSPlKhxW 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=core",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "core",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05921123-n, 08524262-n, 01590523-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1051",
+    "headword": "dignity",
+    "koreanMeaning": "존엄성; 위엄; 품위",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/dignity#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-dignity-en-unknown-778dcQ3s 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=dignity",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "dignity",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 04886881-n, 04910684-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1066",
+    "headword": "range",
+    "koreanMeaning": "범위; 산맥; 범위가 ~에 걸치다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/range#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-range-en-unknown-cJIeAmUD 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=range",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "range",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05125377-n, 09403734-n, 02727039-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1069",
+    "headword": "tender",
+    "koreanMeaning": "부드러운; 다정한; 입찰; 제출하다",
+    "partOfSpeech": "adjective; noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/tender#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-tender-en-noun-GII8vmly, ko-tender-en-verb-xxn1ma4Y, ko-tender-en-verb-Sci6~oqk 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=tender",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "tender",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 02446651-a, 01464700-s, 07165086-n, 02296615-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1089",
+    "headword": "shallow",
+    "koreanMeaning": "얕은; 피상적인",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/shallow#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-shallow-en-verb-3FZUIrd5, ko-shallow-en-verb-om8qUR5s 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=shallow",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "shallow",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00691696-a, 01875227-s."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1090",
+    "headword": "face",
+    "koreanMeaning": "얼굴; 표면; 직면하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/face#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-face-en-verb-k~CP-nLa 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=face",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "face",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05600637-n, 08510666-n, 00812298-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1111",
+    "headword": "boast",
+    "koreanMeaning": "자랑하다; 자랑; 자랑거리",
+    "partOfSpeech": "verb; noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/boast#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-boast-en-verb-hG6iqNoL 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=boast",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "boast",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00883226-v, 07229530-n, 02631659-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1128",
+    "headword": "dismay",
+    "koreanMeaning": "당혹; 낙담; 실망시키다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/dismay#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-dismay-en-verb-zMZnkDc2 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=dismay",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "dismay",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 07519773-n, 07542675-n, 01814396-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1180",
+    "headword": "closet",
+    "koreanMeaning": "벽장; 옷장",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/closet#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-closet-en-verb-G~eIss3C 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=closet",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "closet",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 03148324-n, 04550184-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1188",
+    "headword": "discharge",
+    "koreanMeaning": "방출; 해고; 면직시키다; 방출하다; 의무를 이행하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/discharge#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-discharge-en-unknown-fMnAKxf9, ko-discharge-en-unknown-CirBBPdA 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=discharge",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "discharge",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 07407777-n, 00216174-n, 02422026-v, 01377032-v, 02563724-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1204",
+    "headword": "revenue",
+    "koreanMeaning": "수입; 매출; 세입",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/revenue#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-revenue-en-unknown-IbwjG7uY, ko-revenue-en-unknown-rJdzwKX5 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=revenue",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "revenue",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 13256691-n, 13261916-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1206",
+    "headword": "mention",
+    "koreanMeaning": "언급; 언급하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/mention#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-mention-en-noun-kdxISsAe 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=mention",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "mention",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 06766190-n, 01020005-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1215",
+    "headword": "patent",
+    "koreanMeaning": "특허; 명백한",
+    "partOfSpeech": "noun; adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/patent#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-patent-en-adj-dI9205Bj 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=patent",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "patent",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 06501141-n, 01618376-s."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1216",
+    "headword": "virtue",
+    "koreanMeaning": "미덕; 선행; 장점",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/virtue#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-virtue-en-unknown-dA2RcwRy 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=virtue",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "virtue",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 04847482-n, 04847298-n, 05138958-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1232",
+    "headword": "regard",
+    "koreanMeaning": "관심; 존중; ~로 여기다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/regard#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-regard-en-noun-9Y8LSj0P, ko-regard-en-noun-sOuERJeE 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=regard",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "regard",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05702726-n, 06206800-n, 00690614-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1235",
+    "headword": "rush",
+    "koreanMeaning": "돌진; 서두름; 서두르다; 급히 가다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=rush",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "rush",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00555648-n, 00459498-v, 02058994-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1251",
+    "headword": "warrant",
+    "koreanMeaning": "영장; 보증; 정당화하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/warrant#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-warrant-en-verb-~YsRq2in 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=warrant",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "warrant",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 06547059-n, 06685456-n, 00896803-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1271",
+    "headword": "depth",
+    "koreanMeaning": "깊이; 심도",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/depth#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-depth-en-adj-CsmdVGbx 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=depth",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "depth",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05134547-n, 05094725-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1279",
+    "headword": "embrace",
+    "koreanMeaning": "포옹; 껴안다; 받아들이다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/embrace#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-embrace-en-noun-FR~GN4zp 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=embrace",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "embrace",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00417397-n, 01424456-v, 00601822-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1292",
+    "headword": "slice",
+    "koreanMeaning": "얇게 썬 조각; 부분; 얇게 썰다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=slice",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "slice",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 09437241-n, 13286524-n, 01254477-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1303",
+    "headword": "rational",
+    "koreanMeaning": "합리적인; 이성적인; 유리수의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=rational",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "rational",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01925372-a, 01333118-s, 02929901-a."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1318",
+    "headword": "neglect",
+    "koreanMeaning": "방치; 태만; 소홀히 하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/neglect#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-neglect-en-noun-FBg6EQ33 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=neglect",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "neglect",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00418615-n, 04665813-n, 00616857-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1342",
+    "headword": "probe",
+    "koreanMeaning": "조사; 탐사선; 조사하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/probe#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-probe-en-noun-p~7Mp8RW 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=probe",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "probe",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05800611-n, 00788564-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1352",
+    "headword": "fabric",
+    "koreanMeaning": "직물; 천; 구조",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/fabric#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-fabric-en-unknown-PJ7Ioh~4 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=fabric",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "fabric",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 03309808-n, 04933363-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1363",
+    "headword": "quote",
+    "koreanMeaning": "인용문; 인용하다; 가격을 제시하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/quote#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-quote-en-noun-0xP~tp6R 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=quote",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "quote",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 06613056-n, 01023259-v, 01023925-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1368",
+    "headword": "loop",
+    "koreanMeaning": "고리; 반복 구간; 고리를 만들다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/loop#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-loop-en-verb-FeELRVq5 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=loop",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "loop",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 13875571-n, 06572857-n, 01673472-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1377",
+    "headword": "wander",
+    "koreanMeaning": "돌아다니다; 방황하다; 방랑",
+    "partOfSpeech": "verb; noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/wander#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-wander-en-verb-PMoZxjZ2, ko-wander-en-verb-BKIC1tzM, ko-wander-en-noun-AS3Bk94V 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=wander",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "wander",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01881180-v, 02102840-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1390",
+    "headword": "stool",
+    "koreanMeaning": "등받이 없는 의자; 대변",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=stool",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "stool",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 04326896-n, 14854262-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1398",
+    "headword": "boost",
+    "koreanMeaning": "증가; 격려; 높이다; 북돋우다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/boost#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-boost-en-unknown-3rqvnx9~ 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=boost",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "boost",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05110408-n, 01211019-n, 00497061-v, 00310937-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1418",
+    "headword": "reed",
+    "koreanMeaning": "갈대; 리드 악기의 얇은 진동판",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/reed#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-reed-en-verb--72cE-VC 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=reed",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "reed",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 12136720-n, 04066888-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1429",
+    "headword": "fund",
+    "koreanMeaning": "기금; 자금; 자금을 제공하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/fund#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-fund-en-verb-UuChl6p- 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=fund",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "fund",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 13358549-n, 02215506-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1465",
+    "headword": "crust",
+    "koreanMeaning": "겉껍질; 빵 껍질; 지각",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/crust#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-crust-en-unknown-aCKj414L, ko-crust-en-unknown-d6pxrFEO, ko-crust-en-unknown-a6wFe0mS 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=crust",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "crust",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 09260218-n, 09260010-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1489",
+    "headword": "stem",
+    "koreanMeaning": "줄기; 어간; ~에서 비롯되다; 막다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/stem#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-stem-en-verb-Zzg~tfBW, ko-stem-en-verb-Qll9Zk1Y 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=stem",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "stem",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 13129165-n, 06300193-n, 02627753-v, 00354452-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1498",
+    "headword": "erect",
+    "koreanMeaning": "똑바로 선; 세우다; 건설하다",
+    "partOfSpeech": "adjective; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/erect#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-erect-en-verb-qb7-UwcS 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=erect",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "erect",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01235859-a, 01982866-v, 01661243-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1505",
+    "headword": "steep",
+    "koreanMeaning": "가파른; 급격한; 담그다",
+    "partOfSpeech": "adjective; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/steep#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-steep-en-unknown-fsYKSS~o 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=steep",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "steep",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01144887-a, 01534282-s, 00327362-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1510",
+    "headword": "feast",
+    "koreanMeaning": "잔치; 진수성찬; 마음껏 먹다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/feast#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-feast-en-verb-WK39N7CH 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=feast",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "feast",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 07449862-n, 07578093-n, 01185981-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1531",
+    "headword": "implication",
+    "koreanMeaning": "함축; 암시; 영향",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/implication#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-implication-en-unknown-VShCT19h 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=implication",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "implication",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05920791-n, 05780885-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1547",
+    "headword": "coordinate",
+    "koreanMeaning": "좌표; 조정하다; 조화시키다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/coordinate#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-coordinate-en-verb-WfO2yetW, ko-coordinate-en-verb-V4~mb3Pk, ko-coordinate-en-verb-3KzRh6HI 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=coordinate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "coordinate",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 06010930-n, 00404642-v, 00466053-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1564",
+    "headword": "profile",
+    "koreanMeaning": "옆모습; 윤곽; 인물 소개",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/profile#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-profile-en-noun-~GdtUlEr, ko-profile-en-noun-Ur2JPQe-, ko-profile-en-noun-cpst-8di 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=profile",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "profile",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 08613202-n, 06516404-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1607",
+    "headword": "shred",
+    "koreanMeaning": "조각; 갈가리 찢다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/shred#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-shred-en-unknown-FKBkHezV 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=shred",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "shred",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 04045941-n, 01573891-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1609",
+    "headword": "tribute",
+    "koreanMeaning": "찬사; 경의의 표시; 공물",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/tribute#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-tribute-en-unknown-TyBB42Za 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=tribute",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "tribute",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 06697195-n, 01122387-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1610",
+    "headword": "artery",
+    "koreanMeaning": "동맥; 주요 도로",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/artery#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-artery-en-unknown-K8qZ9f0y 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=artery",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "artery",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05333777-n, 02744532-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1616",
+    "headword": "sneak",
+    "koreanMeaning": "몰래 움직이다; 고자질쟁이",
+    "partOfSpeech": "verb; noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/sneak#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-sneak-en-noun-hKq~kvFx, ko-sneak-en-verb-~xA8NzXQ 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=sneak",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "sneak",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01911888-v, 10091012-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1673",
+    "headword": "obligation",
+    "koreanMeaning": "의무; 책임; 채무",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/obligation#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-obligation-en-unknown--mkKOHDl, ko-obligation-en-unknown-wISWPWAq 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=obligation",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "obligation",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01129920-n, 14490110-n, 13398241-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1675",
+    "headword": "foremost",
+    "koreanMeaning": "가장 중요한; 맨 앞의; 맨 먼저",
+    "partOfSpeech": "adjective; adverb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/foremost#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-foremost-en-unknown-Z4kQKRa7 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=foremost",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "foremost",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00228294-s, 00198610-s, 00102736-r."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1690",
+    "headword": "outfit",
+    "koreanMeaning": "옷 한 벌; 장비; 갖추어 주다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/outfit#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-outfit-en-verb-ITC0GBP0 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=outfit",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "outfit",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 03859958-n, 03619396-n, 02339413-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1698",
+    "headword": "marine",
+    "koreanMeaning": "바다의; 해양의; 해병",
+    "partOfSpeech": "adjective; noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/marine#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-marine-en-noun-SMUBO91f 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=marine",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "marine",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 02887899-a, 01380721-a, 10294318-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1699",
+    "headword": "prestigious",
+    "koreanMeaning": "명망 있는; 일류의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/prestigious#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-prestigious-en-unknown-Kkrfs1kg 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=prestigious",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "prestigious",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01982957-s, 01830703-s."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1724",
+    "headword": "parallel",
+    "koreanMeaning": "평행한; 평행; 유사한 것; ~에 필적하다",
+    "partOfSpeech": "adjective; noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/parallel#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-parallel-en-adv-ebf5Mwdd, ko-parallel-en-verb-DAQgHZO1, ko-parallel-en-noun-4yTW0PcQ 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=parallel",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "parallel",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01718158-a, 04746430-n, 13880994-n, 02659358-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1736",
+    "headword": "manifest",
+    "koreanMeaning": "명백한; 드러내다; 화물 목록",
+    "partOfSpeech": "adjective; verb; noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/manifest#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-manifest-en-verb-lRu43b16, ko-manifest-en-noun-E4lk3W7u 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=manifest",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "manifest",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01618376-s, 00820976-v, 06501918-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1762",
+    "headword": "predator",
+    "koreanMeaning": "포식자",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=predator",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "predator",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 02152740-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1770",
+    "headword": "collective",
+    "koreanMeaning": "집단의; 공동의; 집단",
+    "partOfSpeech": "adjective; noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/collective#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-collective-en-noun-hqjBfXTq, ko-collective-en-noun-DcvyGcZb 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=collective",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "collective",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00466808-a, 02112701-s, 08056601-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1771",
+    "headword": "scope",
+    "koreanMeaning": "범위; 여지",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/scope#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-scope-en-noun-K8HaIWV~, ko-scope-en-noun-rvquVVu2 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=scope",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "scope",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05125377-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1810",
+    "headword": "currency",
+    "koreanMeaning": "통화; 화폐; 통용",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/currency#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-currency-en-unknown-gmjvSkoZ, ko-currency-en-unknown-ieau~wSR 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=currency",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "currency",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 13385913-n, 04765586-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1852",
+    "headword": "empathize",
+    "koreanMeaning": "공감하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=empathize",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "empathize",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00594058-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1866",
+    "headword": "cripple",
+    "koreanMeaning": "심하게 손상시키다; 기능을 마비시키다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/cripple#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-cripple-en-noun-EJSgeBPw, ko-cripple-en-verb-oko7zi7q 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=cripple",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "cripple",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00225832-v. 사람을 지칭하는 명사 용법은 낡고 모욕적으로 받아들여질 수 있어 기본 뜻에서 제외했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review",
+      "dated-or-offensive-person-label"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1879",
+    "headword": "manuscript",
+    "koreanMeaning": "원고; 손으로 쓴 문서",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/manuscript#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-manuscript-en-unknown-fMj2S5ND 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=manuscript",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "manuscript",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 06406979-n, 06407221-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1883",
+    "headword": "predecessor",
+    "koreanMeaning": "전임자; 이전 모델; 전신",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/predecessor#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-predecessor-en-unknown-k-hdFLl~ 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=predecessor",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "predecessor",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 10464711-n, 06802571-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1890",
+    "headword": "dimension",
+    "koreanMeaning": "치수; 차원; 측면",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/dimension#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-dimension-en-unknown-Lvq0DNrC, ko-dimension-en-unknown-abGAD8WV 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=dimension",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "dimension",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05093581-n, 06011446-n, 05849040-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1898",
+    "headword": "rash",
+    "koreanMeaning": "경솔한; 발진",
+    "partOfSpeech": "adjective; noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/rash#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-rash-en-noun-R4gBpp2P 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=rash",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "rash",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01900188-s, 14321953-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1917",
+    "headword": "quest",
+    "koreanMeaning": "탐구; 탐색; 찾아다니다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/quest#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-quest-en-verb-AI2nTlmV 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=quest",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "quest",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00946650-n, 05770391-n, 02240881-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1928",
+    "headword": "subdue",
+    "koreanMeaning": "진압하다; 억누르다; 가라앉히다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/subdue#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-subdue-en-verb-LkzkXbVh, ko-subdue-en-verb-fC0BP0fO 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=subdue",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "subdue",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00462092-v, 01801847-v, 02424128-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1931",
+    "headword": "reckon",
+    "koreanMeaning": "생각하다; 계산하다; ~로 여기다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/reckon#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-reckon-en-unknown-YMRrKcn6 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=reckon",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "reckon",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00631737-v, 00637259-v, 00690614-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1952",
+    "headword": "cosmopolitan",
+    "koreanMeaning": "국제적인; 세계 각지의; 세계 시민",
+    "partOfSpeech": "adjective; noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/cosmopolitan#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-cosmopolitan-en-noun-Jgl1BeIE 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=cosmopolitan",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "cosmopolitan",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00527188-s, 00635955-a, 01106614-a, 09967406-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1962",
+    "headword": "intrude",
+    "koreanMeaning": "침입하다; 간섭하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/intrude#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-intrude-en-verb-J1VKN8Hl 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=intrude",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "intrude",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 02018524-v, 02169119-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1973",
+    "headword": "kidnap",
+    "koreanMeaning": "납치하다; 유괴하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/kidnap#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-kidnap-en-noun-OnIYvMfj 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=kidnap",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "kidnap",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 01471043-v."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1980",
+    "headword": "limb",
+    "koreanMeaning": "팔다리; 큰 나뭇가지",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/limb#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-limb-en-unknown-tXZCu3ku 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=limb",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "limb",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 05560244-n, 13163803-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1987",
+    "headword": "subsidy",
+    "koreanMeaning": "보조금; 지원금",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/subsidy#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-subsidy-en-unknown-hpDLJU55 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=subsidy",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "subsidy",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 13267014-n."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1996",
+    "headword": "cumulative",
+    "koreanMeaning": "누적되는; 누진적인",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/cumulative#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-cumulative-en-unknown-EfilPSvg, ko-cumulative-en-unknown-lLYlZjyf 기존 한국어 사전 후보를 참고했으며, 누락된 일반적 뜻과 품사는 아래 WordNet 영어 정의를 대조하여 별도로 번역·편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=cumulative",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "cumulative",
+        "notes": "일반적 학습 의미와 품사를 확인하고 영어 정의를 바탕으로 한국어로 번역·편집했습니다. PDF 원문 뜻이 아니며 교육 검수 전 초안입니다. 확인한 WordNet 3.0 synsets: 00048460-s."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  }
+]

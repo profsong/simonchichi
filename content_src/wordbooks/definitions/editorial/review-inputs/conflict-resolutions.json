@@ -1,0 +1,592 @@
+{
+  "schemaVersion": 1,
+  "inputSha256": {
+    "editorial-bulk-core.json": "9838b5bae2f6508ff5d88f454f27469f181646390cb4b4b294a95c9dd6c1ac76",
+    "editorial-bulk-qa.json": "2929cafa930a7a6815b9d7d6ed7e437ef2505e287347a11f4bc9f0223ad4fb98",
+    "editorial-core.json": "e3b21fea8dd62fc51ac914a34c7c84f2ab64196fd7fa7f1262ee5c7c7f14a6e3",
+    "editorial-final-storage.json": "ce75ac904a8bfd83cea0ccca3a2e133c9103c9676dee07f3088ce47b97c4ac45",
+    "editorial-format-storage.json": "49c5f30b49db6d2c40359d5ea0616cc46df3284f96aab7393ee6c1e694bf79f7",
+    "editorial-pos-storage.json": "a5d7e142ab6f9f5515d37e0d1fed00424518207fc4253834fd09fcd5253c9fad",
+    "editorial-qa.json": "6b1748d51583d2e9402317837361085c084cae05dbe65bcfe7aef97c08e5e51b",
+    "editorial-root.json": "8ae41f588d44c6e4e88edf898a90ee53fa344d832b5ecae20439fcd3fffe56b2",
+    "editorial-storage.json": "b454f08945a430d2b6200c79238ca6ef7a832a2bef2db0ce75c863affd4898d9"
+  },
+  "policy": "Every overlapping editorial correction is resolved explicitly. Original reviewer records and all relevant provenance are retained. All entries remain draft pending educational review.",
+  "resolutions": [
+    {
+      "entryId": "suneung-2000-row-0174",
+      "headword": "electronic",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-format-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "전자의; 전자 기기의",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "file": "editorial-format-storage.json",
+          "koreanMeaning": "전자의; 전자 기기의; 온라인의",
+          "partOfSpeech": "adjective"
+        }
+      ],
+      "koreanMeaning": "전자의; 전자 공학의",
+      "partOfSpeech": "adjective",
+      "reason": "기본 형용사 의미를 우선하고 온라인의라는 문맥 한정 표현은 생략했습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0205",
+      "headword": "qualify",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-format-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "자격을 얻다; 자격을 주다; 한정하다",
+          "partOfSpeech": "verb"
+        },
+        {
+          "file": "editorial-format-storage.json",
+          "koreanMeaning": "자격이나 능력에 부합하게 하다; 자격을 부여하다",
+          "partOfSpeech": "verb"
+        }
+      ],
+      "koreanMeaning": "자격을 얻다; 자격을 주다; 한정하다",
+      "partOfSpeech": "verb",
+      "reason": "자동사와 타동사 용법 및 발언을 한정하는 일반 의미를 포함한 검토안을 선택했습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0268",
+      "headword": "refer",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-format-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "언급하다; 참조하다; 보내다",
+          "partOfSpeech": "verb"
+        },
+        {
+          "file": "editorial-format-storage.json",
+          "koreanMeaning": "언급하다, 인용하다; 조회하다; 맡기다",
+          "partOfSpeech": "verb"
+        }
+      ],
+      "koreanMeaning": "언급하다; 참조하다; 가리키다",
+      "partOfSpeech": "verb",
+      "reason": "언급·참조·지시라는 대표 의미를 선택하고 문맥에 의존하는 맡기다는 생략했습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0291",
+      "headword": "reveal",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "드러내다; 밝히다",
+          "partOfSpeech": "verb"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "드러내다; 폭로하다, 밝히다",
+          "partOfSpeech": "verb"
+        }
+      ],
+      "koreanMeaning": "드러내다; 밝히다, 폭로하다",
+      "partOfSpeech": "verb",
+      "reason": "두 검토의 동사 판정을 유지하고 공개한다는 공통 의미를 함께 표기했습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0305",
+      "headword": "preserve",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-format-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "보존하다; 유지하다; 보호하다",
+          "partOfSpeech": "verb"
+        },
+        {
+          "file": "editorial-format-storage.json",
+          "koreanMeaning": "보존하다; 보호하다, 유지하다; 보존 처리하다",
+          "partOfSpeech": "verb"
+        }
+      ],
+      "koreanMeaning": "보존하다; 유지하다; 보호하다; 저장 처리하다",
+      "partOfSpeech": "verb",
+      "reason": "두 검토의 공통 뜻에 원래 한국어 사전의 식품 저장 용법을 남겼습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0330",
+      "headword": "empower",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "권한을 주다; 능력을 갖추게 하다",
+          "partOfSpeech": "verb"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "권한을 주다; 능력을 부여하다",
+          "partOfSpeech": "verb"
+        }
+      ],
+      "koreanMeaning": "권한을 주다; 능력을 갖추게 하다",
+      "partOfSpeech": "verb",
+      "reason": "권한 부여와 능력 강화의 두 공통 뜻을 자연스러운 표현으로 통일했습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0374",
+      "headword": "frighten",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "겁먹게 하다; 놀라게 하다",
+          "partOfSpeech": "verb"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "겁먹게 하다, 놀라게 하다",
+          "partOfSpeech": "verb"
+        }
+      ],
+      "koreanMeaning": "겁먹게 하다; 놀라게 하다",
+      "partOfSpeech": "verb",
+      "reason": "뜻과 품사가 동일하여 구분 기호만 통일했습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0390",
+      "headword": "corporate",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "기업의; 법인의",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "기업의, 법인의; 공동의",
+          "partOfSpeech": "adjective"
+        }
+      ],
+      "koreanMeaning": "기업의; 법인의; 공동의",
+      "partOfSpeech": "adjective",
+      "reason": "기업·법인의 의미와 하나의 집단을 이루는 공동의 의미를 함께 남겼습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0413",
+      "headword": "household",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "가정; 가구",
+          "partOfSpeech": "noun"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "가정, 가구(함께 사는 사람들)",
+          "partOfSpeech": "noun"
+        }
+      ],
+      "koreanMeaning": "가정; 가구(함께 사는 사람들)",
+      "partOfSpeech": "noun",
+      "reason": "두 검토의 동일한 명사 뜻을 유지하고 가구의 의미 혼동을 막는 설명을 남겼습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0431",
+      "headword": "isolate",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "고립시키다; 분리하다",
+          "partOfSpeech": "verb"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "고립시키다; 분리하다",
+          "partOfSpeech": "verb"
+        }
+      ],
+      "koreanMeaning": "고립시키다; 분리하다",
+      "partOfSpeech": "verb",
+      "reason": "두 검토의 뜻과 품사가 완전히 일치합니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0549",
+      "headword": "resort",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-format-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "휴양지; 의지하다",
+          "partOfSpeech": "noun / verb"
+        },
+        {
+          "file": "editorial-format-storage.json",
+          "koreanMeaning": "휴양지; 의지, 의존; 수단; 의지하다",
+          "partOfSpeech": "noun / verb"
+        }
+      ],
+      "koreanMeaning": "휴양지; 의지할 수단; 의지하다",
+      "partOfSpeech": "noun / verb",
+      "reason": "휴양지와 의지하다 외에 최후의 수단에서 쓰는 명사 의미를 함께 남겼습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0557",
+      "headword": "install",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-format-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "설치하다; 임명하다",
+          "partOfSpeech": "verb"
+        },
+        {
+          "file": "editorial-format-storage.json",
+          "koreanMeaning": "설치하다; 취임시키다, 임명하다",
+          "partOfSpeech": "verb"
+        }
+      ],
+      "koreanMeaning": "설치하다; 임명하다",
+      "partOfSpeech": "verb",
+      "reason": "일반적인 설치 및 직위에 앉히는 두 의미를 간결하게 선택했습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0597",
+      "headword": "harsh",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "가혹한; 거친; 불쾌한",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "가혹한; 거친, 불쾌한",
+          "partOfSpeech": "adjective"
+        }
+      ],
+      "koreanMeaning": "가혹한; 거친; 불쾌한",
+      "partOfSpeech": "adjective",
+      "reason": "두 검토의 뜻과 품사가 같아 구분 기호만 통일했습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0682",
+      "headword": "outstanding",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "뛰어난; 두드러진; 미지급된",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "뛰어난, 두드러진; 미지불된",
+          "partOfSpeech": "adjective"
+        }
+      ],
+      "koreanMeaning": "뛰어난; 두드러진; 미해결의; 미지급의",
+      "partOfSpeech": "adjective",
+      "reason": "두 검토가 각각 확인한 미해결과 미지급 용법을 모두 보존했습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0775",
+      "headword": "miserable",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "비참한; 몹시 불행한; 형편없는",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "비참한, 몹시 불행한; 불쌍한",
+          "partOfSpeech": "adjective"
+        }
+      ],
+      "koreanMeaning": "비참한; 몹시 불행한; 형편없는",
+      "partOfSpeech": "adjective",
+      "reason": "공통된 불행의 의미와 일반적인 형편없다는 평가 의미를 선택했습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0875",
+      "headword": "passage",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "통로; 구절; 통과",
+          "partOfSpeech": "noun"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "통과, 경과; 글의 한 구절; 통로",
+          "partOfSpeech": "noun"
+        }
+      ],
+      "koreanMeaning": "통로; 구절; 통과",
+      "partOfSpeech": "noun",
+      "reason": "문단보다 범위가 정확한 구절과 통로·통과를 선택했습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0879",
+      "headword": "marble",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "대리석; 구슬",
+          "partOfSpeech": "noun"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "대리석; 구슬",
+          "partOfSpeech": "noun"
+        }
+      ],
+      "koreanMeaning": "대리석; 구슬",
+      "partOfSpeech": "noun",
+      "reason": "두 검토의 뜻과 품사가 완전히 일치합니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0947",
+      "headword": "rod",
+      "reviewedInputs": [
+        "editorial-bulk-core.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-core.json",
+          "koreanMeaning": "막대; 봉",
+          "partOfSpeech": "noun"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "막대, 봉",
+          "partOfSpeech": "noun"
+        }
+      ],
+      "koreanMeaning": "막대; 봉",
+      "partOfSpeech": "noun",
+      "reason": "두 검토의 뜻과 품사가 같아 구분 기호만 통일했습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-0975",
+      "headword": "astound",
+      "reviewedInputs": [
+        "editorial-bulk-qa.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-qa.json",
+          "koreanMeaning": "크게 놀라게 하다",
+          "partOfSpeech": "verb"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "몹시 놀라게 하다",
+          "partOfSpeech": "verb"
+        }
+      ],
+      "koreanMeaning": "크게 놀라게 하다",
+      "partOfSpeech": "verb",
+      "reason": "몹시와 크게는 같은 강도 의미여서 검토된 간결한 표현을 선택했습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-1000",
+      "headword": "tin",
+      "reviewedInputs": [
+        "editorial-bulk-qa.json",
+        "editorial-format-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-qa.json",
+          "koreanMeaning": "주석; 깡통",
+          "partOfSpeech": "noun"
+        },
+        {
+          "file": "editorial-format-storage.json",
+          "koreanMeaning": "주석(금속 원소)",
+          "partOfSpeech": "noun"
+        }
+      ],
+      "koreanMeaning": "주석(금속 원소); 깡통",
+      "partOfSpeech": "noun",
+      "reason": "QA가 확인한 깡통 의미를 추가하고 주석의 동음이의 혼동을 막는 설명을 남겼습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-1271",
+      "headword": "depth",
+      "reviewedInputs": [
+        "editorial-bulk-qa.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-qa.json",
+          "koreanMeaning": "깊이; 심도",
+          "partOfSpeech": "noun"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "깊이; 심오함",
+          "partOfSpeech": "noun"
+        }
+      ],
+      "koreanMeaning": "깊이; 심도; 심오함",
+      "partOfSpeech": "noun",
+      "reason": "물리적 깊이와 사고·이해의 깊이라는 두 검토의 의미를 함께 남겼습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-1418",
+      "headword": "reed",
+      "reviewedInputs": [
+        "editorial-bulk-qa.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-qa.json",
+          "koreanMeaning": "갈대; 리드 악기의 얇은 진동판",
+          "partOfSpeech": "noun"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "갈대",
+          "partOfSpeech": "noun"
+        }
+      ],
+      "koreanMeaning": "갈대; 리드 악기의 얇은 진동판",
+      "partOfSpeech": "noun",
+      "reason": "QA가 원전에서 확인한 악기 부품 의미를 추가했습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-1675",
+      "headword": "foremost",
+      "reviewedInputs": [
+        "editorial-bulk-qa.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-qa.json",
+          "koreanMeaning": "가장 중요한; 맨 앞의; 맨 먼저",
+          "partOfSpeech": "adjective; adverb"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "최고의, 가장 중요한; 맨 앞의",
+          "partOfSpeech": "adjective"
+        }
+      ],
+      "koreanMeaning": "가장 중요한; 맨 앞의; 맨 먼저",
+      "partOfSpeech": "adjective / adverb",
+      "reason": "QA가 확인한 부사 용법을 포함하고 그에 맞춰 품사도 보완했습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-1699",
+      "headword": "prestigious",
+      "reviewedInputs": [
+        "editorial-bulk-qa.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-qa.json",
+          "koreanMeaning": "명망 있는; 일류의",
+          "partOfSpeech": "adjective"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "명망 있는, 권위 있는",
+          "partOfSpeech": "adjective"
+        }
+      ],
+      "koreanMeaning": "명망 있는; 권위 있는; 일류의",
+      "partOfSpeech": "adjective",
+      "reason": "두 검토가 제시한 평판과 지위의 공통 의미를 함께 남겼습니다."
+    },
+    {
+      "entryId": "suneung-2000-row-1973",
+      "headword": "kidnap",
+      "reviewedInputs": [
+        "editorial-bulk-qa.json",
+        "editorial-pos-storage.json"
+      ],
+      "inputMeanings": [
+        {
+          "file": "editorial-bulk-qa.json",
+          "koreanMeaning": "납치하다; 유괴하다",
+          "partOfSpeech": "verb"
+        },
+        {
+          "file": "editorial-pos-storage.json",
+          "koreanMeaning": "납치하다, 유괴하다",
+          "partOfSpeech": "verb"
+        }
+      ],
+      "koreanMeaning": "납치하다; 유괴하다",
+      "partOfSpeech": "verb",
+      "reason": "두 검토의 뜻과 품사가 같아 구분 기호만 통일했습니다."
+    }
+  ]
+}

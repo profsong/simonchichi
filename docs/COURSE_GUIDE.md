@@ -1,0 +1,126 @@
+# 현재 단어장별 회차와 단어
+
+0.5.0 기준입니다. 각 줄은 실제 `src/data/courses/*.json`의20단어 배정 순서입니다. 지도와 완료 기록은 책별로 독립적이며 원문 DAY 하나(40단어)는 수능 과정 두 회차입니다. 겹치는176개도 수능100회차에 포함됩니다.
+
+## 중등 심화 300 — 15회
+
+- **1회**: adapt, adequate, advocate, alter, anticipate, apparent, assess, assumption, attain, benefit, clarify, coherent, collapse, combine, compensate, complex, conclude, conflict, consequence, consistent
+- **2회**: constraint, contrast, contribute, convince, crucial, decline, demonstrate, derive, detect, determine, diminish, distinct, diverse, efficient, emerge, emphasize, enable, encounter, enhance, establish
+- **3회**: evaluate, evident, expand, exposure, flexible, generate, identify, illustrate, imply, interpret, maintain, objective, perceive, perspective, predict, preserve, relevant, reluctant, significant, transform
+- **4회**: achieve, approach, attempt, avoid, compare, complete, curious, develop, effort, focus, improve, include, notice, organize, practice, review, accurate, challenge, strategy, progress
+- **5회**: apply, arrange, attend, behavior, brief, choice, connect, consider, context, detail, describe, express, feature, habit, prefer, replace, ambiguity, convey, literal, nuance
+- **6회**: belong, contain, depend, explain, follow, function, mention, phrase, refer, relate, separate, support, modify, relative, restrict, subordinate, subject, predicate, qualify, sequence
+- **7회**: allow, despite, except, instead, limit, occur, otherwise, require, unless, whether, while, within, concession, conditional, exception, indicate, involve, prior, regardless, whereas
+- **8회**: affect, cause, damage, decrease, environment, increase, prevent, result, accumulate, accelerate, adaptation, carbon, consume, disrupt, emission, fluctuate, mechanism, proportion, release, sustain
+- **9회**: belief, decision, evidence, purpose, alternative, attribute, bias, capacity, criterion, debate, empathy, factor, infer, justify, perception, priority, rational, reliable, valid, verify
+- **10회**: acknowledge, argument, assert, claim, counterargument, disagree, evidence-based, logical, objection, persuade, premise, qualitative, reasoning, rebut, therefore, thus, concede, corroborate, fallacy, refute
+- **11회**: analyze, assume, background, cohesion, convention, distinguish, explicit, implicit, interpretation, continuity, reference, signal, structure, substitute, transition, unify, ambiguously, inference, subtext, underlying
+- **12회**: central, concept, conclusion, essential, highlight, issue, major, outline, overall, summarize, theme, viewpoint, abstract, articulate, conventional, elaborate, fundamental, integrate, overarching, synthesize
+- **13회**: allocate, appropriate, contradict, correspond, eliminate, coincide, compelling, constrain, contrary, deduce, deliberate, deviation, dilemma, extrapolate, hypothesis, inevitable, inhibit, irrelevant, plausible, tentative
+- **14회**: adverse, aggregate, autonomous, cognitive, comprehensive, contingent, credible, disparity, empirical, equitable, feasible, heterogeneous, incentive, infrastructure, interdependence, mitigate, resilience, scarcity, trade-off, viable
+- **15회**: accountability, adaptive, causal, compromise, counterintuitive, cumulative, deteriorate, ethical, implement, innovative, longitudinal, marginal, optimize, paradox, pragmatic, provisional, replicate, robust, sustainable, uncertainty
+
+## 수능 영어 2000 — 100회
+
+- **1회 · 원문 DAY 1**: provide, develop, cultural, inform, social, improve, individual, require, volunteer, behave, amount, relationship, employ, attitude, research, audience, challenge, influence, material, opportunity
+- **2회 · 원문 DAY 1**: environment, expense, local, involve, stress, therefore, contain, average, ride, encourage, determine, international, consume, impress, object, available, positive, recognize, commodity, comfort
+- **3회 · 원문 DAY 2**: emotion, amaze, reduce, discover, decide, benefit, affect, level, chemistry, immediate, thus, proper, performance, essence, economic, cell, focus, issue, participate, demand
+- **4회 · 원문 DAY 2**: occur, complex, define, proud, aware, contact, profession, detail, approach, career, package, disappear, novel, secure, function, despite, background, solution, generate, eventually
+- **5회 · 원문 DAY 3**: decrease, recycle, desire, balance, negative, follow, account, publish, occasion, replace, constant, expert, term, relieve, describe, congratulate, due, equipment, biology, imagine
+- **6회 · 원문 DAY 3**: compose, genius, reflect, cause, frequent, factor, extreme, tend, politics, insist, extend, lonely, habitat, mental, steady, exchange, active, species, athletic, dental
+- **7회 · 원문 DAY 4**: delight, confident, gradually, shadow, access, announce, allow, firm, vary, injure, permit, response, increase, electricity, disabled, lack, possibility, concentrate, emphasize, astronomy
+- **8회 · 원문 DAY 4**: flood, fuel, manufacture, movement, capable, combine, gene, threat, victim, pressure, accompany, frustrate, construct, launch, commerce, entertain, predict, apologize, sight, quantity
+- **9회 · 원문 DAY 5**: conclude, donate, personality, struggle, advantage, variety, enable, instruction, assume, attempt, incredible, feature, confuse, electronic, absorb, indicate, analyze, stock, resident, labor
+- **10회 · 원문 DAY 5**: remark, moral, embarrassed, claim, reasonable, interrupt, limit, creature, heal, establish, revolution, criticize, convince, efficient, stranger, tide, obtain, assist, disaster, terrific
+- **11회 · 원문 DAY 6**: specific, react, independent, theory, qualify, consider, recall, risk, treatment, engage, motivate, clue, resource, probable, depress, fascinate, violent, alarm, edge, deserve
+- **12회 · 원문 DAY 6**: route, psychology, passion, import, purchase, conscience, pose, length, severe, decade, occupy, acquire, interact, brief, observe, poetry, salary, grain, skip, meaningful
+- **13회 · 원문 DAY 7**: survival, comment, leap, plain, typical, mere, mechanic, mood, approve, rural, finance, seek, operation, crime, awful, series, exhausted, absolute, surround, display
+- **14회 · 원문 DAY 7**: policy, mass, committee, accurate, arrange, facility, consult, refer, attach, recover, reward, enormous, domestic, wealth, elementary, gap, except, journey, survey, downtown
+- **15회 · 원문 DAY 8**: previous, produce, remain, entitle, slight, include, delay, file, ethic, instant, reveal, suppose, leisure, urban, witness, admit, muscle, device, borrow, owe
+- **16회 · 원문 DAY 8**: intend, aspect, potential, award, preserve, spot, underground, consequence, target, spark, accomplish, adopt, unique, slip, civilization, row, horizon, atmosphere, label, decorate
+- **17회 · 원문 DAY 9**: identify, standard, scale, evident, seldom, secretary, basis, automatic, region, empower, addict, disappoint, artificial, possess, rid, realistic, encounter, differ, principle, memorize
+- **18회 · 원문 DAY 9**: physics, evaluate, tremendous, application, vote, spread, impact, cooperate, emit, request, guarantee, resist, fulfill, stink, grant, rely, permanent, emergency, substance, theme
+- **19회 · 원문 DAY 10**: hesitate, location, restrict, organism, interpret, offer, distribute, rainforest, circumstance, resolve, suitable, curve, annoy, frighten, estimate, refuse, adventure, entrance, persuade, perceive
+- **20회 · 원문 DAY 10**: recite, rub, cabin, gear, ray, release, rank, symphony, envy, corporate, alternative, retire, appeal, identical, investment, autograph, slave, harm, authority, innocence
+- **21회 · 원문 DAY 11**: receive, infant, calculate, charity, accept, depend, whereas, broad, treat, ignorant, pure, extinct, household, refund, continue, institute, lately, ashamed, dense, rescue
+- **22회 · 원문 DAY 11**: destination, expand, compete, evolution, hire, genuine, status, military, logic, gravity, isolate, commit, sum, conserve, concept, swing, sensible, marriage, reproduce, tone
+- **23회 · 원문 DAY 12**: cancel, return, invitation, precise, formal, apparent, departure, visual, current, agriculture, leak, portion, trend, particle, rite, distinct, component, poverty, sculpture, descend
+- **24회 · 원문 DAY 12**: universal, surface, eager, legal, annual, trap, demonstrate, companion, democracy, mature, brilliant, faith, aim, spare, transfer, oppose, desperate, remote, offend, awake
+- **25회 · 원문 DAY 13**: option, insight, achieve, civil, pause, prove, lecture, minor, duty, vigor, organize, chief, complicated, digest, shortage, laboratory, stream, forbid, laundry, transform
+- **26회 · 원문 DAY 13**: discipline, generous, ultimate, thrive, fiction, bet, royal, ruin, worship, evil, scarce, afterward, client, insure, fancy, surgery, assign, regulate, mindset, utility
+- **27회 · 원문 DAY 14**: necessity, yield, decline, apply, aside, contemporary, bless, explain, prior, tolerate, measure, abstract, cottage, correct, confirm, imitate, prey, defeat, illustrate, fuse
+- **28회 · 원문 DAY 14**: pupil, intellect, spice, tempt, inspire, dine, literally, appropriate, resort, grab, propose, wreck, document, suspect, alien, prohibit, install, triumph, scholarship, execute
+- **29회 · 원문 DAY 15**: ensure, receipt, defect, trait, modest, virtual, compare, address, inner, contrary, split, supervise, inhabit, appear, commute, earthquake, enroll, debate, abandon, conquer
+- **30회 · 원문 DAY 15**: nevertheless, seal, greed, contract, nutrition, retail, prejudice, register, agency, nurture, priest, elegant, impose, arise, attack, masterpiece, harsh, drought, criteria, extraordinary
+- **31회 · 원문 DAY 16**: general, spill, usual, routine, eliminate, deny, scream, sensitive, swallow, glare, tragic, deprive, conscious, interfere, temporary, council, adolescent, associate, arctic, capture
+- **32회 · 원문 DAY 16**: dilute, figure, dim, neighbor, crew, barrier, tradition, pedestrian, glance, irritate, cruel, fold, trial, tribe, profound, distinguish, errand, welfare, statement, prevail
+- **33회 · 원문 DAY 17**: widespread, result, fade, progress, weapon, drastic, reinforcement, wonder, pile, protect, infection, stiffen, endanger, adjust, peer, renew, germ, atom, realize, enrich
+- **34회 · 원문 DAY 17**: noble, repair, candidate, ideal, crop, ethnic, foretell, wholesale, debt, representative, shift, fame, strict, appliance, furthermore, command, ecosystem, excess, oral, drift
+- **35회 · 원문 DAY 18**: solar, outstanding, mislead, dedicate, crush, sink, entire, confront, beard, haste, initial, destiny, hardship, escape, valid, dispose, exist, optimal, hydrogen, perspective
+- **36회 · 원문 DAY 18**: thread, dynasty, scatter, gamble, temper, undoubtedly, raft, minimal, soak, craft, cease, review, ceiling, unify, combat, bump, primary, genre, erase, doom
+- **37회 · 원문 DAY 19**: vital, incident, session, obvious, moderate, budget, graze, fragile, myth, ingredient, indifferent, strain, nutrient, dismiss, geometry, glacier, urge, celebrity, antique, profit
+- **38회 · 원문 DAY 19**: sphere, inherit, editorial, crawl, scratch, diabetes, congestion, constitute, flow, investigate, barter, circular, chilly, ancestor, fierce, vague, rough, content, obstacle, disgrace
+- **39회 · 원문 DAY 20**: abolish, assure, form, gender, innovation, opponent, present, fertile, emperor, dwell, chore, grateful, fossil, glitter, miserable, portray, protein, backward, translate, refresh
+- **40회 · 원문 DAY 20**: tissue, lord, remove, scan, pottery, layer, property, justify, polish, flavor, ceremony, relate, strive, radiant, exclaim, asset, decay, administer, wage, subscribe
+- **41회 · 원문 DAY 21**: merit, dwindle, conference, accuse, enhance, intimate, reception, overwhelm, coincidence, majesty, shrug, vicious, cherish, eternal, shrink, colleague, transmit, discard, copper, orbit
+- **42회 · 원문 DAY 21**: famine, pill, immune, raw, superior, string, cope, loan, obedient, procedure, bond, angle, subtle, depict, radical, caution, persist, reverse, stuff, therapy
+- **43회 · 원문 DAY 22**: skeleton, strategy, attract, hence, architecture, handle, wilderness, category, funeral, prefer, outcome, humiliation, ban, flush, omit, despair, alert, compact, likewise, astonish
+- **44회 · 원문 DAY 22**: panic, optimistic, murder, fundamental, loyal, humid, pretend, graduate, delicate, inflate, adequate, physician, joint, via, passage, vessel, restore, passive, marble, classify
+- **45회 · 원문 DAY 23**: prepare, transaction, sufficient, stable, concern, sympathy, principal, by-product, anxiety, edible, federal, suffer, casual, tablet, trade, liquid, characteristic, anticipate, outlook, desert
+- **46회 · 원문 DAY 23**: infinite, roam, decent, behalf, distortion, bud, symbolic, municipal, phenomenon, devote, peasant, diminish, jealous, exclude, flexible, tenant, worthwhile, pavement, nominate, sacred
+- **47회 · 원문 DAY 24**: support, revise, suggest, control, mammal, internal, resent, abrupt, diverse, refine, dynamic, nerve, prompt, suspend, industry, iceberg, monetary, judge, gloom, distraction
+- **48회 · 원문 DAY 24**: collapse, trigger, martial, monologue, deliberate, plot, rod, partial, mutual, priceless, fate, pursue, Atlantic, weird, booth, prescribe, erupt, insult, gaze, supreme
+- **49회 · 원문 DAY 25**: context, complete, race, dominate, vehicle, complain, brochure, force, nest, gain, curriculum, sew, masculine, frown, astound, dictator, assessment, crucial, paralysis, deck
+- **50회 · 원문 DAY 25**: cheer, carve, tease, aggressive, cure, attribute, foster, psychologist, postpone, rob, abuse, bystander, breakdown, disguise, blueprint, rear, output, sermon, sprout, tin
+- **51회 · 원문 DAY 26**: reform, deal, recruit, maintain, workshop, patient, convention, devastate, reap, overlook, deliver, reject, nourish, bay, stun, particular, bulletin, fluid, affair, dawn
+- **52회 · 원문 DAY 26**: hostile, contend, respect, await, concrete, satisfy, literate, variable, lease, rule, perseverance, fatal, substitute, invert, tension, reign, crack, startle, discourage, compensate
+- **53회 · 원문 DAY 27**: convert, strike, suppress, core, contribute, spear, renowned, era, withdraw, separate, dignity, notify, animate, prevent, bilingual, mischief, discriminate, exemplify, adhere, superb
+- **54회 · 원문 DAY 27**: peculiar, sake, choke, folktale, simultaneously, range, groom, supernatural, tender, instinct, gigantic, meditate, mow, evolve, chase, afflict, empirical, coherent, intolerable, fountain
+- **55회 · 원문 DAY 28**: bold, compliment, summit, troop, alter, conceive, durability, destroy, shallow, face, promote, weep, grasp, overall, superstition, colony, absurd, conduct, dormitory, prone
+- **56회 · 원문 DAY 28**: conceal, retreat, compulsive, clinic, banner, formulate, vow, malnutrition, heritage, undergo, boast, neutral, stain, incentive, float, tendency, applause, wrestle, sensation, Confucian
+- **57회 · 원문 DAY 29**: draft, crude, supplement, velocity, tame, adapt, manage, dismay, diagnose, molecule, reservoir, conform, spacious, weave, boundary, motive, tangible, prominent, rigid, archaeology
+- **58회 · 원문 DAY 29**: subtract, breed, utmost, proficient, accumulate, embody, equity, violate, ambitious, intact, impulse, attend, trim, navigate, remedy, consist, imprint, modify, confine, dispatch
+- **59회 · 원문 DAY 30**: diameter, anecdote, spatial, blame, geology, pledge, cost, earn, detect, temperate, soar, mock, disclose, exhibit, symptom, invent, awkward, grind, expose, closet
+- **60회 · 원문 DAY 30**: damp, script, signify, discuss, sibling, lay, surveillance, discharge, thorough, undertake, panel, linguistic, flourish, feed, sophomore, remind, sole, pillar, explode, illusion
+- **61회 · 원문 DAY 31**: regret, submit, divine, revenue, corrupt, mention, factual, swamp, expedition, abnormal, storage, revive, equator, motion, patent, virtue, arithmetic, consistent, cognitive, hinder
+- **62회 · 원문 DAY 31**: humble, bounce, imprison, enlist, carbon, upcoming, trace, pulse, locate, controversy, flattery, regard, convenience, hygiene, rush, contaminate, external, herd, allocate, gorgeous
+- **63회 · 원문 DAY 32**: confess, subjective, trivial, acknowledge, accord, immense, extract, sewage, reconciliation, explore, warrant, complement, ceramic, license, emerge, halt, pierce, ponder, burglar, stroke
+- **64회 · 원문 DAY 32**: lottery, certificate, transplant, cluster, plea, derive, plague, ultrasound, deluxe, convey, depth, evaporate, lame, intelligence, sour, repetitive, oppress, leftover, embrace, blade
+- **65회 · 원문 DAY 33**: abundant, duplicate, spoil, altitude, glimpse, blend, swell, grief, beverage, warrior, shrub, slice, exotic, arrogant, vanish, outbreak, accommodate, cozy, recommend, auction
+- **66회 · 원문 DAY 33**: obsess, suitor, rational, discreet, pioneer, assert, undo, inevitable, elaborate, toss, retain, maximize, buildup, machinery, sacrifice, auditorium, linger, neglect, feedback, radioactive
+- **67회 · 원문 DAY 34**: impair, metaphor, predominant, bruise, attorney, sanitation, heredity, naive, shed, metropolitan, shield, ecology, coverage, expel, plow, prolong, fluent, margin, induce, interior
+- **68회 · 원문 DAY 34**: ornament, probe, vibrate, speculate, versus, pregnant, epidemic, precede, breathtaking, foundation, stimulate, fabric, overturn, ripe, framework, urgent, settle, conflict, vapor, tuition
+- **69회 · 원문 DAY 35**: literature, compound, quote, inhale, prospect, anchor, asymmetry, loop, withstand, implement, anonymous, collide, memorial, vacant, technical, thrill, wander, proportion, antibiotic, overtake
+- **70회 · 원문 DAY 35**: resemble, orchard, compassion, preoccupation, paste, provoke, wicked, sprain, sequence, stool, disrupt, solitary, bury, rust, fad, referee, sector, boost, gymnastics, gross
+- **71회 · 원문 DAY 36**: last, tariff, beloved, lyric, yeast, skyscraper, inquire, spade, vacuum, migrate, spectacle, surplus, simulate, integration, hypothesis, affirm, fortress, reed, cue, mole
+- **72회 · 원문 DAY 36**: divide, inborn, overlap, fatigue, clone, peel, ease, overcome, fund, bias, vaccine, tread, vomit, prophecy, correspond, cling, mutation, obscure, tyrant, odd
+- **73회 · 원문 DAY 37**: intriguing, constrict, bundle, enclose, insert, keen, restrain, aid, reputation, measurement, originate, flour, manipulate, experiment, patriot, interchange, intuitive, garment, spontaneous, vertical
+- **74회 · 원문 DAY 37**: testify, mentor, vivid, pasture, crust, comprehend, plunge, nasty, appreciate, strip, deed, skinny, grill, canal, curse, adverse, censorship, leverage, appetite, flaw
+- **75회 · 원문 DAY 38**: outgoing, verbal, liberate, academic, advance, contemplate, underlying, segregation, stem, irrigation, consecutive, superficial, refuge, swear, allergy, norm, endeavor, erect, feminine, drowsy
+- **76회 · 원문 DAY 38**: inspect, carriage, primitive, compress, steep, cemetery, transport, exaggerate, random, feast, commemorate, govern, multitask, toxic, stare, chronic, designate, dramatic, intense, propaganda
+- **77회 · 원문 DAY 39**: numerous, shiver, retarded, belonging, improvise, executive, chaos, microscope, ongoing, vulnerable, implication, alley, authentic, compel, transition, mobility, incline, attain, innate, ingenuity
+- **78회 · 원문 DAY 39**: upset, stretch, seize, screw, shelter, province, coordinate, deficient, privilege, preview, slogan, savage, throughout, outlaw, squeeze, breakthrough, consent, orphan, negotiate, nuisance
+- **79회 · 원문 DAY 40**: recipe, deceive, sweep, profile, enterprise, successive, paradox, surpass, correlation, magnitude, aesthetics, earnest, tremble, slaughter, surrender, philosophy, deplete, admire, starvation, summon
+- **80회 · 원문 DAY 40**: afford, blunt, sprint, passerby, tense, boil, timber, collaborate, stance, blow, ballot, resilience, acquaintance, amplify, contradict, burst, cast, falsify, psychic, paddle
+- **81회 · 원문 DAY 41**: steer, affection, bid, compost, temperament, rent, shred, unpredictable, tribute, artery, inherent, harass, narrative, assemble, spike, sneak, sophisticated, territory, enlightenment, cosmetic
+- **82회 · 원문 DAY 41**: gracious, aspire, obstruct, patrol, accelerate, heatstroke, oval, veteran, trail, vocation, vegetarian, decode, fellow, mandate, perish, inseparable, domain, statesman, connotation, stereotype
+- **83회 · 원문 DAY 42**: hollow, structural, mortgage, inject, crisis, painkiller, illuminate, mimic, unearth, wail, lessen, stride, applicant, disprove, disturb, hemisphere, recur, elastic, counterpart, stubborn
+- **84회 · 원문 DAY 42**: suicide, lure, indigenous, morale, examine, compromise, yearn, precaution, torture, entrust, sway, religious, obligation, pest, foremost, incorporate, regime, terminate, rebel, meanwhile
+- **85회 · 원문 DAY 43**: folklore, vast, preliminary, theft, proliferation, amend, recess, exploit, autonomy, outfit, mourn, evoke, burden, latitude, patch, maternal, pharmacy, marine, prestigious, friction
+- **86회 · 원문 DAY 43**: defend, fraud, easygoing, insomnia, intermediate, shatter, paradigm, charge, rapid, premature, pollute, altruism, fiber, irony, spectator, medieval, analogy, snatch, anthropology, outline
+- **87회 · 원문 DAY 44**: equivalent, composure, incurable, parallel, indulge, meadow, venture, deflect, adorable, complacent, explicit, sturdy, primate, patron, endure, manifest, imperial, duration, populate, frugal
+- **88회 · 원문 DAY 44**: aristocrat, rejoice, comprise, textile, lurk, humanity, approximate, revenge, sarcastic, terrain, toll, warfare, mortal, spouse, crispy, statistical, rubbish, stimulus, clumsy, subsequent
+- **89회 · 원문 DAY 45**: relevant, predator, drain, countless, condense, post, poise, disciple, gust, collective, scope, compatible, border, frontier, withhold, verdict, stall, apparatus, hail, outburst
+- **90회 · 원문 DAY 45**: vanity, firsthand, obesity, dilemma, render, indispensable, outdated, bother, counteract, static, sustain, posture, discourse, bribe, juggle, perspiration, retention, outrage, distress, nursery
+- **91회 · 원문 DAY 46**: encircle, notion, disgust, fragment, oversee, creep, clarify, contagious, deterioration, currency, janitor, blush, intervene, nomad, cuisine, dare, solvent, cultivate, ascent, advocate
+- **92회 · 원문 DAY 46**: spur, discern, scheme, weigh, publicity, declare, brisk, exile, whisper, unanimous, deviation, dissolve, constraint, itch, fling, delude, dehydrate, underneath, metabolism, appoint
+- **93회 · 원문 DAY 47**: pinch, punctual, arbitrary, catastrophe, exert, aviate, headquarters, rectangular, delegate, elect, thorn, empathize, expertise, renovate, wrench, interval, degrade, retort, shudder, realm
+- **94회 · 원문 DAY 47**: segment, coexist, hospitality, estate, displace, cripple, drawback, tactics, dread, dispute, console, stack, cynical, reprove, verify, engross, bulk, despise, manuscript, flee
+- **95회 · 원문 DAY 48**: prehistoric, barrel, predecessor, alienate, proclaim, subordinate, furnish, fume, staple, dimension, dispersal, eloquent, innermost, hazardous, skull, detergent, brutal, rash, bypass, dispense
+- **96회 · 원문 DAY 48**: tact, monotonous, perpetual, eligible, legacy, melancholy, simplicity, hierarchy, overload, enact, burnout, legitimate, shuffle, summarize, eject, intersection, quest, linear, landslide, plausible
+- **97회 · 원문 DAY 49**: endow, extrinsic, merge, frantic, moan, merchandise, respectively, subdue, conviction, stout, reckon, enchant, entail, demolish, degenerate, sentiment, offspring, detest, tackle, defy
+- **98회 · 원문 DAY 49**: inference, refraction, dusk, detach, antagonist, thrust, creed, equate, misplace, auditory, missionary, cosmopolitan, secondhand, multiple, embed, propel, reptile, erosion, feat, utensil
+- **99회 · 원문 DAY 50**: penetrate, intrude, notable, grumble, landfill, scrutiny, reckless, synthetic, productive, outset, peril, rage, kidnap, liable, insane, pitfall, radius, hybrid, uncover, limb
+- **100회 · 원문 DAY 50**: setback, prudent, solidify, grudge, transcend, tangle, subsidy, ambiguous, enthusiasm, bankruptcy, pollination, prosper, phase, veterinarian, counterattack, cumulative, infrastructure, wound, discrete, fluctuation
+
+원문 철자 `vaccum`·`lagacy`는 원자료에 보존하며 현재 학습 표기는 `vacuum`·`legacy`를 사용합니다. [사용 안내](USER_GUIDE.md) · [이전 12챕터 자료](CURRICULUM_MAP.md)

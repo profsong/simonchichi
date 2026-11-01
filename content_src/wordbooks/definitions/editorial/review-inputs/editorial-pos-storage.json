@@ -1,0 +1,344 @@
+[
+  {
+    "entryId": "suneung-2000-row-0291",
+    "headword": "reveal",
+    "koreanMeaning": "드러내다; 폭로하다, 밝히다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=reveal",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 02143283-v, 00933821-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0330",
+    "headword": "empower",
+    "koreanMeaning": "권한을 주다; 능력을 부여하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=empower",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 02473981-v, 02474239-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0374",
+    "headword": "frighten",
+    "koreanMeaning": "겁먹게 하다, 놀라게 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=frighten",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 01779165-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0390",
+    "headword": "corporate",
+    "koreanMeaning": "기업의, 법인의; 공동의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=corporate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 02984781-a, 02112701-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0413",
+    "headword": "household",
+    "koreanMeaning": "가정, 가구(함께 사는 사람들)",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=household",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 08078020-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0431",
+    "headword": "isolate",
+    "koreanMeaning": "고립시키다; 분리하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=isolate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 00494269-v, 00496770-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0597",
+    "headword": "harsh",
+    "koreanMeaning": "가혹한; 거친, 불쾌한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=harsh",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 01803583-a, 01803792-a, 02230990-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0682",
+    "headword": "outstanding",
+    "koreanMeaning": "뛰어난, 두드러진; 미지불된",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=outstanding",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 02343762-a, 00580805-a, 01710543-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0775",
+    "headword": "miserable",
+    "koreanMeaning": "비참한, 몹시 불행한; 불쌍한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=miserable",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 01150205-a, 01050890-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0875",
+    "headword": "passage",
+    "koreanMeaning": "통과, 경과; 글의 한 구절; 통로",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=passage",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 00201058-n, 06400271-n, 03895293-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0879",
+    "headword": "marble",
+    "koreanMeaning": "대리석; 구슬",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=marble",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 14947807-n, 03721047-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0903",
+    "headword": "decent",
+    "koreanMeaning": "품위 있는; 예의 바른",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=decent",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 01993408-a, 01878870-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0947",
+    "headword": "rod",
+    "koreanMeaning": "막대, 봉",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=rod",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 04100174-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0975",
+    "headword": "astound",
+    "koreanMeaning": "몹시 놀라게 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=astound",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 00724832-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1271",
+    "headword": "depth",
+    "koreanMeaning": "깊이; 심오함",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=depth",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 05134547-n, 05094725-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1418",
+    "headword": "reed",
+    "koreanMeaning": "갈대",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=reed",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 12136720-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1675",
+    "headword": "foremost",
+    "koreanMeaning": "최고의, 가장 중요한; 맨 앞의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=foremost",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 00228294-a, 00198610-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1699",
+    "headword": "prestigious",
+    "koreanMeaning": "명망 있는, 권위 있는",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=prestigious",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 01982957-a, 01830703-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1973",
+    "headword": "kidnap",
+    "koreanMeaning": "납치하다, 유괴하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=kidnap",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "원본 일괄 사전의 품사 또는 드문 뜻을 그대로 쓰지 않고 WordNet 영어 정의에서 일반적인 뜻을 선별하여 한국어로 편집했습니다. 확인한 synset: 01471043-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  }
+]

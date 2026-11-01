@@ -1,0 +1,737 @@
+[
+  {
+    "entryId": "suneung-2000-row-0120",
+    "headword": "dental",
+    "koreanMeaning": "치아의; 치과의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=dental",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 07115493-n, 02711098-a, 02711194-a"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0153",
+    "headword": "construct",
+    "koreanMeaning": "건설하다; 구성하다; 도형을 작도하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=construct",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 05835747-n, 01654628-v, 01653442-v, 01583142-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0162",
+    "headword": "donate",
+    "koreanMeaning": "기부하다; 기증하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=donate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 02263027-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0167",
+    "headword": "enable",
+    "koreanMeaning": "~할 수 있게 하다; 가능하게 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=enable",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 00512877-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0180",
+    "headword": "labor",
+    "koreanMeaning": "노동; 일; 노동하다; 애쓰다",
+    "partOfSpeech": "noun, verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=labor",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 08180639-n, 00620752-n, 14048441-n, 02406916-v, 02419773-v, 00057506-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0185",
+    "headword": "reasonable",
+    "koreanMeaning": "합리적인; 타당한; 가격이 적당한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=reasonable",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 01943406-a, 01532261-a, 01926229-a"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0200",
+    "headword": "terrific",
+    "koreanMeaning": "아주 멋진; 굉장한; 무서운",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=terrific",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 01513619-a, 01676517-a, 00196449-a"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0217",
+    "headword": "violent",
+    "koreanMeaning": "폭력적인; 격렬한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=violent",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 02510879-a, 01570747-a, 01514141-a"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0246",
+    "headword": "mere",
+    "koreanMeaning": "단지 ~에 불과한; 순전한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=mere",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 09351547-n, 01099707-a, 01792573-a"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0257",
+    "headword": "exhausted",
+    "koreanMeaning": "기진맥진한; 다 써 버린; 고갈된",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=exhausted",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 02433451-a, 00926141-a, 01088881-a"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0289",
+    "headword": "ethic",
+    "koreanMeaning": "윤리; 도덕 원칙",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=ethic",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 05956019-n, 06663617-n"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0368",
+    "headword": "rainforest",
+    "koreanMeaning": "우림; 열대 우림",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=rainforest",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 08439126-n"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0407",
+    "headword": "whereas",
+    "koreanMeaning": "반면에; ~인 데 반하여",
+    "partOfSpeech": "conjunction",
+    "definitionProvenance": [
+      {
+        "sourceId": "en-wiktionary",
+        "url": "https://en.wiktionary.org/wiki/whereas#Conjunction",
+        "license": "CC-BY-SA-4.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "접속사의 대조 의미를 확인하고 한국어로 옮김. 법률 문서의 특수 용법과 옛 부사 용법은 대표 뜻에서 제외함."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0439",
+    "headword": "reproduce",
+    "koreanMeaning": "복제하다; 재현하다; 번식하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=reproduce",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 01736822-v, 00055142-v, 01737141-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0448",
+    "headword": "visual",
+    "koreanMeaning": "시각의; 눈에 보이는",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=visual",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 02869563-a, 02516148-a"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0514",
+    "headword": "insure",
+    "koreanMeaning": "보험에 들다; 보험을 들게 하다; 보장하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=insure",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 00662589-v, 00890590-v, 00891216-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0519",
+    "headword": "mindset",
+    "koreanMeaning": "사고방식; 마음가짐",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=mindset",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 06195839-n"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0577",
+    "headword": "enroll",
+    "koreanMeaning": "등록하다; 입학 수속을 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=enroll",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 02471327-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0624",
+    "headword": "neighbor",
+    "koreanMeaning": "이웃; 이웃 사람; 이웃하다",
+    "partOfSpeech": "noun, verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=neighbor",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 10352299-n, 09368224-n, 02608176-v, 02608004-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0652",
+    "headword": "stiffen",
+    "koreanMeaning": "뻣뻣해지다; 굳게 하다; 강화하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=stiffen",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 00418563-v, 00417596-v, 00418765-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0653",
+    "headword": "endanger",
+    "koreanMeaning": "위험에 빠뜨리다; 위태롭게 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=endanger",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 02697120-v, 01036319-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0660",
+    "headword": "enrich",
+    "koreanMeaning": "풍부하게 하다; 질을 높이다; 부유하게 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=enrich",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 00171586-v, 02318648-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0680",
+    "headword": "drift",
+    "koreanMeaning": "표류; 이동; 떠다니다; 정처 없이 떠돌다",
+    "partOfSpeech": "noun, verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=drift",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 11447851-n, 13469674-n, 13469893-n, 01902783-v, 01925694-v, 01881180-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0708",
+    "headword": "minimal",
+    "koreanMeaning": "최소한의; 아주 적은",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=minimal",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 01496021-a"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0714",
+    "headword": "unify",
+    "koreanMeaning": "통일하다; 통합하다; 하나가 되다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=unify",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 00367685-v, 01462005-v, 02603056-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0720",
+    "headword": "doom",
+    "koreanMeaning": "나쁜 운명; 파멸; 파멸로 이끌다",
+    "partOfSpeech": "noun, verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=doom",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 07334206-n, 00746479-v, 00906735-v, 00890855-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0778",
+    "headword": "backward",
+    "koreanMeaning": "뒤로; 거꾸로; 뒤쪽의",
+    "partOfSpeech": "adjective, adverb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=backward",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 00201354-a, 00204077-a, 01840673-a, 00074407-r, 00075966-r, 00074201-r"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0792",
+    "headword": "relate",
+    "koreanMeaning": "관련되다; 연관 짓다; 이야기하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=relate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 00713167-v, 02676054-v, 00953058-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0802",
+    "headword": "dwindle",
+    "koreanMeaning": "점점 줄어들다; 감소하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=dwindle",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 00267681-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0805",
+    "headword": "enhance",
+    "koreanMeaning": "높이다; 향상시키다; 더 매력적으로 만들다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=enhance",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 00229605-v, 00230033-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0847",
+    "headword": "wilderness",
+    "koreanMeaning": "황야; 사람이 살지 않는 자연 지역",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=wilderness",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 14413831-n, 09479424-n, 08683548-n"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0888",
+    "headword": "by-product",
+    "koreanMeaning": "부산물; 부수적으로 생기는 결과",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=by-product",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 11412592-n, 02930492-n"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0905",
+    "headword": "distortion",
+    "koreanMeaning": "왜곡; 뒤틀림; 일그러짐",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=distortion",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 07433973-n, 13867276-n, 11420139-n, 00073713-n, 00751529-n"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0907",
+    "headword": "symbolic",
+    "koreanMeaning": "상징적인; 기호의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=symbolic",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 02806907-a, 01982186-a, 02807163-a"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0917",
+    "headword": "worthwhile",
+    "koreanMeaning": "가치 있는; 시간과 노력을 들일 만한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=worthwhile",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 02587936-a"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0927",
+    "headword": "resent",
+    "koreanMeaning": "분개하다; 못마땅하게 여기다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=resent",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 01773346-v, 01825125-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0939",
+    "headword": "gloom",
+    "koreanMeaning": "어둠; 우울함; 침울한 분위기",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=gloom",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 13985462-n, 07533257-n, 14525365-n"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0940",
+    "headword": "distraction",
+    "koreanMeaning": "주의를 흩뜨리는 것; 산만함; 기분 전환",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=distraction",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 05684440-n, 05706547-n, 00515414-n"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0953",
+    "headword": "Atlantic",
+    "koreanMeaning": "대서양; 대서양의",
+    "partOfSpeech": "noun, adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=atlantic",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 09209263-n, 02946507-a"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0957",
+    "headword": "erupt",
+    "koreanMeaning": "화산이 분출하다; 폭발하다; 갑자기 발생하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=erupt",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 00345508-v, 00307785-v, 02760622-v, 00307568-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1010",
+    "headword": "overlook",
+    "koreanMeaning": "간과하다; 내려다보다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=overlook",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 08614104-n, 02166361-v, 02721966-v, 00614999-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1013",
+    "headword": "nourish",
+    "koreanMeaning": "영양을 공급하다; 기르다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=nourish",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 01202728-v, 01204191-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1027",
+    "headword": "literate",
+    "koreanMeaning": "글을 읽고 쓸 줄 아는; 특정 분야에 소양이 있는",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=literate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 10266328-n, 01421602-a, 01421077-a, 00830381-a"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1029",
+    "headword": "lease",
+    "koreanMeaning": "임대; 임대차 계약; 임대하다; 임차하다",
+    "partOfSpeech": "noun, verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=lease",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 13248393-n, 06523132-n, 15274863-n, 02460199-v, 02460619-v, 02208903-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1034",
+    "headword": "invert",
+    "koreanMeaning": "뒤집다; 순서나 위치를 거꾸로 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=invert",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 00387153-v, 00386965-v, 00386715-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1039",
+    "headword": "discourage",
+    "koreanMeaning": "낙담시키다; 의욕을 꺾다; 하지 못하게 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=discourage",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 00908099-v, 01819147-v, 00870577-v"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1053",
+    "headword": "animate",
+    "koreanMeaning": "생기를 불어넣다; 살아 움직이게 하다; 살아 있는",
+    "partOfSpeech": "verb, adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=animate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 01812720-v, 00547995-v, 00192836-v, 00120252-a, 00118066-a, 00117385-a"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1057",
+    "headword": "discriminate",
+    "koreanMeaning": "구별하다; 차별하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=discriminate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 00650016-v, 02512305-v, 02193765-v, 00773579-a"
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1058",
+    "headword": "exemplify",
+    "koreanMeaning": "예를 들어 설명하다; 좋은 본보기가 되다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=exemplify",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 확인하여 일상·학습 맥락의 대표 뜻을 한국어로 옮김. 검토한 synset: 02723733-v, 01021128-v"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1030 @@
+{
+  "schemaVersion": 4,
+  "contentVersion": "1.0.0-12week-draft",
+  "appMode": "learner",
+  "exportedAt": "2026-11-01T11:51:55.110Z",
+  "attempts": [
+    {
+      "attemptId": "quest-2026-11-01:course:advanced-300:recognition:v-adapt-sense1:first",
+      "sessionId": "quest-2026-11-01",
+      "questionId": "course:advanced-300:recognition:v-adapt-sense1",
+      "entityId": "v-adapt-sense1",
+      "entityType": "vocab",
+      "mode": "recognition",
+      "answer": "1",
+      "isCorrect": true,
+      "usedHint": false,
+      "firstTry": true,
+      "responseMs": 67,
+      "completedAt": "2026-11-01T11:51:54.908Z",
+      "localDay": "2026-11-01"
+    }
+  ],
+  "reviews": [
+    {
+      "entityId": "v-adapt-sense1",
+      "stage": 1,
+      "dueDay": "2026-11-02",
+      "correctDays": [
+        "2026-11-01"
+      ],
+      "activeRecallCorrectDays": [],
+      "inContextCorrectDays": [],
+      "delayedSuccess": false,
+      "mastered": false,
+      "lastSuccessDay": "2026-11-01",
+      "lastAttemptAt": "2026-11-01T11:51:54.908Z"
+    },
+    {
+      "entityId": "v-adequate-sense1",
+      "stage": 1,
+      "dueDay": "2026-11-02",
+      "correctDays": [],
+      "activeRecallCorrectDays": [],
+      "inContextCorrectDays": [],
+      "delayedSuccess": false,
+      "mastered": false
+    },
+    {
+      "entityId": "v-advocate-sense1",
+      "stage": 1,
+      "dueDay": "2026-11-02",
+      "correctDays": [],
+      "activeRecallCorrectDays": [],
+      "inContextCorrectDays": [],
+      "delayedSuccess": false,
+      "mastered": false
+    },
+    {
+      "entityId": "v-alter-sense1",
+      "stage": 1,
+      "dueDay": "2026-11-02",
+      "correctDays": [],
+      "activeRecallCorrectDays": [],
+      "inContextCorrectDays": [],
+      "delayedSuccess": false,
+      "mastered": false
+    },
+    {
+      "entityId": "v-anticipate-sense1",
+      "stage": 1,
+      "dueDay": "2026-11-02",
+      "correctDays": [],
+      "activeRecallCorrectDays": [],
+      "inContextCorrectDays": [],
+      "delayedSuccess": false,
+      "mastered": false
+    }
+  ],
+  "sessions": [
+    {
+      "sessionId": "quest-2026-11-01",
+      "localDay": "2026-11-01",
+      "planId": "course:advanced-300:stage:001",
+      "contentVersion": "1.0.0-12week-draft",
+      "appMode": "learner",
+      "steps": [
+        {
+          "id": "course:advanced-300:preview:v-adapt-sense1",
+          "entityId": "v-adapt-sense1",
+          "entityType": "vocab",
+          "phase": "review",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "adapt",
+          "prompt": "먼저 만나기 · 적응하다",
+          "explanation": "적응하다",
+          "english": "Animals must adapt when their environment changes.",
+          "translation": "동물은 환경이 변할 때 적응해야 한다.",
+          "collocations": [
+            "adapt to change"
+          ],
+          "estimatedSeconds": 8
+        },
+        {
+          "id": "course:advanced-300:preview:v-adequate-sense1",
+          "entityId": "v-adequate-sense1",
+          "entityType": "vocab",
+          "phase": "review",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "adequate",
+          "prompt": "먼저 만나기 · 충분한",
+          "explanation": "충분한",
+          "english": "We had adequate time to finish the project.",
+          "translation": "우리는 프로젝트를 마칠 충분한 시간이 있었다.",
+          "collocations": [
+            "adequate preparation"
+          ],
+          "estimatedSeconds": 8
+        },
+        {
+          "id": "course:advanced-300:preview:v-advocate-sense1",
+          "entityId": "v-advocate-sense1",
+          "entityType": "vocab",
+          "phase": "review",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "advocate",
+          "prompt": "먼저 만나기 · 옹호하다",
+          "explanation": "옹호하다",
+          "english": "Some students advocate longer library hours.",
+          "translation": "일부 학생들은 도서관 운영 시간 연장을 옹호한다.",
+          "collocations": [
+            "advocate reform"
+          ],
+          "estimatedSeconds": 8
+        },
+        {
+          "id": "course:advanced-300:preview:v-alter-sense1",
+          "entityId": "v-alter-sense1",
+          "entityType": "vocab",
+          "phase": "review",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "alter",
+          "prompt": "먼저 만나기 · 바꾸다",
+          "explanation": "바꾸다",
+          "english": "A small change can alter the final result.",
+          "translation": "작은 변화가 최종 결과를 바꿀 수 있다.",
+          "collocations": [
+            "alter a plan"
+          ],
+          "estimatedSeconds": 8
+        },
+        {
+          "id": "course:advanced-300:preview:v-anticipate-sense1",
+          "entityId": "v-anticipate-sense1",
+          "entityType": "vocab",
+          "phase": "review",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "anticipate",
+          "prompt": "먼저 만나기 · 예상하다",
+          "explanation": "예상하다",
+          "english": "The organizers anticipated a large crowd.",
+          "translation": "주최 측은 많은 인파를 예상했다.",
+          "collocations": [
+            "anticipate a problem"
+          ],
+          "estimatedSeconds": 8
+        },
+        {
+          "id": "course:advanced-300:study:v-adapt-sense1",
+          "entityId": "v-adapt-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "adapt",
+          "prompt": "적응하다",
+          "explanation": "적응하다",
+          "english": "Animals must adapt when their environment changes.",
+          "translation": "동물은 환경이 변할 때 적응해야 한다.",
+          "collocations": [
+            "adapt to change"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-adapt-sense1",
+          "entityId": "v-adapt-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘adapt’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "갈등",
+            "적응하다",
+            "나타나다",
+            "목표"
+          ],
+          "correctIndex": 1,
+          "explanation": "adapt: 적응하다",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-adequate-sense1",
+          "entityId": "v-adequate-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "adequate",
+          "prompt": "충분한",
+          "explanation": "충분한",
+          "english": "We had adequate time to finish the project.",
+          "translation": "우리는 프로젝트를 마칠 충분한 시간이 있었다.",
+          "collocations": [
+            "adequate preparation"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-adequate-sense1",
+          "entityId": "v-adequate-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘adequate’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "인지하다",
+            "결과",
+            "강조하다",
+            "충분한"
+          ],
+          "correctIndex": 3,
+          "explanation": "adequate: 충분한",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-advocate-sense1",
+          "entityId": "v-advocate-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "advocate",
+          "prompt": "옹호하다",
+          "explanation": "옹호하다",
+          "english": "Some students advocate longer library hours.",
+          "translation": "일부 학생들은 도서관 운영 시간 연장을 옹호한다.",
+          "collocations": [
+            "advocate reform"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-advocate-sense1",
+          "entityId": "v-advocate-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘advocate’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "가능하게 하다",
+            "일관된",
+            "옹호하다",
+            "관점"
+          ],
+          "correctIndex": 2,
+          "explanation": "advocate: 옹호하다",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-alter-sense1",
+          "entityId": "v-alter-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "alter",
+          "prompt": "바꾸다",
+          "explanation": "바꾸다",
+          "english": "A small change can alter the final result.",
+          "translation": "작은 변화가 최종 결과를 바꿀 수 있다.",
+          "collocations": [
+            "alter a plan"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-alter-sense1",
+          "entityId": "v-alter-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘alter’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "바꾸다",
+            "제약",
+            "마주치다",
+            "예측하다"
+          ],
+          "correctIndex": 0,
+          "explanation": "alter: 바꾸다",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-anticipate-sense1",
+          "entityId": "v-anticipate-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "anticipate",
+          "prompt": "예상하다",
+          "explanation": "예상하다",
+          "english": "The organizers anticipated a large crowd.",
+          "translation": "주최 측은 많은 인파를 예상했다.",
+          "collocations": [
+            "anticipate a problem"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-anticipate-sense1",
+          "entityId": "v-anticipate-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘anticipate’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "대조하다",
+            "예상하다",
+            "향상시키다",
+            "보존하다"
+          ],
+          "correctIndex": 1,
+          "explanation": "anticipate: 예상하다",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-apparent-sense1",
+          "entityId": "v-apparent-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "apparent",
+          "prompt": "분명해 보이는",
+          "explanation": "분명해 보이는",
+          "english": "The difference became apparent after the test.",
+          "translation": "시험 후 차이가 분명하게 드러났다.",
+          "collocations": [
+            "become apparent"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-apparent-sense1",
+          "entityId": "v-apparent-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘apparent’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "관련 있는",
+            "기여하다",
+            "설립하다",
+            "분명해 보이는"
+          ],
+          "correctIndex": 3,
+          "explanation": "apparent: 분명해 보이는",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-assess-sense1",
+          "entityId": "v-assess-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "assess",
+          "prompt": "평가하다",
+          "explanation": "평가하다",
+          "english": "The team assessed the risks before starting.",
+          "translation": "팀은 시작하기 전에 위험을 평가했다.",
+          "collocations": [
+            "assess the risk"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-assess-sense1",
+          "entityId": "v-assess-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘assess’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "내키지 않는",
+            "설득하다",
+            "평가하다",
+            "연습"
+          ],
+          "correctIndex": 2,
+          "explanation": "assess: 평가하다",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-assumption-sense1",
+          "entityId": "v-assumption-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "assumption",
+          "prompt": "가정",
+          "explanation": "가정",
+          "english": "Our plan depends on an important assumption.",
+          "translation": "우리의 계획은 중요한 가정 하나에 달려 있다.",
+          "collocations": [
+            "make an assumption"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-assumption-sense1",
+          "entityId": "v-assumption-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘assumption’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "가정",
+            "매우 중요한",
+            "명백한",
+            "중요한"
+          ],
+          "correctIndex": 0,
+          "explanation": "assumption: 가정",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-attain-sense1",
+          "entityId": "v-attain-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "attain",
+          "prompt": "달성하다",
+          "explanation": "달성하다",
+          "english": "She attained her goal through steady practice.",
+          "translation": "그녀는 꾸준한 연습을 통해 목표를 달성했다.",
+          "collocations": [
+            "attain a goal"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-attain-sense1",
+          "entityId": "v-attain-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘attain’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "확장하다",
+            "감소하다",
+            "달성하다",
+            "변형하다"
+          ],
+          "correctIndex": 2,
+          "explanation": "attain: 달성하다",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-benefit-sense1",
+          "entityId": "v-benefit-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "benefit",
+          "prompt": "이점",
+          "explanation": "이점",
+          "english": "The main benefit of cycling is regular exercise.",
+          "translation": "자전거 타기의 주요 이점은 규칙적인 운동이다.",
+          "collocations": [
+            "a major benefit"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-benefit-sense1",
+          "entityId": "v-benefit-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘benefit’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "달성하다",
+            "입증하다",
+            "노출",
+            "이점"
+          ],
+          "correctIndex": 3,
+          "explanation": "benefit: 이점",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-clarify-sense1",
+          "entityId": "v-clarify-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "clarify",
+          "prompt": "명확히 하다",
+          "explanation": "명확히 하다",
+          "english": "The diagram helped clarify the instructions.",
+          "translation": "그 도표는 설명을 명확하게 하는 데 도움이 되었다.",
+          "collocations": [
+            "clarify a point"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-clarify-sense1",
+          "entityId": "v-clarify-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘clarify’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "얻어 내다",
+            "명확히 하다",
+            "유연한",
+            "접근 방법"
+          ],
+          "correctIndex": 1,
+          "explanation": "clarify: 명확히 하다",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-coherent-sense1",
+          "entityId": "v-coherent-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "coherent",
+          "prompt": "일관성 있는",
+          "explanation": "일관성 있는",
+          "english": "Her explanation was coherent and easy to follow.",
+          "translation": "그녀의 설명은 일관성이 있고 따라가기 쉬웠다.",
+          "collocations": [
+            "a coherent argument"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-coherent-sense1",
+          "entityId": "v-coherent-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘coherent’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "생성하다",
+            "감지하다",
+            "일관성 있는",
+            "시도하다"
+          ],
+          "correctIndex": 2,
+          "explanation": "coherent: 일관성 있는",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-collapse-sense1",
+          "entityId": "v-collapse-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "collapse",
+          "prompt": "무너지다",
+          "explanation": "무너지다",
+          "english": "The old bridge might collapse during a storm.",
+          "translation": "오래된 다리는 폭풍 중 무너질 수 있다.",
+          "collocations": [
+            "collapse suddenly"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-collapse-sense1",
+          "entityId": "v-collapse-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘collapse’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "식별하다",
+            "결정하다",
+            "무너지다",
+            "피하다"
+          ],
+          "correctIndex": 2,
+          "explanation": "collapse: 무너지다",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-combine-sense1",
+          "entityId": "v-combine-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "combine",
+          "prompt": "결합하다",
+          "explanation": "결합하다",
+          "english": "You can combine these two ideas into one plan.",
+          "translation": "이 두 생각을 하나의 계획으로 결합할 수 있다.",
+          "collocations": [
+            "combine ideas"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-combine-sense1",
+          "entityId": "v-combine-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘combine’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "줄어들다",
+            "결합하다",
+            "설명해 보이다",
+            "비교하다"
+          ],
+          "correctIndex": 1,
+          "explanation": "combine: 결합하다",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-compensate-sense1",
+          "entityId": "v-compensate-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "compensate",
+          "prompt": "보상하다",
+          "explanation": "보상하다",
+          "english": "Extra rest can compensate for a short night of sleep.",
+          "translation": "추가 휴식은 짧은 수면 시간을 보완할 수 있다.",
+          "collocations": [
+            "compensate for a loss"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-compensate-sense1",
+          "entityId": "v-compensate-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘compensate’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "보상하다",
+            "뚜렷이 다른",
+            "암시하다",
+            "완료하다"
+          ],
+          "correctIndex": 0,
+          "explanation": "compensate: 보상하다",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-complex-sense1",
+          "entityId": "v-complex-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "complex",
+          "prompt": "복잡한",
+          "explanation": "복잡한",
+          "english": "The puzzle was more complex than it appeared.",
+          "translation": "그 퍼즐은 보이는 것보다 더 복잡했다.",
+          "collocations": [
+            "a complex problem"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-complex-sense1",
+          "entityId": "v-complex-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘complex’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "복잡한",
+            "다양한",
+            "해석하다",
+            "호기심이 많은"
+          ],
+          "correctIndex": 0,
+          "explanation": "complex: 복잡한",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-conclude-sense1",
+          "entityId": "v-conclude-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "conclude",
+          "prompt": "결론짓다",
+          "explanation": "결론짓다",
+          "english": "The researchers concluded that the method worked.",
+          "translation": "연구자들은 그 방법이 효과적이라고 결론지었다.",
+          "collocations": [
+            "conclude from evidence"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-conclude-sense1",
+          "entityId": "v-conclude-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘conclude’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "유지하다",
+            "효율적인",
+            "결론짓다",
+            "발달시키다"
+          ],
+          "correctIndex": 2,
+          "explanation": "conclude: 결론짓다",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-conflict-sense1",
+          "entityId": "v-conflict-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "conflict",
+          "prompt": "갈등",
+          "explanation": "갈등",
+          "english": "The conflict arose from different expectations.",
+          "translation": "그 갈등은 서로 다른 기대에서 비롯되었다.",
+          "collocations": [
+            "resolve a conflict"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-conflict-sense1",
+          "entityId": "v-conflict-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘conflict’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "노력",
+            "나타나다",
+            "목표",
+            "갈등"
+          ],
+          "correctIndex": 3,
+          "explanation": "conflict: 갈등",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-consequence-sense1",
+          "entityId": "v-consequence-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "consequence",
+          "prompt": "결과",
+          "explanation": "결과",
+          "english": "Every decision may have an unexpected consequence.",
+          "translation": "모든 결정에는 예상치 못한 결과가 있을 수 있다.",
+          "collocations": [
+            "an unintended consequence"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-consequence-sense1",
+          "entityId": "v-consequence-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘consequence’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "집중하다",
+            "강조하다",
+            "인지하다",
+            "결과"
+          ],
+          "correctIndex": 3,
+          "explanation": "consequence: 결과",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:study:v-consistent-sense1",
+          "entityId": "v-consistent-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "study",
+          "mode": "recognition",
+          "title": "consistent",
+          "prompt": "일관된",
+          "explanation": "일관된",
+          "english": "Consistent practice is more useful than rare long sessions.",
+          "translation": "꾸준한 연습은 드물게 오래 공부하는 것보다 유용하다.",
+          "collocations": [
+            "consistent performance"
+          ],
+          "estimatedSeconds": 15
+        },
+        {
+          "id": "course:advanced-300:recognition:v-consistent-sense1",
+          "entityId": "v-consistent-sense1",
+          "entityType": "vocab",
+          "phase": "vocab",
+          "kind": "question",
+          "mode": "recognition",
+          "title": "뜻을 떠올려요",
+          "prompt": "‘consistent’의 뜻으로 알맞은 것을 고르세요.",
+          "choices": [
+            "일관된",
+            "가능하게 하다",
+            "관점",
+            "개선하다"
+          ],
+          "correctIndex": 0,
+          "explanation": "consistent: 일관된",
+          "estimatedSeconds": 12
+        },
+        {
+          "id": "course:advanced-300:stage:001:syntax:1",
+          "entityId": "course:advanced-300:stage:001:syntax:1",
+          "entityType": "syntax",
+          "phase": "syntax",
+          "kind": "question",
+          "mode": "syntax",
+          "title": "문장을 연결해요",
+          "prompt": "Although로 시작하는 절은 어떤 관계를 나타내나요?",
+          "english": "Although the evidence was apparent, we needed to clarify one complex assumption.",
+          "choices": [
+            "조건",
+            "목적",
+            "양보·대조",
+            "원인"
+          ],
+          "correctIndex": 2,
+          "explanation": "although는 앞의 상황에도 불구하고 뒤의 일이 성립함을 나타냅니다.",
+          "estimatedSeconds": 35
+        },
+        {
+          "id": "course:advanced-300:stage:001:syntax:2",
+          "entityId": "course:advanced-300:stage:001:syntax:2",
+          "entityType": "syntax",
+          "phase": "syntax",
+          "kind": "question",
+          "mode": "syntax",
+          "title": "문장을 연결해요",
+          "prompt": "문장 앞의 To + 동사원형은 무엇을 나타내나요?",
+          "english": "To assess the damage, the engineers had to combine several measurements.",
+          "choices": [
+            "반대되는 결과",
+            "이미 끝난 사건",
+            "주절의 주어",
+            "행동의 목적"
+          ],
+          "correctIndex": 3,
+          "explanation": "문장 앞의 to부정사구는 뒤에 나오는 행동을 하는 목적을 나타냅니다.",
+          "estimatedSeconds": 35
+        },
+        {
+          "id": "course:advanced-300:stage:001:reading:1:q1",
+          "entityId": "course:advanced-300:stage:001:reading:1:q1",
+          "entityType": "reading",
+          "phase": "reading",
+          "kind": "question",
+          "mode": "reading",
+          "title": "A More Equitable Bus Plan",
+          "prompt": "다음 글의 중심 생각으로 가장 적절한 것은?",
+          "passage": "A city evaluated a proposed change to its local bus network. The plan would make popular routes more frequent, improving average waiting time across the city. Yet several neighborhoods with few passengers would lose their only direct connection to a hospital. At a public meeting, planners explained that maximizing the average benefit might overlook residents with limited travel choices. They compared alternative plans using both total passenger time and access to essential services. The final proposal kept some low-demand routes while improving busy corridors. It did not maximize a single numerical measure, but it served a broader public purpose. The planners noticed that the people most affected by a lost route were not always the people who attended public meetings. They consulted health centers and community organizations to learn how residents traveled for essential appointments. Some riders could transfer to another bus, but others faced long walks or additional fares. The city therefore examined the distribution of travel burdens rather than relying on one citywide average to summarize all experiences. Fairness in transport planning requires attention to the people behind the averages, especially those who have fewer alternatives.",
+          "choices": [
+            "버스 정책에서는 병원 접근성을 고려할 수 없다",
+            "교통 정책은 평균 성과와 이동 대안이 적은 주민의 접근성을 함께 고려해야 한다",
+            "평균 대기시간만 좋으면 모든 시민에게 이롭다",
+            "승객 수가 적은 지역은 필수 시설 접근성이 중요하지 않다"
+          ],
+          "correctIndex": 1,
+          "explanation": "글의 논지를 요약하면 ‘교통 정책은 평균 성과와 이동 대안이 적은 주민의 접근성을 함께 고려해야 한다’이다. 근거: Fairness in transport planning requires attention to the people behind the averages, especially those who have fewer alternatives.",
+          "evidenceQuote": "Fairness in transport planning requires attention to the people behind the averages, especially those who have fewer alternatives.",
+          "estimatedSeconds": 50
+        },
+        {
+          "id": "course:advanced-300:stage:001:reading:2:q1",
+          "entityId": "course:advanced-300:stage:001:reading:2:q1",
+          "entityType": "reading",
+          "phase": "reading",
+          "kind": "question",
+          "mode": "reading",
+          "title": "When One Rule Fits Nobody",
+          "prompt": "다음 글의 중심 생각으로 가장 적절한 것은?",
+          "passage": "A school introduced the same daily reading target for every student. The rule was easy to explain, but teachers soon noticed problems. Confident readers finished quickly and became bored, while beginners struggled to understand short texts under the time limit. The school changed the program so that all students still practiced regularly but worked with different levels of difficulty. Teachers monitored both comprehension and participation, then adjusted targets as students improved. The revised program was harder to manage because it required more information and judgment. Nevertheless, it better matched the goal of helping each learner make progress. The school also avoided labeling students permanently as strong or weak readers. Teachers reassessed their needs regularly and allowed movement between levels. A student who struggled with science articles might understand historical stories very well, showing that ability could depend partly on the topic. The new system made space for both challenge and support. Flexibility required careful observation instead of simply lowering expectations for some students. A rule can be simple and consistent without being suitable for every person or situation.",
+          "choices": [
+            "개인별 목표를 설정하면 학습을 측정할 수 없다",
+            "쉬운 관리 방식이 항상 교육 효과도 가장 크다",
+            "동일한 규칙이 모든 학생에게 적합한 학습 조건은 아닐 수 있다",
+            "모든 학생의 실력은 동일하므로 과제도 같아야 한다"
+          ],
+          "correctIndex": 2,
+          "explanation": "글의 논지를 요약하면 ‘동일한 규칙이 모든 학생에게 적합한 학습 조건은 아닐 수 있다’이다. 근거: A rule can be simple and consistent without being suitable for every person or situation.",
+          "evidenceQuote": "A rule can be simple and consistent without being suitable for every person or situation.",
+          "estimatedSeconds": 50
+        }
+      ],
+      "currentQuestionIndex": 7,
+      "status": "in_progress",
+      "xpAwarded": 10,
+      "updatedAt": "2026-11-01T11:51:54.975Z",
+      "hintStepIds": [],
+      "createdAt": "2026-11-01T11:51:54.109Z",
+      "studyEvents": [
+        {
+          "stepId": "course:advanced-300:preview:v-adapt-sense1",
+          "completedAt": "2026-11-01T11:51:54.208Z",
+          "localDay": "2026-11-01"
+        },
+        {
+          "stepId": "course:advanced-300:preview:v-adequate-sense1",
+          "completedAt": "2026-11-01T11:51:54.324Z",
+          "localDay": "2026-11-01"
+        },
+        {
+          "stepId": "course:advanced-300:preview:v-advocate-sense1",
+          "completedAt": "2026-11-01T11:51:54.458Z",
+          "localDay": "2026-11-01"
+        },
+        {
+          "stepId": "course:advanced-300:preview:v-alter-sense1",
+          "completedAt": "2026-11-01T11:51:54.574Z",
+          "localDay": "2026-11-01"
+        },
+        {
+          "stepId": "course:advanced-300:preview:v-anticipate-sense1",
+          "completedAt": "2026-11-01T11:51:54.708Z",
+          "localDay": "2026-11-01"
+        },
+        {
+          "stepId": "course:advanced-300:study:v-adapt-sense1",
+          "completedAt": "2026-11-01T11:51:54.825Z",
+          "localDay": "2026-11-01"
+        }
+      ],
+      "courseId": "advanced-300",
+      "sessionKind": "course",
+      "courseVersion": "1.0.0"
+    }
+  ],
+  "rewards": [
+    {
+      "id": "question:course:advanced-300:recognition:v-adapt-sense1:first",
+      "sessionId": "quest-2026-11-01",
+      "questionId": "course:advanced-300:recognition:v-adapt-sense1",
+      "kind": "first",
+      "xp": 10,
+      "localDay": "2026-11-01"
+    }
+  ],
+  "settings": [],
+  "purchases": []
+}

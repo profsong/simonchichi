@@ -1,0 +1,37 @@
+시몬치치 추가 단어 뜻 출처 / Added dictionary meanings
+
+원문 PDF에는 뜻이 없습니다. 아래 공개 사전에서 선택한 뜻과 영어 정의를 바탕으로 편집한 한국어 뜻을 별도로 제공합니다.
+추가 뜻은 사전 자료를 선별·편집 번역한 것으로, 외부 교사의 독립 검수를 받았다는 의미는 아닙니다. 개인용 앱에서는 소유자의 사용 승인에 따라 학습에 사용합니다. 원문 PDF의 빈 뜻 칸은 별도로 보존합니다.
+
+Wiktionary-derived Korean gloss selections are adapted under CC BY-SA 4.0. Changes: selected senses, whitespace/punctuation cleanup, Korean display, source references. No dictionary examples are copied.
+
+kowiktionary-2026-10-01
+Korean Wiktionary contributors; Kaikki/wiktextract by Tatu Ylonen and contributors
+Wikimedia dump 2026-10-01; Kaikki extraction 2026-10-30
+https://kaikki.org/kowiktionary/%EC%98%81%EC%96%B4/kaikki.org-dictionary-%EC%98%81%EC%96%B4.jsonl
+CC-BY-SA-4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+
+koreader-en-ko-v1.2.0
+English Wiktionary contributors; Kaikki/wiktextract; Daniel Gregorini koreader-dicts; Princeton WordNet
+koreader-dicts v1.2.0; en-ko dictionary 2026-09-11
+https://github.com/DanielGregorini/koreader-dicts/releases/download/v1.2.0/en-ko.zip
+CC-BY-SA-4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+
+princeton-wordnet-3.0
+Princeton University, WordNet 3.0, copyright 2006
+WordNet 3.0
+https://wordnetcode.princeton.edu/3.0/WordNet-3.0.tar.gz
+WordNet-3.0
+https://wordnet.princeton.edu/license-and-commercial-use
+
+Direct English Wiktionary definitions / usage / POS references
+English Wiktionary contributors — CC-BY-SA-4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+Editorial Korean translations and usage notes are adaptations; original PDF cells remain blank.
+https://en.wiktionary.org/w/index.php?title=multitask&oldid=90968862
+https://en.wiktionary.org/wiki/except#Preposition
+https://en.wiktionary.org/wiki/retarded
+https://en.wiktionary.org/wiki/via#Preposition
+https://en.wiktionary.org/wiki/whereas#Conjunction

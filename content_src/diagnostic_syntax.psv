@@ -1,0 +1,11 @@
+# band|focus|sentence|prompt|correct|wrong1|wrong2|wrong3|explain
+B1|comparison|This explanation is easier to follow than the earlier one.|than이 비교하는 것은?|두 설명의 이해하기 쉬운 정도|설명의 길이와 교실 크기|과거와 미래의 사건|두 학생의 키|than은 두 설명을 비교급 easier와 연결한다.
+B1|cause|She stayed inside because the roads were icy.|because 절이 제공하는 정보는?|실내에 머문 이유|집의 위치|행동의 대조|내일 일정|도로가 얼어붙었기 때문에 실내에 머물렀다는 원인 관계다.
+B1|adverb-clause|If it rains tomorrow, the match will be postponed.|If절의 기능은?|조건|결과|확정된 과거 사실|수동태 주어|비가 내리는 경우라는 조건을 나타낸다.
+B1|relative-pronoun|The song that we heard yesterday is popular.|that we heard yesterday가 수식하는 말은?|The song|yesterday|popular|we|관계절은 앞의 명사 song을 꾸며 준다.
+B2|object-clause|I believe that the explanation is incomplete.|that the explanation is incomplete의 역할은?|believe의 내용을 나타내는 목적어절|I를 수식하는 관계절|시간을 나타내는 부사절|명령문|believe의 목적어로 생각의 내용을 나타내는 명사절이다.
+B2|concessive|Even though it was expensive, they chose the safer design.|Even though가 나타내는 뜻은?|비용이라는 불리함에도 안전한 설계를 선택함|비용이 안전의 원인이라는 뜻|가격이 낮아서 선택함|안전을 선택할 수 없다는 뜻|비용이 비싸다는 예상과 달리 더 안전한 설계를 선택한 양보 관계다.
+B2|participle|The woman standing by the door is our guide.|standing by the door는 누구를 수식하는가?|The woman|the door|our guide의 소유자|is|현재분사구는 앞에 놓인 명사 woman을 수식한다.
+B3|conditional-past|If I had known about the change, I would have arrived earlier.|이 문장의 조건절이 가리키는 것은?|과거 사실과 다른 가정|미래의 확정 계획|반복되는 습관|현재의 명령|과거완료 had known과 would have arrived는 과거에 이루어지지 않은 상황을 가정한다.
+B3|inversion-only|Only later did the students notice the mistake.|did the students notice의 도치 이유는?|한정 부사 Only later가 문두에 놓였기 때문|students가 목적어이기 때문|mistake가 복수이기 때문|문장이 수동태이기 때문|Only later가 문두에 와 조동사 도치가 일어났다.
+B3|modality|The data suggest a possible trend, but they do not establish causation.|문장의 조심스러운 논리적 태도는?|경향 가능성은 인정하되 인과 확정은 보류|인과 관계를 확정|모든 자료를 거부|인과가 성립하지 않음을 실험으로 확정|suggest a possible trend와 do not establish causation은 서로 다른 확실성 수준을 표현한다.

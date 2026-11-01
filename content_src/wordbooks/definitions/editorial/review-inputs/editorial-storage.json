@@ -1,0 +1,25 @@
+[
+  {
+    "entryId": "suneung-2000-row-0874",
+    "headword": "via",
+    "koreanMeaning": "~을 경유하여; ~을 통하여",
+    "partOfSpeech": "preposition",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/via#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "한국어 위키낱말사전 일괄 자료의 '~을 경유해서/통해서'를 정리했습니다. PDF 원문 뜻이 아닙니다."
+      },
+      {
+        "sourceId": "en-wiktionary-via",
+        "url": "https://en.wiktionary.org/wiki/via#Preposition",
+        "license": "CC-BY-SA-4.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "2026-11-01 직접 조회. 영어 전치사 정의 by way of/passing through 및 by means of/using을 확인해 품사와 한국어 표현을 보완했습니다. 한국어 일괄 추출 자료에는 품사가 unknown으로 되어 있습니다."
+      }
+    ],
+    "uncertainties": ["pending-independent-review"]
+  }
+]

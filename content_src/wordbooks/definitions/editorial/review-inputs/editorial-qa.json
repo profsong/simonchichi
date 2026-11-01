@@ -1,0 +1,943 @@
+[
+  {
+    "entryId": "suneung-2000-row-1062",
+    "headword": "sake",
+    "koreanMeaning": "이익; 목적; ~을 위함",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=sake",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "sake",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 05143077-n, 07891433-n, 05983347-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1079",
+    "headword": "intolerable",
+    "koreanMeaning": "참을 수 없는; 견디기 힘든",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=intolerable",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "intolerable",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 02435671-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1103",
+    "headword": "compulsive",
+    "koreanMeaning": "강박적인; 억제하기 어려운",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=compulsive",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "compulsive",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 09950457-n, 01583659-a, 00104699-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1114",
+    "headword": "incentive",
+    "koreanMeaning": "동기; 유인; 장려금",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=incentive",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "incentive",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 09179776-n, 13273154-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1118",
+    "headword": "wrestle",
+    "koreanMeaning": "씨름하다; 몸싸움하다; (문제와) 고심하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=wrestle",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "wrestle",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 00622266-n, 01092981-v, 00813495-v, 01868370-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1146",
+    "headword": "embody",
+    "koreanMeaning": "구체적으로 나타내다; 구현하다; 상징하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=embody",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "embody",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 02698443-v, 02697725-v, 02740352-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1179",
+    "headword": "expose",
+    "koreanMeaning": "드러내다; 폭로하다; 노출시키다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=expose",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "expose",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 07215568-n, 02112029-v, 00933821-v, 02140033-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1189",
+    "headword": "thorough",
+    "koreanMeaning": "철저한; 꼼꼼한; 빈틈없는",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=thorough",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "thorough",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 00311505-a, 00522463-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1212",
+    "headword": "revive",
+    "koreanMeaning": "되살아나다; 되살리다; 활력을 되찾게 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=revive",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "revive",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 00098083-v, 00024279-v, 00169298-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1222",
+    "headword": "bounce",
+    "koreanMeaning": "튀다; 튀게 하다; 튀어 오름",
+    "partOfSpeech": "verb; noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=bounce",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "bounce",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 05020981-n, 00120202-n, 07350401-n, 01892104-v, 01404389-v, 01892608-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1226",
+    "headword": "upcoming",
+    "koreanMeaning": "다가오는; 곧 있을",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=upcoming",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "upcoming",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 01732601-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1248",
+    "headword": "sewage",
+    "koreanMeaning": "하수; 오수",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=sewage",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "sewage",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 14856893-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1264",
+    "headword": "cluster",
+    "koreanMeaning": "무리; 송이; 모이다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=cluster",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "cluster",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 07959943-n, 02025009-v, 01484392-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1266",
+    "headword": "derive",
+    "koreanMeaning": "얻다; 유래하다; 도출하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=derive",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "derive",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 00636574-v, 02292125-v, 00251791-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1269",
+    "headword": "deluxe",
+    "koreanMeaning": "호화로운; 고급의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=deluxe",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "deluxe",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 02024928-a, 00850053-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1278",
+    "headword": "leftover",
+    "koreanMeaning": "남은 것; 남은",
+    "partOfSpeech": "noun; adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=leftover",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "leftover",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 13811184-n, 00926505-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1285",
+    "headword": "glimpse",
+    "koreanMeaning": "언뜻 봄; 잠깐 보다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=glimpse",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "glimpse",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 00877625-n, 05934396-n, 06802444-n, 02119470-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1298",
+    "headword": "cozy",
+    "koreanMeaning": "아늑한; 포근한; 친밀한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=cozy",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "cozy",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 03114379-n, 00477284-a, 01076145-a, 00452773-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1301",
+    "headword": "obsess",
+    "koreanMeaning": "사로잡다; 집착하게 하다; 집착하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=obsess",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "obsess",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 01783214-v, 01831143-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1302",
+    "headword": "suitor",
+    "koreanMeaning": "구혼자",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=suitor",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "suitor",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 10674130-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1313",
+    "headword": "buildup",
+    "koreanMeaning": "축적; 증가; 증강",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=buildup",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "buildup",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 00372226-n, 13442168-n, 07247451-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1314",
+    "headword": "machinery",
+    "koreanMeaning": "기계류; 기계 장치; (조직의) 운영 체계",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=machinery",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "machinery",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 03701640-n, 08434029-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1316",
+    "headword": "auditorium",
+    "koreanMeaning": "강당; 객석",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=auditorium",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "auditorium",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 02758134-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1317",
+    "headword": "linger",
+    "koreanMeaning": "오래 남아 있다; 머무르다; 떠나기를 지체하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=linger",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "linger",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 02731242-v, 02639075-v, 02011560-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1320",
+    "headword": "radioactive",
+    "koreanMeaning": "방사성의; 방사능을 내는",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=radioactive",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "radioactive",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 00426907-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1327",
+    "headword": "heredity",
+    "koreanMeaning": "유전; 유전 형질",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=heredity",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "heredity",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 13493399-n, 04920867-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1344",
+    "headword": "speculate",
+    "koreanMeaning": "추측하다; 사색하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=speculate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "speculate",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 00633443-v, 00927049-v, 00630380-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1349",
+    "headword": "breathtaking",
+    "koreanMeaning": "숨이 멎을 듯한; 매우 놀라운",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=breathtaking",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "breathtaking",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 00921369-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1355",
+    "headword": "framework",
+    "koreanMeaning": "틀; 뼈대; 체계",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=framework",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "framework",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 05890249-n, 04933363-n, 03391770-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1375",
+    "headword": "technical",
+    "koreanMeaning": "기술의; 전문적인",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=technical",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "technical",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 04399269-n, 00771356-n, 02809220-a, 01108716-a, 02809692-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1376",
+    "headword": "thrill",
+    "koreanMeaning": "짜릿함; 흥분; 전율하게 하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=thrill",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "thrill",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 07528470-n, 07520112-n, 01261293-n, 02117333-v, 01796346-v, 01888946-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1384",
+    "headword": "preoccupation",
+    "koreanMeaning": "몰두; 마음을 사로잡는 생각",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=preoccupation",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "preoccupation",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 05836921-n, 05700087-n, 00087073-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1391",
+    "headword": "disrupt",
+    "koreanMeaning": "방해하다; 중단시키다; 혼란에 빠뜨리다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=disrupt",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "disrupt",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 00778275-v, 00554298-v, 00520357-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1407",
+    "headword": "inquire",
+    "koreanMeaning": "묻다; 문의하다; 조사하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=inquire",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "inquire",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 00784342-v, 00729378-v, 00785962-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1409",
+    "headword": "vaccum",
+    "koreanMeaning": "진공; 빈 공간; 진공청소기로 청소하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=vacuum",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "vacuum",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 14456054-n, 13910116-n, 08653474-n, 01244853-v 원문 vaccum은 표기 오류로 보이며 일반 표기는 vacuum입니다. 원문 행과 표제어는 그대로 보존하고 vacuum을 조회했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review",
+      "source-headword-spelling"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1413",
+    "headword": "simulate",
+    "koreanMeaning": "모의로 재현하다; 흉내 내다; ~인 체하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=simulate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "simulate",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 01742886-v, 01722980-v, 01721754-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1441",
+    "headword": "intriguing",
+    "koreanMeaning": "흥미를 끄는; 호기심을 자극하는",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=intriguing",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "intriguing",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 01897106-a, 01344684-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1442",
+    "headword": "constrict",
+    "koreanMeaning": "조이다; 수축시키다; 좁아지다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=constrict",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "constrict",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 01387786-v, 00304422-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1446",
+    "headword": "keen",
+    "koreanMeaning": "예리한; 강렬한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=keen",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "keen",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 07042735-n, 01802219-v, 01744515-a, 01511387-a, 01123879-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1463",
+    "headword": "vivid",
+    "koreanMeaning": "생생한; 선명한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=vivid",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "vivid",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 01941026-a, 00430041-a, 00402855-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1478",
+    "headword": "leverage",
+    "koreanMeaning": "지렛대의 힘; 영향력; 활용하다",
+    "partOfSpeech": "noun; verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=leverage",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "leverage",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 11473138-n, 05156481-n, 01099946-n, 02359839-v, 02359690-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1488",
+    "headword": "segregation",
+    "koreanMeaning": "분리; 격리; (인종 등의) 분리 정책",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=segregation",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "segregation",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 13554121-n, 08380340-n, 01202184-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1500",
+    "headword": "drowsy",
+    "koreanMeaning": "졸리는; 나른한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=drowsy",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "drowsy",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 00188436-a, 00165766-a"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1513",
+    "headword": "multitask",
+    "koreanMeaning": "여러 일을 동시에 처리하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "en-wiktionary-editorial",
+        "url": "https://en.wiktionary.org/w/index.php?title=multitask&oldid=90968862",
+        "license": "CC-BY-SA-4.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "multitask",
+        "notes": "2026-11-01 확인한 Wiktionary 영어 동사 정의를 바탕으로 작성한 한국어 번역입니다. WordNet에 정의가 없어 별도로 조회했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1523",
+    "headword": "retarded",
+    "koreanMeaning": "발달이 지연된; 지체된",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=retarded",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "retarded",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 07948971-n, 01840366-a"
+      },
+      {
+        "sourceId": "en-wiktionary-usage",
+        "url": "https://en.wiktionary.org/wiki/retarded",
+        "license": "CC-BY-SA-4.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "retarded",
+        "notes": "사람을 지칭하는 표현으로 쓰면 낡고 모욕적인 용법입니다. 일반적인 사람 호칭으로 사용하지 않습니다. Wiktionary의 dated/offensive 용법 표시를 2026-11-01 확인했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review",
+      "dated-or-offensive-person-label"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1524",
+    "headword": "belonging",
+    "koreanMeaning": "소속감",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=belonging",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "belonging",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 07529817-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1536",
+    "headword": "mobility",
+    "koreanMeaning": "이동성; 기동성",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=mobility",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "mobility",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 04773351-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1537",
+    "headword": "incline",
+    "koreanMeaning": "기울이다; ~하는 경향이 있다; 경사",
+    "partOfSpeech": "verb; noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=incline",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "incline",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 09437454-n, 04051549-n, 02719399-v, 02171322-v, 02063018-v"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1540",
+    "headword": "ingenuity",
+    "koreanMeaning": "독창성; 기발한 재주",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=ingenuity",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "lookupHeadword": "ingenuity",
+        "notes": "제공된 WordNet 영어 정의를 바탕으로 작성한 한국어 편집 번역입니다. 원문 PDF의 뜻이 아닙니다. 참고 synsets: 05633672-n, 04730367-n"
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  }
+]

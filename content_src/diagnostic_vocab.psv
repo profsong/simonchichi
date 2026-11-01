@@ -1,0 +1,13 @@
+# band|headword|exampleEn|promptKo|correct|wrong1|wrong2|wrong3|explainKo
+B1|adjust|He adjusted his seat before starting the lesson.|adjusted의 문맥상 의미는?|조정했다|구입했다|예약했다|발견했다|의자 위치를 수업 전에 알맞게 바꾸었다는 뜻이다.
+B1|stable|The temperature stayed stable throughout the experiment.|stable의 의미는?|안정적인|일시적인|무관한|비좁은|온도가 실험 내내 크게 변하지 않았다는 뜻이다.
+B1|reveal|The final paragraph reveals why the character left.|reveals의 의미는?|드러낸다|숨긴다|무너뜨린다|반복한다|마지막 문단이 인물의 떠난 이유를 밝혀 준다는 문맥이다.
+B1|temporary|The temporary bridge will be removed next month.|temporary의 의미는?|임시의|영구적인|비싼|투명한|다음 달 철거될 다리이므로 임시 시설이다.
+B2|abundant|Rainfall was abundant this summer, so the lake filled quickly.|abundant의 의미는?|풍부한|부족한|느린|불확실한|호수가 빠르게 찰 정도로 강수량이 많다는 의미다.
+B2|cautious|The researchers were cautious about drawing a conclusion.|cautious의 의미는?|신중한|무관심한|급격한|불가능한|근거를 충분히 확인하기 전에 결론을 서두르지 않는 태도다.
+B2|hesitant|She was hesitant to answer because the evidence was weak.|hesitant의 의미는?|주저하는|확신에 찬|시끄러운|풍부한|근거가 약해서 답을 쉽게 선택하지 못하고 망설이는 상황이다.
+B2|modest|The new method produced a modest improvement in accuracy.|modest의 의미는?|크지 않은|완전히 없는|영구적인|무작위의|정확도 개선이 있었지만 그 폭이 크지 않다는 뜻이다.
+B3|generalize|We should not generalize from a single unusual case.|generalize의 의미는?|일반화하다|세분화하다|복제하다|단순화하다|특이한 한 사례의 결과를 전체 경우로 확대하지 말라는 뜻이다.
+B3|isolate|The experiment tries to isolate the effect of noise.|isolate의 의미는?|분리하여 식별하다|강화하다|부정하다|결합하다|다른 변수와 분리해 소음만의 영향을 알아보는 의미다.
+B3|reinforce|The second example reinforces the writer's central argument.|reinforces의 의미는?|강화한다|취소한다|우회한다|축소한다|추가 사례가 중심 주장을 더 강하게 뒷받침한다는 뜻이다.
+B3|widespread|The idea gained widespread support across the region.|widespread의 의미는?|널리 퍼진|간헐적인|한정된|비공식적인|지역 전반에서 널리 지지받는다는 뜻이다.

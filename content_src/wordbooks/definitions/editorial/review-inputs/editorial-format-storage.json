@@ -1,0 +1,855 @@
+[
+  {
+    "entryId": "suneung-2000-row-0104",
+    "headword": "cause",
+    "koreanMeaning": "일으키다, 야기하다; 원인, 이유",
+    "partOfSpeech": "verb / noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/cause#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-cause-en-verb-sbpkZVAh, ko-cause-en-verb-si8iAjaF, ko-cause-en-noun-zB7rpds0, ko-cause-en-noun-lLt8poDz, ko-cause-en-noun-xEK8oJkb 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0174",
+    "headword": "electronic",
+    "koreanMeaning": "전자의; 전자 기기의; 온라인의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/electronic#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-electronic-en-adj-Tu0gKrIZ, ko-electronic-en-adj-EmxhaQ0H, ko-electronic-en-adj-r5cGzXfX 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0179",
+    "headword": "resident",
+    "koreanMeaning": "거주자; 전공의; 거주하는",
+    "partOfSpeech": "noun / adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/resident#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-resident-en-noun-4U0z3tO-, ko-resident-en-noun-QkcQyeZ9, ko-resident-en-noun-wDc7jiM7, ko-resident-en-adj-zIvqJedJ, ko-resident-en-adj-6xIvmEr5, ko-resident-en-adj-AQfW1TMX 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0187",
+    "headword": "limit",
+    "koreanMeaning": "한계, 한도; 제한하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/limit#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-limit-en-noun-n0Ipju-2, ko-limit-en-verb-5x9zjmfQ 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0268",
+    "headword": "refer",
+    "koreanMeaning": "언급하다, 인용하다; 조회하다; 맡기다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/refer#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-refer-en-verb-0NunsdcX, ko-refer-en-verb-aNr50TIM, ko-refer-en-verb-nxJVW--M 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0284",
+    "headword": "entitle",
+    "koreanMeaning": "자격이나 권리를 주다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/entitle#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-entitle-en-unknown-YVIXkJri 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0299",
+    "headword": "borrow",
+    "koreanMeaning": "빌리다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/borrow#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-borrow-en-unknown-U4AStqOm 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0305",
+    "headword": "preserve",
+    "koreanMeaning": "보존하다; 보호하다, 유지하다; 보존 처리하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/preserve#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-preserve-en-unknown-xGwEyJ81, ko-preserve-en-unknown-ETukdSn4, ko-preserve-en-unknown-6utYh3vO 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0338",
+    "headword": "differ",
+    "koreanMeaning": "다르다; 의견이 다르다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/differ#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-differ-en-verb-dzzjmAKC, ko-differ-en-verb-eqb1O9ms 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0517",
+    "headword": "assign",
+    "koreanMeaning": "맡기다, 배정하다; 임명하다; 양도하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/assign#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-assign-en-unknown-zqeuZFIS, ko-assign-en-unknown-egSlLZas, ko-assign-en-unknown-FVt5nYs0 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0549",
+    "headword": "resort",
+    "koreanMeaning": "휴양지; 의지, 의존; 수단; 의지하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/resort#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-resort-en-noun-9kyl528R, ko-resort-en-noun-ZQzrlg6U, ko-resort-en-noun-uBtShL7p, ko-resort-en-verb-no6~S8QE, ko-resort-en-verb-7~tH957V 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0557",
+    "headword": "install",
+    "koreanMeaning": "설치하다; 취임시키다, 임명하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/install#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-install-en-verb-lfSK~bTL, ko-install-en-verb-9b~pPjyG, ko-install-en-noun-OEIrjoP9, ko-install-en-noun-9XFciC24 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0593",
+    "headword": "impose",
+    "koreanMeaning": "부과하다, 지우다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/impose#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-impose-en-unknown-uafrGgnG 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0734",
+    "headword": "dismiss",
+    "koreanMeaning": "묵살하다, 일축하다; 해고하다; 해산시키다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/dismiss#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-dismiss-en-unknown-Biw7pbQv, ko-dismiss-en-unknown-qUecj1Np, ko-dismiss-en-unknown-2FZqKgzr 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0785",
+    "headword": "pottery",
+    "koreanMeaning": "도자기; 도예 공방",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/pottery#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-pottery-en-noun-FRn74Tsa, ko-pottery-en-noun-k66~~Fyt, ko-pottery-en-noun-enzHaXan 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0818",
+    "headword": "discard",
+    "koreanMeaning": "버리다, 폐기하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/discard#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-discard-en-unknown-RAcoVUL2 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0824",
+    "headword": "raw",
+    "koreanMeaning": "날것의, 조리되지 않은; 가공하지 않은; 미숙한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/raw#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-raw-en-unknown-H22URagu, ko-raw-en-unknown-ww9DHZ0u, ko-raw-en-unknown-m8obSDV4 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0834",
+    "headword": "depict",
+    "koreanMeaning": "그리다, 묘사하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/depict#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-depict-en-unknown-~9SWTMY7 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0952",
+    "headword": "pursue",
+    "koreanMeaning": "추구하다; 활동을 따르거나 수행하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/pursue#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-pursue-en-unknown-I3O~Xzna, ko-pursue-en-unknown-A23VxQz~ 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0205",
+    "headword": "qualify",
+    "koreanMeaning": "자격이나 능력에 부합하게 하다; 자격을 부여하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/qualify#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-qualify-en-verb-m5ZwJbIH, ko-qualify-en-verb-3G3BOeII, ko-qualify-en-verb-rruD64l5 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1000",
+    "headword": "tin",
+    "koreanMeaning": "주석(금속 원소)",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/tin#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-tin-en-unknown-yHutrdQo 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1049",
+    "headword": "withdraw",
+    "koreanMeaning": "물러나다, 철수하다; 빼내다; 철회하다; 인출하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/withdraw#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-withdraw-en-verb-QhuUE6YU, ko-withdraw-en-verb-rvUVWu2H, ko-withdraw-en-verb-P98oYWBO 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1084",
+    "headword": "troop",
+    "koreanMeaning": "무리; 군대, 병력",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/troop#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-troop-en-unknown-c7s2v3jX, ko-troop-en-unknown-L3agZqs6 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1158",
+    "headword": "modify",
+    "koreanMeaning": "수정하다, 변경하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/modify#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-modify-en-verb-k-R8xjLT 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1159",
+    "headword": "confine",
+    "koreanMeaning": "국한시키다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/confine#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-confine-en-unknown-eb6YhDes 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1220",
+    "headword": "hinder",
+    "koreanMeaning": "방해하다, 저해하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/hinder#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-hinder-en-verb-gS56ijzK 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1227",
+    "headword": "trace",
+    "koreanMeaning": "추적하다; 원인을 밝혀내다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/trace#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-trace-en-verb-S6UK2pBr 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1265",
+    "headword": "plea",
+    "koreanMeaning": "항변; 법원에 제출하는 이유나 사유서",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/plea#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-plea-en-unknown-LTA~eEDT, ko-plea-en-unknown-Fy9bQPHB 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1359",
+    "headword": "vapor",
+    "koreanMeaning": "증기; 증발시키다; 증발하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/vapor#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-vapor-en-noun-XjIFVwyq, ko-vapor-en-noun-ZWu3I2fK, ko-vapor-en-noun-050N~o-6, ko-vapor-en-verb-5Zw98Jd0, ko-vapor-en-verb-KHTjzX5T, ko-vapor-en-verb-e65FvDtY 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1401",
+    "headword": "last",
+    "koreanMeaning": "마지막의; 지난; 마지막으로; 지속되다",
+    "partOfSpeech": "adjective / adverb / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/last#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-last-en-adj-lfuEaiku, ko-last-en-adj-WZ3faxCe, ko-last-en-adj-FvIeXYcT, ko-last-en-adv-lbfUsv~H, ko-last-en-noun-X6JwFimN, ko-last-en-verb-56h63Jyv 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1447",
+    "headword": "restrain",
+    "koreanMeaning": "저지하다, 제지하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/restrain#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-restrain-en-unknown-Npy~0SMv 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1485",
+    "headword": "advance",
+    "koreanMeaning": "진전, 전진; 나아가다; 선금을 주다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/advance#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-advance-en-noun-s~rJpl~w, ko-advance-en-noun-w8HooTxZ, ko-advance-en-verb-1w9lO3Ah, ko-advance-en-verb-W8Nx4hRz 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1486",
+    "headword": "contemplate",
+    "koreanMeaning": "심사숙고하다; 고려하다; 예상하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/contemplate#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-contemplate-en-verb-qLhyhoKo, ko-contemplate-en-verb-EU-EejQe, ko-contemplate-en-verb-r7B9jEjD 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1517",
+    "headword": "designate",
+    "koreanMeaning": "지정하다; 명시하다, 나타내다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/designate#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-designate-en-verb-Rzff2MwY, ko-designate-en-verb-SmrCXg1K 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1578",
+    "headword": "admire",
+    "koreanMeaning": "존경하다, 칭찬하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/admire#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-admire-en-unknown-ecQFhURa 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1606",
+    "headword": "rent",
+    "koreanMeaning": "임대료; 세내다, 빌리다; 임대하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/rent#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-rent-en-noun-alkK85EX, ko-rent-en-verb-~EzN~Bcm, ko-rent-en-verb-RxPasbK8, ko-rent-en-verb-eMIUmhOM 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1633",
+    "headword": "fellow",
+    "koreanMeaning": "동료, 전우",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/fellow#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-fellow-en-noun-SmKUvV02, ko-fellow-en-noun-GkuWY4KE, ko-fellow-en-noun--MJ~Blb7, ko-fellow-en-verb-cv37EJoG, ko-fellow-en-verb-Zj~pAwRA, ko-fellow-en-verb-Q2WRp71h 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1666",
+    "headword": "compromise",
+    "koreanMeaning": "타협, 절충; 타협하다; 위태롭게 하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/compromise#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-compromise-en-noun-xAXZytLz, ko-compromise-en-verb-fh9uRahU, ko-compromise-en-verb-G9PwweTX 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1670",
+    "headword": "entrust",
+    "koreanMeaning": "맡기다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/entrust#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-entrust-en-verb-snety2H7 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1676",
+    "headword": "incorporate",
+    "koreanMeaning": "포함하다; 혼합하다; 법인으로 만들다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/incorporate#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-incorporate-en-unknown-nUEqX4cH, ko-incorporate-en-unknown-TA2sUdux, ko-incorporate-en-unknown-16PizUv5 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1821",
+    "headword": "spur",
+    "koreanMeaning": "자극하다; 원동력이 되다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/spur#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-spur-en-unknown-cqkTk7rV 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      },
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=spur",
+        "license": "WordNet-3.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "한국어 사전 추출에 품사가 없어 WordNet의 해당 표제어 품사만 보완했습니다. 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1865",
+    "headword": "displace",
+    "koreanMeaning": "이동시키다; 쫓아내다; 대신하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/displace#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-displace-en-verb-Rgnz7fBU, ko-displace-en-verb-yS7m5oV9, ko-displace-en-verb-VBqexC5X 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1887",
+    "headword": "furnish",
+    "koreanMeaning": "제공하다, 공급하다; 가구를 갖추다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/furnish#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-furnish-en-verb-zOsXW-Ri, ko-furnish-en-verb-wT-7OFvy 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1974",
+    "headword": "liable",
+    "koreanMeaning": "법적 책임이나 의무가 있는; 처벌을 받을 수 있는",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/liable#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-liable-en-unknown-D7GUpgwK, ko-liable-en-unknown-oI7W2iXv 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1990",
+    "headword": "bankruptcy",
+    "koreanMeaning": "파산",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/bankruptcy#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-bankruptcy-en-noun-fcDpf71W 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-1994",
+    "headword": "veterinarian",
+    "koreanMeaning": "수의사",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/veterinarian#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-veterinarian-en-noun-UQS4KvwM 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0043",
+    "headword": "reduce",
+    "koreanMeaning": "줄이다; 바꾸다, 변형시키다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "kowiktionary-2026-10-01",
+        "url": "https://ko.wiktionary.org/wiki/reduce#영어",
+        "license": "CC-BY-SA-4.0",
+        "method": "bulk-dictionary-selection",
+        "notes": "공개 사전 일괄 자료의 뜻을 선택·정리했습니다. PDF 원문 뜻이 아닙니다. 참조 뜻 ID: ko-reduce-en-unknown-ecaXvk-6, ko-reduce-en-unknown-SknYbfk5 학습용으로 대표 뜻을 선택하고 문법 기호·영어 설명·고어를 덜어 간결하게 편집했습니다."
+      }
+    ],
+    "uncertainties": [
+      "pending-independent-review"
+    ]
+  }
+]

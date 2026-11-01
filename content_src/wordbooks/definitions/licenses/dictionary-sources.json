@@ -1,0 +1,35 @@
+{
+  "sources": [
+    {
+      "id": "kowiktionary-2026-10-01",
+      "filename": "ko-wiktionary-English.jsonl",
+      "url": "https://kaikki.org/kowiktionary/%EC%98%81%EC%96%B4/kaikki.org-dictionary-%EC%98%81%EC%96%B4.jsonl",
+      "sha256": "1d264d2a8619c563c808d11200b8fdeed13cc7f49bdfb9eefe7e7996dea91c5a",
+      "license": "CC-BY-SA-4.0",
+      "credit": "Korean Wiktionary contributors; Kaikki/wiktextract by Tatu Ylonen and contributors",
+      "version": "Wikimedia dump 2026-10-01; Kaikki extraction 2026-10-30",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "koreader-en-ko-v1.2.0",
+      "filename": "en-ko-v1.2.0.zip",
+      "url": "https://github.com/DanielGregorini/koreader-dicts/releases/download/v1.2.0/en-ko.zip",
+      "sha256": "219eacf3f57e93da993a9ba438d3c3eaf3fa3b94de745847fe74826cb776ccf1",
+      "license": "CC-BY-SA-4.0",
+      "credit": "English Wiktionary contributors; Kaikki/wiktextract; Daniel Gregorini koreader-dicts; Princeton WordNet",
+      "version": "koreader-dicts v1.2.0; en-ko dictionary 2026-09-11",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "princeton-wordnet-3.0",
+      "filename": "wordnet.tar.gz",
+      "url": "https://wordnetcode.princeton.edu/3.0/WordNet-3.0.tar.gz",
+      "sha256": "640db279c949a88f61f851dd54ebbb22d003f8b90b85267042ef85a3781d3a52",
+      "license": "WordNet-3.0",
+      "credit": "Princeton University, WordNet 3.0, copyright 2006",
+      "version": "WordNet 3.0",
+      "licenseUrl": "https://wordnet.princeton.edu/license-and-commercial-use"
+    }
+  ],
+  "lookupMethod": "Local exact-headword lookup of pinned bulk datasets; not 2,000 live webpage visits."
+}

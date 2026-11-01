@@ -1,0 +1,2132 @@
+[
+  {
+    "entryId": "suneung-2000-row-0007",
+    "headword": "individual",
+    "koreanMeaning": "개인; 개별적인",
+    "partOfSpeech": "noun / adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=individual",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00007846-n, 00493460-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0009",
+    "headword": "volunteer",
+    "koreanMeaning": "자원봉사자; 자원하여 하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=volunteer",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 10759151-n, 02425112-v, 02424984-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0011",
+    "headword": "amount",
+    "koreanMeaning": "양; 금액; 총액이 ~에 이르다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=amount",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00033615-n, 13331198-n, 02645007-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0025",
+    "headword": "stress",
+    "koreanMeaning": "스트레스; 압박; 강조하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=stress",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 14376188-n, 14410089-n, 01013367-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0042",
+    "headword": "amaze",
+    "koreanMeaning": "놀라게 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=amaze",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00724832-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0048",
+    "headword": "level",
+    "koreanMeaning": "수준; 단계; 평평한",
+    "partOfSpeech": "noun / adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=level",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 05093890-n, 13939892-n, 00910101-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0072",
+    "headword": "disappear",
+    "koreanMeaning": "사라지다; 없어지다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=disappear",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00426958-v, 02156546-v, 00427397-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0075",
+    "headword": "function",
+    "koreanMeaning": "기능; 역할; 기능하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=function",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 05149325-n, 00720565-n, 02670890-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0079",
+    "headword": "generate",
+    "koreanMeaning": "생성하다; 발생시키다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=generate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01627355-v, 01629000-v, 01628197-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0091",
+    "headword": "constant",
+    "koreanMeaning": "일정한; 끊임없는; 상수",
+    "partOfSpeech": "adjective / noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=constant",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02506029-a, 00595299-a, 05858936-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0097",
+    "headword": "due",
+    "koreanMeaning": "기한이 된; 도착할 예정인; 마땅한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=due",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00136354-a, 00929916-a, 00137725-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0106",
+    "headword": "factor",
+    "koreanMeaning": "요인; 요소; 인수",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=factor",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 07327805-n, 05868954-n, 13733402-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0115",
+    "headword": "steady",
+    "koreanMeaning": "꾸준한; 안정된; 안정시키다",
+    "partOfSpeech": "adjective / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=steady",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02301560-a, 02291336-a, 00416571-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0122",
+    "headword": "confident",
+    "koreanMeaning": "자신 있는; 확신하는",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=confident",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00338817-a, 00337172-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0124",
+    "headword": "shadow",
+    "koreanMeaning": "그림자; 몰래 뒤따라가다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=shadow",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 13984944-n, 02001461-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0125",
+    "headword": "access",
+    "koreanMeaning": "접근; 이용 권한; 접속하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=access",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00281132-n, 05175467-n, 02248808-v, 02007417-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0135",
+    "headword": "disabled",
+    "koreanMeaning": "장애가 있는",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=disabled",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01019283-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0136",
+    "headword": "lack",
+    "koreanMeaning": "부족; ~이 없다; 부족하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=lack",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 14449405-n, 02632353-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0150",
+    "headword": "pressure",
+    "koreanMeaning": "압력; 압박; 압박하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=pressure",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 11495041-n, 05195362-n, 02504562-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0152",
+    "headword": "frustrate",
+    "koreanMeaning": "좌절시키다; 방해하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=frustrate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02558172-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0154",
+    "headword": "launch",
+    "koreanMeaning": "시작하다; 발사하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=launch",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02427103-v, 01514655-v, 00347918-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0159",
+    "headword": "sight",
+    "koreanMeaning": "시력; 광경; 발견하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=sight",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 05654362-n, 06888944-n, 02163746-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0165",
+    "headword": "advantage",
+    "koreanMeaning": "유리한 점; 장점; 이익",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=advantage",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 05155821-n, 05142863-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0173",
+    "headword": "confuse",
+    "koreanMeaning": "혼동하다; 혼란스럽게 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=confuse",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00619610-v, 00621734-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0174",
+    "headword": "electronic",
+    "koreanMeaning": "전자의; 전자 기기의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=electronic",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02718719-a, 02718497-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0178",
+    "headword": "stock",
+    "koreanMeaning": "재고; 주식; 비축하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=stock",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 04321534-n, 13333833-n, 13417071-n, 02323286-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0181",
+    "headword": "remark",
+    "koreanMeaning": "말; 논평; 언급하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=remark",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 06765044-n, 01020005-v, 01058574-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0182",
+    "headword": "moral",
+    "koreanMeaning": "도덕적인; 교훈",
+    "partOfSpeech": "adjective / noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=moral",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01548193-a, 06606044-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0203",
+    "headword": "independent",
+    "koreanMeaning": "독립적인; 자주적인",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=independent",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00727564-a, 01062393-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0205",
+    "headword": "qualify",
+    "koreanMeaning": "자격을 얻다; 자격을 주다; 한정하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=qualify",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02679012-v, 00972191-v, 00300761-v, 00199309-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0210",
+    "headword": "engage",
+    "koreanMeaning": "참여하다; 관여하다; 고용하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=engage",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02375131-v, 02409412-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0219",
+    "headword": "edge",
+    "koreanMeaning": "가장자리; 날; 우위",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=edge",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 08565701-n, 03264136-n, 05158857-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0226",
+    "headword": "conscience",
+    "koreanMeaning": "양심",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=conscience",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 09184136-n, 04848492-n, 07506797-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0236",
+    "headword": "poetry",
+    "koreanMeaning": "시; 시문학",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=poetry",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 07092592-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0251",
+    "headword": "finance",
+    "koreanMeaning": "재정; 금융; 자금을 지원하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=finance",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01098698-n, 01134037-n, 02217266-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0258",
+    "headword": "absolute",
+    "koreanMeaning": "절대적인; 완전한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=absolute",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00005205-a, 00520892-a, 00897015-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0262",
+    "headword": "mass",
+    "koreanMeaning": "질량; 덩어리; 대중",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=mass",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 05024254-n, 09348055-n, 08180190-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0268",
+    "headword": "refer",
+    "koreanMeaning": "언급하다; 참조하다; 보내다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=refer",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01024190-v, 00877083-v, 01952898-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0271",
+    "headword": "reward",
+    "koreanMeaning": "보상; 보상하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=reward",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 07295629-n, 13283764-n, 02344381-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0273",
+    "headword": "domestic",
+    "koreanMeaning": "국내의; 가정의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=domestic",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01038102-a, 02919594-a, 01038808-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0274",
+    "headword": "wealth",
+    "koreanMeaning": "부; 재산; 풍부함",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=wealth",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 14491271-n, 13353280-n, 13250398-n, 05116128-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0277",
+    "headword": "except",
+    "koreanMeaning": "~을 제외하고; ~ 외에는",
+    "partOfSpeech": "preposition",
+    "definitionProvenance": [
+      {
+        "sourceId": "enwiktionary-editorial",
+        "url": "https://en.wiktionary.org/wiki/except#Preposition",
+        "license": "CC-BY-SA-4.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 전치사 정의와 해당 한국어 번역 목록을 확인해 대표 뜻을 편집했습니다. 예외를 나타내는 전치사 용법입니다. PDF 원문 뜻이 아닙니다."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0283",
+    "headword": "remain",
+    "koreanMeaning": "남다; 여전히 ~이다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=remain",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02637592-v, 02727462-v, 00117985-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0290",
+    "headword": "instant",
+    "koreanMeaning": "즉각적인; 순간",
+    "partOfSpeech": "adjective / noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=instant",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00979031-a, 15247110-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0291",
+    "headword": "reveal",
+    "koreanMeaning": "드러내다; 밝히다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=reveal",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02143283-v, 00933821-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0301",
+    "headword": "intend",
+    "koreanMeaning": "의도하다; 작정하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=intend",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00708538-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0305",
+    "headword": "preserve",
+    "koreanMeaning": "보존하다; 유지하다; 보호하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=preserve",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02679899-v, 02280132-v, 02733122-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0306",
+    "headword": "spot",
+    "koreanMeaning": "장소; 점; 얼룩; 발견하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=spot",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 08664443-n, 04682462-n, 04694441-n, 02154312-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0307",
+    "headword": "underground",
+    "koreanMeaning": "지하의; 지하에; 지하철",
+    "partOfSpeech": "adjective / adverb / noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=underground",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02471984-a, 00486917-r, 03757138-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0310",
+    "headword": "spark",
+    "koreanMeaning": "불꽃; 촉발하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=spark",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 09442341-n, 07412310-n, 01643657-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0319",
+    "headword": "label",
+    "koreanMeaning": "꼬리표; 상표; 꼬리표를 붙이다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=label",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 07272172-n, 06851516-n, 01588493-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0328",
+    "headword": "automatic",
+    "koreanMeaning": "자동의; 무의식적인",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=automatic",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00181476-a, 02522669-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0330",
+    "headword": "empower",
+    "koreanMeaning": "권한을 주다; 능력을 갖추게 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=empower",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02473981-v, 02474239-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0331",
+    "headword": "addict",
+    "koreanMeaning": "중독자; 중독시키다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=addict",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 09768830-n, 09769076-n, 01165290-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0336",
+    "headword": "realistic",
+    "koreanMeaning": "현실적인; 사실적인",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=realistic",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01939984-a, 01979985-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0347",
+    "headword": "impact",
+    "koreanMeaning": "영향; 충격; 영향을 미치다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=impact",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 11414411-n, 00157957-n, 07338552-n, 00137313-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0370",
+    "headword": "resolve",
+    "koreanMeaning": "해결하다; 결심하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=resolve",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00698855-v, 00733044-v, 00699626-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0374",
+    "headword": "frighten",
+    "koreanMeaning": "겁먹게 하다; 놀라게 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=frighten",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01779165-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0382",
+    "headword": "rub",
+    "koreanMeaning": "문지르다; 비비다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=rub",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01249724-v, 01250908-v, 02119874-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0385",
+    "headword": "ray",
+    "koreanMeaning": "광선; 빛줄기; 가오리",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=ray",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 11428023-n, 11428379-n, 01495701-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0390",
+    "headword": "corporate",
+    "koreanMeaning": "기업의; 법인의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=corporate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02984781-a, 01670669-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0396",
+    "headword": "autograph",
+    "koreanMeaning": "사인; 자필 서명; 사인하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=autograph",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 06404907-n, 00997133-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0397",
+    "headword": "slave",
+    "koreanMeaning": "노예; ~에 얽매인 사람",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=slave",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 10609325-n, 10609686-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0408",
+    "headword": "broad",
+    "koreanMeaning": "넓은; 광범위한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=broad",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02560548-a, 00526062-a, 01384212-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0413",
+    "headword": "household",
+    "koreanMeaning": "가정; 가구",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=household",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 08078020-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0416",
+    "headword": "institute",
+    "koreanMeaning": "기관; 연구소; 설립하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=institute",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 08407330-n, 01647229-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0417",
+    "headword": "lately",
+    "koreanMeaning": "최근에; 요즘",
+    "partOfSpeech": "adverb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=lately",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00107416-r."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0424",
+    "headword": "evolution",
+    "koreanMeaning": "진화; 발전",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=evolution",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 13477023-n, 13464820-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0431",
+    "headword": "isolate",
+    "koreanMeaning": "고립시키다; 분리하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=isolate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00494269-v, 00495808-v, 00496770-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0433",
+    "headword": "sum",
+    "koreanMeaning": "합계; 금액; 합산하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=sum",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 05861067-n, 13331198-n, 00949288-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0445",
+    "headword": "formal",
+    "koreanMeaning": "공식적인; 격식을 차린; 형식적인",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=formal",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01041916-a, 01633153-a, 01045216-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0465",
+    "headword": "annual",
+    "koreanMeaning": "매년의; 연례의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=annual",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01969150-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0470",
+    "headword": "mature",
+    "koreanMeaning": "성숙한; 성숙하다; 만기가 되다",
+    "partOfSpeech": "adjective / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=mature",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01491775-a, 01488245-a, 00250181-v, 00577998-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0488",
+    "headword": "minor",
+    "koreanMeaning": "사소한; 덜 중요한; 미성년자",
+    "partOfSpeech": "adjective / noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=minor",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01473083-a, 01471723-a, 09917593-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0490",
+    "headword": "vigor",
+    "koreanMeaning": "활력; 기력; 힘",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=vigor",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 05035961-n, 05030806-n, 04633197-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0497",
+    "headword": "stream",
+    "koreanMeaning": "시내; 흐름; 흐르다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=stream",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 09448361-n, 08461595-n, 00329227-n, 02070466-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0515",
+    "headword": "fancy",
+    "koreanMeaning": "화려한; 공상; 좋아하다",
+    "partOfSpeech": "adjective / noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=fancy",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01794340-a, 05632272-n, 01776468-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0518",
+    "headword": "regulate",
+    "koreanMeaning": "규제하다; 조절하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=regulate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02511551-v, 00299341-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0526",
+    "headword": "contemporary",
+    "koreanMeaning": "현대의; 동시대의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=contemporary",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01536094-a, 00667079-a, 02378872-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0529",
+    "headword": "prior",
+    "koreanMeaning": "이전의; 앞선",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=prior",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00122128-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0532",
+    "headword": "abstract",
+    "koreanMeaning": "추상적인; 요약",
+    "partOfSpeech": "adjective / noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=abstract",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00011757-a, 06468951-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0537",
+    "headword": "prey",
+    "koreanMeaning": "먹이; 희생자; 먹이로 삼다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=prey",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02152881-n, 10470460-n, 01203500-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0547",
+    "headword": "literally",
+    "koreanMeaning": "문자 그대로; 그야말로",
+    "partOfSpeech": "adverb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=literally",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00340133-r, 00111269-r."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0548",
+    "headword": "appropriate",
+    "koreanMeaning": "적절한; 적합한; 배정하다",
+    "partOfSpeech": "adjective / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=appropriate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00134701-a, 00724150-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0549",
+    "headword": "resort",
+    "koreanMeaning": "휴양지; 의지하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=resort",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 08640531-n, 08581503-n, 02590072-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0552",
+    "headword": "wreck",
+    "koreanMeaning": "난파; 파괴된 잔해; 파괴하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=wreck",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 07353075-n, 14423870-n, 04606251-n, 01566185-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0557",
+    "headword": "install",
+    "koreanMeaning": "설치하다; 임명하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=install",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01569566-v, 02384041-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0558",
+    "headword": "triumph",
+    "koreanMeaning": "승리; 승리하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=triumph",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 07473441-n, 01101734-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0563",
+    "headword": "defect",
+    "koreanMeaning": "결함; 결점; 이탈하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=defect",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 14464005-n, 05162642-n, 14464203-n, 02584097-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0566",
+    "headword": "virtual",
+    "koreanMeaning": "가상의; 사실상의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=virtual",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00902157-a, 01941814-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0568",
+    "headword": "address",
+    "koreanMeaning": "주소; 연설; 다루다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=address",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 08491027-n, 06787150-n, 07238694-n, 01160899-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0597",
+    "headword": "harsh",
+    "koreanMeaning": "가혹한; 거친; 불쾌한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=harsh",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01803583-a, 01374183-a, 02230990-a, 01803792-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0603",
+    "headword": "usual",
+    "koreanMeaning": "보통의; 평소의; 흔히 있는",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=usual",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00489108-a, 00970610-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0623",
+    "headword": "dim",
+    "koreanMeaning": "희미한; 어두운; 어둡게 하다",
+    "partOfSpeech": "adjective / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=dim",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00782216-a, 00275290-a, 00313464-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0630",
+    "headword": "irritate",
+    "koreanMeaning": "짜증나게 하다; 자극하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=irritate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01787955-v, 00063291-v, 00503715-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0646",
+    "headword": "drastic",
+    "koreanMeaning": "과감한; 급격한; 철저한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=drastic",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00841934-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0647",
+    "headword": "reinforcement",
+    "koreanMeaning": "강화; 보강; 증원",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=reinforcement",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01219551-n, 04336034-n, 00971463-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0661",
+    "headword": "noble",
+    "koreanMeaning": "고귀한; 귀족의; 귀족",
+    "partOfSpeech": "adjective / noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=noble",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01588172-a, 01590115-a, 10271677-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0662",
+    "headword": "repair",
+    "koreanMeaning": "수리하다; 복구하다; 수리",
+    "partOfSpeech": "verb / noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=repair",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00260648-v, 00199912-v, 00266806-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0664",
+    "headword": "ideal",
+    "koreanMeaning": "이상적인; 이상",
+    "partOfSpeech": "adjective / noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=ideal",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01751201-a, 05923696-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0668",
+    "headword": "wholesale",
+    "koreanMeaning": "도매; 도매로 팔다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=wholesale",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01114646-n, 02247226-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0678",
+    "headword": "excess",
+    "koreanMeaning": "초과; 과잉; 초과한",
+    "partOfSpeech": "noun / adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=excess",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 05119714-n, 05118437-n, 01581305-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0682",
+    "headword": "outstanding",
+    "koreanMeaning": "뛰어난; 두드러진; 미지급된",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=outstanding",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02343762-a, 00580805-a, 01710543-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0722",
+    "headword": "incident",
+    "koreanMeaning": "사건; 일어난 일",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=incident",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 07307477-n, 13978033-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0725",
+    "headword": "moderate",
+    "koreanMeaning": "보통의; 온건한; 완화하다",
+    "partOfSpeech": "adjective / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=moderate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01531375-a, 01509367-a, 00198710-v, 01058036-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0737",
+    "headword": "urge",
+    "koreanMeaning": "촉구하다; 강한 충동",
+    "partOfSpeech": "verb / noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=urge",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00765649-v, 00875141-v, 07490451-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0739",
+    "headword": "antique",
+    "koreanMeaning": "골동품; 골동의; 오래된",
+    "partOfSpeech": "noun / adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=antique",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02723754-n, 01639446-a, 01638962-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0742",
+    "headword": "inherit",
+    "koreanMeaning": "상속받다; 물려받다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=inherit",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02315525-v, 02315938-v, 02315759-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0747",
+    "headword": "congestion",
+    "koreanMeaning": "혼잡; 정체; 충혈",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=congestion",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 13944747-n, 14320394-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0748",
+    "headword": "constitute",
+    "koreanMeaning": "구성하다; 이루다; 설립하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=constitute",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02620587-v, 02621395-v, 01647229-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0752",
+    "headword": "circular",
+    "koreanMeaning": "원형의; 회람",
+    "partOfSpeech": "adjective / noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=circular",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02040652-a, 00676271-a, 07250339-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0766",
+    "headword": "opponent",
+    "koreanMeaning": "상대; 반대자",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=opponent",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 10379620-n, 09773245-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0773",
+    "headword": "fossil",
+    "koreanMeaning": "화석",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=fossil",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 09284589-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0775",
+    "headword": "miserable",
+    "koreanMeaning": "비참한; 몹시 불행한; 형편없는",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=miserable",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00478872-a, 01150205-a, 02347086-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0784",
+    "headword": "scan",
+    "koreanMeaning": "훑어보다; 자세히 살피다; 스캔하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=scan",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02152278-v, 02152504-v, 01855447-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0787",
+    "headword": "property",
+    "koreanMeaning": "재산; 특성; 속성",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=property",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 13244109-n, 04916342-n, 05849040-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0806",
+    "headword": "intimate",
+    "koreanMeaning": "친밀한; 밀접한; 암시하다",
+    "partOfSpeech": "adjective / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=intimate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00453308-a, 00453053-a, 00927711-v, 00930806-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0807",
+    "headword": "reception",
+    "koreanMeaning": "접수; 환영회; 수신",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=reception",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00090253-n, 08254331-n, 06281040-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0820",
+    "headword": "orbit",
+    "koreanMeaning": "궤도; 궤도를 돌다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=orbit",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 08612049-n, 08612340-n, 02043982-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0823",
+    "headword": "immune",
+    "koreanMeaning": "면역의; 영향을 받지 않는",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=immune",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02745862-a, 02363614-a, 00072281-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0825",
+    "headword": "superior",
+    "koreanMeaning": "우수한; 상위의; 상관",
+    "partOfSpeech": "adjective / noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=superior",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02341266-a, 02338615-a, 02100566-a, 10676018-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0831",
+    "headword": "bond",
+    "koreanMeaning": "유대; 채권; 결속시키다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=bond",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 13792183-n, 13417410-n, 02538086-v, 01607072-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0836",
+    "headword": "caution",
+    "koreanMeaning": "주의; 경고; 경고하다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=caution",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 04664058-n, 07225167-n, 00871195-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0839",
+    "headword": "stuff",
+    "koreanMeaning": "물건; 재료; 채워 넣다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=stuff",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 04345288-n, 14580897-n, 01524871-v, 00321148-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0857",
+    "headword": "alert",
+    "koreanMeaning": "경계하는; 기민한; 경보",
+    "partOfSpeech": "adjective / noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=alert",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00091311-a, 00190653-a, 06803157-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0858",
+    "headword": "compact",
+    "koreanMeaning": "아담한; 빽빽한; 압축하다",
+    "partOfSpeech": "adjective / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=compact",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02387413-a, 00502180-a, 01389329-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0860",
+    "headword": "astonish",
+    "koreanMeaning": "깜짝 놀라게 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=astonish",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00724832-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0870",
+    "headword": "inflate",
+    "koreanMeaning": "부풀리다; 팽창하다; 과장하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=inflate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00264034-v, 00256117-v, 00264386-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0873",
+    "headword": "joint",
+    "koreanMeaning": "공동의; 관절; 접합부",
+    "partOfSpeech": "adjective / noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=joint",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 02111684-a, 02152716-a, 05595083-n, 03600977-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0875",
+    "headword": "passage",
+    "koreanMeaning": "통로; 구절; 통과",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=passage",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 03895293-n, 06400271-n, 00201058-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0879",
+    "headword": "marble",
+    "koreanMeaning": "대리석; 구슬",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=marble",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 14947807-n, 03721047-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0891",
+    "headword": "federal",
+    "koreanMeaning": "연방의; 연방 정부의",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=federal",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01107206-a, 02725829-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0893",
+    "headword": "casual",
+    "koreanMeaning": "격식 없는; 평상시의; 우연한",
+    "partOfSpeech": "adjective",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=casual",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01044557-a, 01044730-a, 01798162-a."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0911",
+    "headword": "peasant",
+    "koreanMeaning": "농민; 소작농",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=peasant",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 10410668-n, 10410996-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0912",
+    "headword": "diminish",
+    "koreanMeaning": "줄이다; 줄어들다; 약화시키다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=diminish",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00151689-v, 00441881-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0923",
+    "headword": "suggest",
+    "koreanMeaning": "제안하다; 암시하다; 떠올리게 하다",
+    "partOfSpeech": "verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=suggest",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00875394-v, 00927430-v, 00930806-v, 00930368-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0932",
+    "headword": "nerve",
+    "koreanMeaning": "신경; 용기; 뻔뻔함",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=nerve",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 05474346-n, 04857490-n, 04838210-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0933",
+    "headword": "prompt",
+    "koreanMeaning": "즉각적인; 신속한; 촉구하다",
+    "partOfSpeech": "adjective / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=prompt",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 00978754-a, 01931676-a, 01649999-v, 00771961-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0945",
+    "headword": "deliberate",
+    "koreanMeaning": "고의적인; 신중한; 숙고하다",
+    "partOfSpeech": "adjective / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=deliberate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 01337939-a, 01271961-a, 00813044-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0946",
+    "headword": "plot",
+    "koreanMeaning": "줄거리; 음모; 음모를 꾸미다",
+    "partOfSpeech": "noun / verb",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=plot",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 06373314-n, 05907682-n, 00708128-v."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0947",
+    "headword": "rod",
+    "koreanMeaning": "막대; 봉",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=rod",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 04100174-n."
+      }
+    ]
+  },
+  {
+    "entryId": "suneung-2000-row-0951",
+    "headword": "fate",
+    "koreanMeaning": "운명",
+    "partOfSpeech": "noun",
+    "definitionProvenance": [
+      {
+        "sourceId": "princeton-wordnet-3.0",
+        "url": "https://wordnetweb.princeton.edu/perl/webwn?s=fate",
+        "license": "WordNet-3.0",
+        "method": "definition-based-editorial-translation",
+        "notes": "영어 정의를 바탕으로 대표 뜻과 품사를 편집한 한국어 뜻입니다. PDF 원문 뜻이 아닙니다. WordNet 3.0 synsets: 07330007-n, 09504915-n, 14473222-n."
+      }
+    ]
+  }
+]

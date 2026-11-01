@@ -1,0 +1,2782 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "1.0.0-12week-draft",
+  "weekPlans": [
+    {
+      "id": "week-01",
+      "week": 1,
+      "titleKo": "학습 루틴과 핵심 정보",
+      "vocabFocusKo": "기초 진단·능동 회상·문장 핵심",
+      "readingGoalKo": "짧은 글에서 핵심 정보와 근거 찾기",
+      "weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "saturday": "optional_boss",
+      "sunday": "optional_rest_or_review",
+      "vocabularyIds": [
+        "v-progress-sense1",
+        "v-practice-sense1",
+        "v-complete-sense1",
+        "v-avoid-sense1",
+        "v-improve-sense1",
+        "v-clarify-sense1",
+        "v-include-sense1",
+        "v-challenge-sense1",
+        "v-benefit-sense1",
+        "v-focus-sense1",
+        "v-attempt-sense1",
+        "v-accurate-sense1",
+        "v-organize-sense1",
+        "v-adapt-sense1",
+        "v-compare-sense1",
+        "v-strategy-sense1",
+        "v-review-sense1",
+        "v-curious-sense1",
+        "v-effort-sense1",
+        "v-achieve-sense1",
+        "v-develop-sense1",
+        "v-notice-sense1",
+        "v-alter-sense1",
+        "v-approach-sense1",
+        "v-adequate-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-001",
+        "syn-extra-002",
+        "syn-extra-003",
+        "syn-extra-004",
+        "syn-extra-005"
+      ],
+      "readingIds": [
+        "read-001",
+        "read-extra-001",
+        "read-extra-002",
+        "read-extra-003",
+        "read-extra-004"
+      ]
+    },
+    {
+      "id": "week-02",
+      "week": 2,
+      "titleKo": "다의어와 문맥",
+      "vocabFocusKo": "다의어·연어·품사·어조",
+      "readingGoalKo": "동일한 단어의 문맥별 의미 판별",
+      "weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "saturday": "optional_boss",
+      "sunday": "optional_rest_or_review",
+      "vocabularyIds": [
+        "v-brief-sense1",
+        "v-ambiguity-sense1",
+        "v-feature-sense1",
+        "v-combine-sense1",
+        "v-apply-sense1",
+        "v-nuance-sense1",
+        "v-consider-sense1",
+        "v-convey-sense1",
+        "v-detail-sense1",
+        "v-choice-sense1",
+        "v-diverse-sense1",
+        "v-anticipate-sense1",
+        "v-habit-sense1",
+        "v-arrange-sense1",
+        "v-connect-sense1",
+        "v-complex-sense1",
+        "v-literal-sense1",
+        "v-describe-sense1",
+        "v-behavior-sense1",
+        "v-replace-sense1",
+        "v-efficient-sense1",
+        "v-attend-sense1",
+        "v-context-sense1",
+        "v-prefer-sense1",
+        "v-express-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-006",
+        "syn-extra-007",
+        "syn-extra-008",
+        "syn-extra-009",
+        "syn-extra-010"
+      ],
+      "readingIds": [
+        "read-002",
+        "read-extra-005",
+        "read-extra-006",
+        "read-extra-007",
+        "read-extra-008"
+      ]
+    },
+    {
+      "id": "week-03",
+      "week": 3,
+      "titleKo": "문장 구조 해독 I",
+      "vocabFocusKo": "주절·관계절·문장 성분",
+      "readingGoalKo": "긴 문장 속 핵심 구조 식별",
+      "weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "saturday": "optional_boss",
+      "sunday": "optional_rest_or_review",
+      "vocabularyIds": [
+        "v-follow-sense1",
+        "v-emphasize-sense1",
+        "v-refer-sense1",
+        "v-sequence-sense1",
+        "v-expand-sense1",
+        "v-contain-sense1",
+        "v-assumption-sense1",
+        "v-support-sense1",
+        "v-function-sense1",
+        "v-relative-sense1",
+        "v-explain-sense1",
+        "v-subject-sense1",
+        "v-assess-sense1",
+        "v-belong-sense1",
+        "v-predicate-sense1",
+        "v-apparent-sense1",
+        "v-phrase-sense1",
+        "v-restrict-sense1",
+        "v-qualify-sense1",
+        "v-subordinate-sense1",
+        "v-relate-sense1",
+        "v-depend-sense1",
+        "v-mention-sense1",
+        "v-modify-sense1",
+        "v-separate-sense1"
+      ],
+      "syntaxIds": [
+        "syn-001",
+        "syn-002",
+        "syn-003",
+        "syn-004",
+        "syn-005"
+      ],
+      "readingIds": [
+        "read-003",
+        "read-extra-009",
+        "read-extra-010",
+        "read-extra-011",
+        "read-extra-012"
+      ]
+    },
+    {
+      "id": "week-04",
+      "week": 4,
+      "titleKo": "문장 구조 해독 II",
+      "vocabFocusKo": "양보·조건·분사·정보의 위계",
+      "readingGoalKo": "조건과 부연 설명 분리",
+      "weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "saturday": "optional_boss",
+      "sunday": "optional_rest_or_review",
+      "vocabularyIds": [
+        "v-except-sense1",
+        "v-whether-sense1",
+        "v-conditional-sense1",
+        "v-while-sense1",
+        "v-otherwise-sense1",
+        "v-involve-sense1",
+        "v-require-sense1",
+        "v-conclude-sense1",
+        "v-attain-sense1",
+        "v-regardless-sense1",
+        "v-instead-sense1",
+        "v-indicate-sense1",
+        "v-allow-sense1",
+        "v-limit-sense1",
+        "v-whereas-sense1",
+        "v-identify-sense1",
+        "v-collapse-sense1",
+        "v-occur-sense1",
+        "v-prior-sense1",
+        "v-despite-sense1",
+        "v-within-sense1",
+        "v-concession-sense1",
+        "v-exception-sense1",
+        "v-flexible-sense1",
+        "v-unless-sense1"
+      ],
+      "syntaxIds": [
+        "syn-006",
+        "syn-007",
+        "syn-008",
+        "syn-009",
+        "syn-010"
+      ],
+      "readingIds": [
+        "read-004",
+        "read-extra-013",
+        "read-extra-014",
+        "read-extra-015",
+        "read-extra-016"
+      ]
+    },
+    {
+      "id": "week-05",
+      "week": 5,
+      "titleKo": "원인·결과·환경",
+      "vocabFocusKo": "인과·증감·변화·기초 실험",
+      "readingGoalKo": "과학·환경 글에서 원인과 근거 찾기",
+      "weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "saturday": "optional_boss",
+      "sunday": "optional_rest_or_review",
+      "vocabularyIds": [
+        "v-damage-sense1",
+        "v-accelerate-sense1",
+        "v-fluctuate-sense1",
+        "v-increase-sense1",
+        "v-consistent-sense1",
+        "v-decrease-sense1",
+        "v-cause-sense1",
+        "v-contribute-sense1",
+        "v-mechanism-sense1",
+        "v-conflict-sense1",
+        "v-contrast-sense1",
+        "v-release-sense1",
+        "v-carbon-sense1",
+        "v-emission-sense1",
+        "v-consequence-sense1",
+        "v-sustain-sense1",
+        "v-affect-sense1",
+        "v-proportion-sense1",
+        "v-prevent-sense1",
+        "v-environment-sense1",
+        "v-disrupt-sense1",
+        "v-accumulate-sense1",
+        "v-consume-sense1",
+        "v-result-sense1",
+        "v-adaptation-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-011",
+        "syn-extra-012",
+        "syn-extra-013",
+        "syn-extra-014",
+        "syn-extra-015"
+      ],
+      "readingIds": [
+        "read-005",
+        "read-extra-017",
+        "read-extra-018",
+        "read-extra-019",
+        "read-extra-020"
+      ]
+    },
+    {
+      "id": "week-06",
+      "week": 6,
+      "titleKo": "근거와 판단",
+      "vocabFocusKo": "추상 명사·논거·대안",
+      "readingGoalKo": "견해 및 근거를 재진술하기",
+      "weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "saturday": "optional_boss",
+      "sunday": "optional_rest_or_review",
+      "vocabularyIds": [
+        "v-verify-sense1",
+        "v-demonstrate-sense1",
+        "v-criterion-sense1",
+        "v-belief-sense1",
+        "v-alternative-sense1",
+        "v-factor-sense1",
+        "v-reliable-sense1",
+        "v-empathy-sense1",
+        "v-valid-sense1",
+        "v-decline-sense1",
+        "v-infer-sense1",
+        "v-detect-sense1",
+        "v-capacity-sense1",
+        "v-purpose-sense1",
+        "v-rational-sense1",
+        "v-perception-sense1",
+        "v-priority-sense1",
+        "v-attribute-sense1",
+        "v-justify-sense1",
+        "v-decision-sense1",
+        "v-convince-sense1",
+        "v-debate-sense1",
+        "v-evidence-sense1",
+        "v-crucial-sense1",
+        "v-bias-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-016",
+        "syn-extra-017",
+        "syn-extra-018",
+        "syn-extra-019",
+        "syn-extra-020"
+      ],
+      "readingIds": [
+        "read-006",
+        "read-extra-021",
+        "read-extra-022",
+        "read-extra-023",
+        "read-extra-024"
+      ]
+    },
+    {
+      "id": "week-07",
+      "week": 7,
+      "titleKo": "글의 논리 I",
+      "vocabFocusKo": "주장·반론·양보·논리 연결어",
+      "readingGoalKo": "글의 논증 구조 파악",
+      "weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "saturday": "optional_boss",
+      "sunday": "optional_rest_or_review",
+      "vocabularyIds": [
+        "v-logical-sense1",
+        "v-emerge-sense1",
+        "v-enable-sense1",
+        "v-claim-sense1",
+        "v-thus-sense1",
+        "v-premise-sense1",
+        "v-persuade-sense1",
+        "v-rebut-sense1",
+        "v-disagree-sense1",
+        "v-determine-sense1",
+        "v-objection-sense1",
+        "v-evidence-based-sense1",
+        "v-encounter-sense1",
+        "v-concede-sense1",
+        "v-fallacy-sense1",
+        "v-reasoning-sense1",
+        "v-argument-sense1",
+        "v-refute-sense1",
+        "v-qualitative-sense1",
+        "v-assert-sense1",
+        "v-corroborate-sense1",
+        "v-counterargument-sense1",
+        "v-acknowledge-sense1",
+        "v-therefore-sense1",
+        "v-distinct-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-021",
+        "syn-extra-022",
+        "syn-extra-023",
+        "syn-extra-024",
+        "syn-extra-025"
+      ],
+      "readingIds": [
+        "read-extra-025",
+        "read-extra-026",
+        "read-extra-027",
+        "read-extra-028",
+        "read-extra-029"
+      ]
+    },
+    {
+      "id": "week-08",
+      "week": 8,
+      "titleKo": "글의 논리 II",
+      "vocabFocusKo": "지시어·생략·암시",
+      "readingGoalKo": "텍스트의 숨은 연결과 지시 대상 추론",
+      "weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "saturday": "optional_boss",
+      "sunday": "optional_rest_or_review",
+      "vocabularyIds": [
+        "v-underlying-sense1",
+        "v-subtext-sense1",
+        "v-inference-sense1",
+        "v-interpretation-sense1",
+        "v-convention-sense1",
+        "v-assume-sense1",
+        "v-transition-sense1",
+        "v-reference-sense1",
+        "v-ambiguously-sense1",
+        "v-background-sense1",
+        "v-structure-sense1",
+        "v-substitute-sense1",
+        "v-analyze-sense1",
+        "v-implicit-sense1",
+        "v-cohesion-sense1",
+        "v-enhance-sense1",
+        "v-explicit-sense1",
+        "v-unify-sense1",
+        "v-generate-sense1",
+        "v-establish-sense1",
+        "v-evident-sense1",
+        "v-evaluate-sense1",
+        "v-distinguish-sense1",
+        "v-continuity-sense1",
+        "v-signal-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-026",
+        "syn-extra-027",
+        "syn-extra-028",
+        "syn-extra-029",
+        "syn-extra-030"
+      ],
+      "readingIds": [
+        "read-extra-030",
+        "read-extra-031",
+        "read-extra-032",
+        "read-extra-033",
+        "read-extra-034"
+      ]
+    },
+    {
+      "id": "week-09",
+      "week": 9,
+      "titleKo": "주제·제목·요지",
+      "vocabFocusKo": "핵심 문장·요약·추상 개념",
+      "readingGoalKo": "전체 의미를 포괄하는 주제 선택",
+      "weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "saturday": "optional_boss",
+      "sunday": "optional_rest_or_review",
+      "vocabularyIds": [
+        "v-issue-sense1",
+        "v-articulate-sense1",
+        "v-conventional-sense1",
+        "v-fundamental-sense1",
+        "v-outline-sense1",
+        "v-summarize-sense1",
+        "v-essential-sense1",
+        "v-abstract-sense1",
+        "v-overall-sense1",
+        "v-highlight-sense1",
+        "v-major-sense1",
+        "v-objective-sense1",
+        "v-overarching-sense1",
+        "v-interpret-sense1",
+        "v-perspective-sense1",
+        "v-concept-sense1",
+        "v-conclusion-sense1",
+        "v-elaborate-sense1",
+        "v-synthesize-sense1",
+        "v-integrate-sense1",
+        "v-viewpoint-sense1",
+        "v-maintain-sense1",
+        "v-theme-sense1",
+        "v-illustrate-sense1",
+        "v-central-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-031",
+        "syn-extra-032",
+        "syn-extra-033",
+        "syn-extra-034",
+        "syn-extra-035"
+      ],
+      "readingIds": [
+        "read-extra-035",
+        "read-extra-036",
+        "read-extra-037",
+        "read-extra-038",
+        "read-extra-039"
+      ]
+    },
+    {
+      "id": "week-10",
+      "week": 10,
+      "titleKo": "빈칸·문장 연결",
+      "vocabFocusKo": "논리적 연결·가정·추론",
+      "readingGoalKo": "빈칸 선택과 논리 흐름의 판단",
+      "weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "saturday": "optional_boss",
+      "sunday": "optional_rest_or_review",
+      "vocabularyIds": [
+        "v-predict-sense1",
+        "v-deduce-sense1",
+        "v-irrelevant-sense1",
+        "v-constrain-sense1",
+        "v-coincide-sense1",
+        "v-deliberate-sense1",
+        "v-inevitable-sense1",
+        "v-deviation-sense1",
+        "v-eliminate-sense1",
+        "v-correspond-sense1",
+        "v-preserve-sense1",
+        "v-reluctant-sense1",
+        "v-compelling-sense1",
+        "v-tentative-sense1",
+        "v-appropriate-sense1",
+        "v-significant-sense1",
+        "v-allocate-sense1",
+        "v-extrapolate-sense1",
+        "v-plausible-sense1",
+        "v-contrary-sense1",
+        "v-relevant-sense1",
+        "v-dilemma-sense1",
+        "v-contradict-sense1",
+        "v-hypothesis-sense1",
+        "v-inhibit-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-036",
+        "syn-extra-037",
+        "syn-extra-038",
+        "syn-extra-039",
+        "syn-extra-040"
+      ],
+      "readingIds": [
+        "read-extra-040",
+        "read-extra-041",
+        "read-extra-042",
+        "read-extra-043",
+        "read-extra-044"
+      ]
+    },
+    {
+      "id": "week-11",
+      "week": 11,
+      "titleKo": "복합 상황의 의사결정",
+      "vocabFocusKo": "상충 관계·형평·제약·회복력",
+      "readingGoalKo": "정책·기술 문제에서 근거 통합",
+      "weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "saturday": "optional_boss",
+      "sunday": "optional_rest_or_review",
+      "vocabularyIds": [
+        "v-viable-sense1",
+        "v-infrastructure-sense1",
+        "v-comprehensive-sense1",
+        "v-incentive-sense1",
+        "v-constraint-sense1",
+        "v-scarcity-sense1",
+        "v-feasible-sense1",
+        "v-mitigate-sense1",
+        "v-resilience-sense1",
+        "v-aggregate-sense1",
+        "v-transform-sense1",
+        "v-contingent-sense1",
+        "v-autonomous-sense1",
+        "v-coherent-sense1",
+        "v-compensate-sense1",
+        "v-trade-off-sense1",
+        "v-heterogeneous-sense1",
+        "v-interdependence-sense1",
+        "v-disparity-sense1",
+        "v-equitable-sense1",
+        "v-adverse-sense1",
+        "v-empirical-sense1",
+        "v-advocate-sense1",
+        "v-cognitive-sense1",
+        "v-credible-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-041",
+        "syn-extra-042",
+        "syn-extra-043",
+        "syn-extra-044",
+        "syn-extra-045"
+      ],
+      "readingIds": [
+        "read-extra-045",
+        "read-extra-046",
+        "read-extra-047",
+        "read-extra-048",
+        "read-extra-049"
+      ]
+    },
+    {
+      "id": "week-12",
+      "week": 12,
+      "titleKo": "종합 독해와 재진단",
+      "vocabFocusKo": "불확실성·인과·전략·평가",
+      "readingGoalKo": "학습 평가와 다음 단계 계획",
+      "weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "saturday": "optional_boss",
+      "sunday": "optional_rest_or_review",
+      "vocabularyIds": [
+        "v-diminish-sense1",
+        "v-robust-sense1",
+        "v-optimize-sense1",
+        "v-sustainable-sense1",
+        "v-longitudinal-sense1",
+        "v-innovative-sense1",
+        "v-replicate-sense1",
+        "v-paradox-sense1",
+        "v-provisional-sense1",
+        "v-causal-sense1",
+        "v-exposure-sense1",
+        "v-uncertainty-sense1",
+        "v-imply-sense1",
+        "v-counterintuitive-sense1",
+        "v-marginal-sense1",
+        "v-implement-sense1",
+        "v-compromise-sense1",
+        "v-deteriorate-sense1",
+        "v-derive-sense1",
+        "v-pragmatic-sense1",
+        "v-adaptive-sense1",
+        "v-ethical-sense1",
+        "v-perceive-sense1",
+        "v-accountability-sense1",
+        "v-cumulative-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-046",
+        "syn-extra-047",
+        "syn-extra-048",
+        "syn-extra-049",
+        "syn-extra-050"
+      ],
+      "readingIds": [
+        "read-extra-050",
+        "read-extra-051",
+        "read-extra-052",
+        "read-extra-053",
+        "read-extra-054"
+      ]
+    }
+  ],
+  "dailyPlans": [
+    {
+      "id": "w01-d1",
+      "week": 1,
+      "day": 1,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-progress-sense1",
+        "v-practice-sense1",
+        "v-complete-sense1",
+        "v-avoid-sense1",
+        "v-improve-sense1"
+      ],
+      "syntaxId": "syn-extra-001",
+      "readingId": "read-001",
+      "readingQuestionIds": [
+        "read-001-q1",
+        "read-001-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w01-d2",
+      "week": 1,
+      "day": 2,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-clarify-sense1",
+        "v-include-sense1",
+        "v-challenge-sense1",
+        "v-benefit-sense1",
+        "v-focus-sense1"
+      ],
+      "syntaxId": "syn-extra-002",
+      "readingId": "read-extra-001",
+      "readingQuestionIds": [
+        "read-extra-001-q1",
+        "read-extra-001-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w01-d3",
+      "week": 1,
+      "day": 3,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-attempt-sense1",
+        "v-accurate-sense1",
+        "v-organize-sense1",
+        "v-adapt-sense1",
+        "v-compare-sense1"
+      ],
+      "syntaxId": "syn-extra-003",
+      "readingId": "read-extra-002",
+      "readingQuestionIds": [
+        "read-extra-002-q1",
+        "read-extra-002-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w01-d4",
+      "week": 1,
+      "day": 4,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-strategy-sense1",
+        "v-review-sense1",
+        "v-curious-sense1",
+        "v-effort-sense1",
+        "v-achieve-sense1"
+      ],
+      "syntaxId": "syn-extra-004",
+      "readingId": "read-extra-003",
+      "readingQuestionIds": [
+        "read-extra-003-q1",
+        "read-extra-003-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w01-d5",
+      "week": 1,
+      "day": 5,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-develop-sense1",
+        "v-notice-sense1",
+        "v-alter-sense1",
+        "v-approach-sense1",
+        "v-adequate-sense1"
+      ],
+      "syntaxId": "syn-extra-005",
+      "readingId": "read-extra-004",
+      "readingQuestionIds": [
+        "read-extra-004-q1",
+        "read-extra-004-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w02-d1",
+      "week": 2,
+      "day": 1,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-brief-sense1",
+        "v-ambiguity-sense1",
+        "v-feature-sense1",
+        "v-combine-sense1",
+        "v-apply-sense1"
+      ],
+      "syntaxId": "syn-extra-006",
+      "readingId": "read-002",
+      "readingQuestionIds": [
+        "read-002-q1",
+        "read-002-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w02-d2",
+      "week": 2,
+      "day": 2,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-nuance-sense1",
+        "v-consider-sense1",
+        "v-convey-sense1",
+        "v-detail-sense1",
+        "v-choice-sense1"
+      ],
+      "syntaxId": "syn-extra-007",
+      "readingId": "read-extra-005",
+      "readingQuestionIds": [
+        "read-extra-005-q1",
+        "read-extra-005-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w02-d3",
+      "week": 2,
+      "day": 3,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-diverse-sense1",
+        "v-anticipate-sense1",
+        "v-habit-sense1",
+        "v-arrange-sense1",
+        "v-connect-sense1"
+      ],
+      "syntaxId": "syn-extra-008",
+      "readingId": "read-extra-006",
+      "readingQuestionIds": [
+        "read-extra-006-q1",
+        "read-extra-006-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w02-d4",
+      "week": 2,
+      "day": 4,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-complex-sense1",
+        "v-literal-sense1",
+        "v-describe-sense1",
+        "v-behavior-sense1",
+        "v-replace-sense1"
+      ],
+      "syntaxId": "syn-extra-009",
+      "readingId": "read-extra-007",
+      "readingQuestionIds": [
+        "read-extra-007-q1",
+        "read-extra-007-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w02-d5",
+      "week": 2,
+      "day": 5,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-efficient-sense1",
+        "v-attend-sense1",
+        "v-context-sense1",
+        "v-prefer-sense1",
+        "v-express-sense1"
+      ],
+      "syntaxId": "syn-extra-010",
+      "readingId": "read-extra-008",
+      "readingQuestionIds": [
+        "read-extra-008-q1",
+        "read-extra-008-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w03-d1",
+      "week": 3,
+      "day": 1,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-follow-sense1",
+        "v-emphasize-sense1",
+        "v-refer-sense1",
+        "v-sequence-sense1",
+        "v-expand-sense1"
+      ],
+      "syntaxId": "syn-001",
+      "readingId": "read-003",
+      "readingQuestionIds": [
+        "read-003-q1",
+        "read-003-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w03-d2",
+      "week": 3,
+      "day": 2,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-contain-sense1",
+        "v-assumption-sense1",
+        "v-support-sense1",
+        "v-function-sense1",
+        "v-relative-sense1"
+      ],
+      "syntaxId": "syn-002",
+      "readingId": "read-extra-009",
+      "readingQuestionIds": [
+        "read-extra-009-q1",
+        "read-extra-009-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w03-d3",
+      "week": 3,
+      "day": 3,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-explain-sense1",
+        "v-subject-sense1",
+        "v-assess-sense1",
+        "v-belong-sense1",
+        "v-predicate-sense1"
+      ],
+      "syntaxId": "syn-003",
+      "readingId": "read-extra-010",
+      "readingQuestionIds": [
+        "read-extra-010-q1",
+        "read-extra-010-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w03-d4",
+      "week": 3,
+      "day": 4,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-apparent-sense1",
+        "v-phrase-sense1",
+        "v-restrict-sense1",
+        "v-qualify-sense1",
+        "v-subordinate-sense1"
+      ],
+      "syntaxId": "syn-004",
+      "readingId": "read-extra-011",
+      "readingQuestionIds": [
+        "read-extra-011-q1",
+        "read-extra-011-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w03-d5",
+      "week": 3,
+      "day": 5,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-relate-sense1",
+        "v-depend-sense1",
+        "v-mention-sense1",
+        "v-modify-sense1",
+        "v-separate-sense1"
+      ],
+      "syntaxId": "syn-005",
+      "readingId": "read-extra-012",
+      "readingQuestionIds": [
+        "read-extra-012-q1",
+        "read-extra-012-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w04-d1",
+      "week": 4,
+      "day": 1,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-except-sense1",
+        "v-whether-sense1",
+        "v-conditional-sense1",
+        "v-while-sense1",
+        "v-otherwise-sense1"
+      ],
+      "syntaxId": "syn-006",
+      "readingId": "read-004",
+      "readingQuestionIds": [
+        "read-004-q1",
+        "read-004-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w04-d2",
+      "week": 4,
+      "day": 2,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-involve-sense1",
+        "v-require-sense1",
+        "v-conclude-sense1",
+        "v-attain-sense1",
+        "v-regardless-sense1"
+      ],
+      "syntaxId": "syn-007",
+      "readingId": "read-extra-013",
+      "readingQuestionIds": [
+        "read-extra-013-q1",
+        "read-extra-013-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w04-d3",
+      "week": 4,
+      "day": 3,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-instead-sense1",
+        "v-indicate-sense1",
+        "v-allow-sense1",
+        "v-limit-sense1",
+        "v-whereas-sense1"
+      ],
+      "syntaxId": "syn-008",
+      "readingId": "read-extra-014",
+      "readingQuestionIds": [
+        "read-extra-014-q1",
+        "read-extra-014-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w04-d4",
+      "week": 4,
+      "day": 4,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-identify-sense1",
+        "v-collapse-sense1",
+        "v-occur-sense1",
+        "v-prior-sense1",
+        "v-despite-sense1"
+      ],
+      "syntaxId": "syn-009",
+      "readingId": "read-extra-015",
+      "readingQuestionIds": [
+        "read-extra-015-q1",
+        "read-extra-015-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w04-d5",
+      "week": 4,
+      "day": 5,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-within-sense1",
+        "v-concession-sense1",
+        "v-exception-sense1",
+        "v-flexible-sense1",
+        "v-unless-sense1"
+      ],
+      "syntaxId": "syn-010",
+      "readingId": "read-extra-016",
+      "readingQuestionIds": [
+        "read-extra-016-q1",
+        "read-extra-016-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w05-d1",
+      "week": 5,
+      "day": 1,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-damage-sense1",
+        "v-accelerate-sense1",
+        "v-fluctuate-sense1",
+        "v-increase-sense1",
+        "v-consistent-sense1"
+      ],
+      "syntaxId": "syn-extra-011",
+      "readingId": "read-005",
+      "readingQuestionIds": [
+        "read-005-q1",
+        "read-005-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w05-d2",
+      "week": 5,
+      "day": 2,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-decrease-sense1",
+        "v-cause-sense1",
+        "v-contribute-sense1",
+        "v-mechanism-sense1",
+        "v-conflict-sense1"
+      ],
+      "syntaxId": "syn-extra-012",
+      "readingId": "read-extra-017",
+      "readingQuestionIds": [
+        "read-extra-017-q1",
+        "read-extra-017-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w05-d3",
+      "week": 5,
+      "day": 3,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-contrast-sense1",
+        "v-release-sense1",
+        "v-carbon-sense1",
+        "v-emission-sense1",
+        "v-consequence-sense1"
+      ],
+      "syntaxId": "syn-extra-013",
+      "readingId": "read-extra-018",
+      "readingQuestionIds": [
+        "read-extra-018-q1",
+        "read-extra-018-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w05-d4",
+      "week": 5,
+      "day": 4,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-sustain-sense1",
+        "v-affect-sense1",
+        "v-proportion-sense1",
+        "v-prevent-sense1",
+        "v-environment-sense1"
+      ],
+      "syntaxId": "syn-extra-014",
+      "readingId": "read-extra-019",
+      "readingQuestionIds": [
+        "read-extra-019-q1",
+        "read-extra-019-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w05-d5",
+      "week": 5,
+      "day": 5,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-disrupt-sense1",
+        "v-accumulate-sense1",
+        "v-consume-sense1",
+        "v-result-sense1",
+        "v-adaptation-sense1"
+      ],
+      "syntaxId": "syn-extra-015",
+      "readingId": "read-extra-020",
+      "readingQuestionIds": [
+        "read-extra-020-q1",
+        "read-extra-020-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w06-d1",
+      "week": 6,
+      "day": 1,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-verify-sense1",
+        "v-demonstrate-sense1",
+        "v-criterion-sense1",
+        "v-belief-sense1",
+        "v-alternative-sense1"
+      ],
+      "syntaxId": "syn-extra-016",
+      "readingId": "read-006",
+      "readingQuestionIds": [
+        "read-006-q1",
+        "read-006-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w06-d2",
+      "week": 6,
+      "day": 2,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-factor-sense1",
+        "v-reliable-sense1",
+        "v-empathy-sense1",
+        "v-valid-sense1",
+        "v-decline-sense1"
+      ],
+      "syntaxId": "syn-extra-017",
+      "readingId": "read-extra-021",
+      "readingQuestionIds": [
+        "read-extra-021-q1",
+        "read-extra-021-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w06-d3",
+      "week": 6,
+      "day": 3,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-infer-sense1",
+        "v-detect-sense1",
+        "v-capacity-sense1",
+        "v-purpose-sense1",
+        "v-rational-sense1"
+      ],
+      "syntaxId": "syn-extra-018",
+      "readingId": "read-extra-022",
+      "readingQuestionIds": [
+        "read-extra-022-q1",
+        "read-extra-022-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w06-d4",
+      "week": 6,
+      "day": 4,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-perception-sense1",
+        "v-priority-sense1",
+        "v-attribute-sense1",
+        "v-justify-sense1",
+        "v-decision-sense1"
+      ],
+      "syntaxId": "syn-extra-019",
+      "readingId": "read-extra-023",
+      "readingQuestionIds": [
+        "read-extra-023-q1",
+        "read-extra-023-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w06-d5",
+      "week": 6,
+      "day": 5,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-convince-sense1",
+        "v-debate-sense1",
+        "v-evidence-sense1",
+        "v-crucial-sense1",
+        "v-bias-sense1"
+      ],
+      "syntaxId": "syn-extra-020",
+      "readingId": "read-extra-024",
+      "readingQuestionIds": [
+        "read-extra-024-q1",
+        "read-extra-024-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w07-d1",
+      "week": 7,
+      "day": 1,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-logical-sense1",
+        "v-emerge-sense1",
+        "v-enable-sense1",
+        "v-claim-sense1",
+        "v-thus-sense1"
+      ],
+      "syntaxId": "syn-extra-021",
+      "readingId": "read-extra-025",
+      "readingQuestionIds": [
+        "read-extra-025-q1",
+        "read-extra-025-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w07-d2",
+      "week": 7,
+      "day": 2,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-premise-sense1",
+        "v-persuade-sense1",
+        "v-rebut-sense1",
+        "v-disagree-sense1",
+        "v-determine-sense1"
+      ],
+      "syntaxId": "syn-extra-022",
+      "readingId": "read-extra-026",
+      "readingQuestionIds": [
+        "read-extra-026-q1",
+        "read-extra-026-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w07-d3",
+      "week": 7,
+      "day": 3,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-objection-sense1",
+        "v-evidence-based-sense1",
+        "v-encounter-sense1",
+        "v-concede-sense1",
+        "v-fallacy-sense1"
+      ],
+      "syntaxId": "syn-extra-023",
+      "readingId": "read-extra-027",
+      "readingQuestionIds": [
+        "read-extra-027-q1",
+        "read-extra-027-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w07-d4",
+      "week": 7,
+      "day": 4,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-reasoning-sense1",
+        "v-argument-sense1",
+        "v-refute-sense1",
+        "v-qualitative-sense1",
+        "v-assert-sense1"
+      ],
+      "syntaxId": "syn-extra-024",
+      "readingId": "read-extra-028",
+      "readingQuestionIds": [
+        "read-extra-028-q1",
+        "read-extra-028-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w07-d5",
+      "week": 7,
+      "day": 5,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-corroborate-sense1",
+        "v-counterargument-sense1",
+        "v-acknowledge-sense1",
+        "v-therefore-sense1",
+        "v-distinct-sense1"
+      ],
+      "syntaxId": "syn-extra-025",
+      "readingId": "read-extra-029",
+      "readingQuestionIds": [
+        "read-extra-029-q1",
+        "read-extra-029-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w08-d1",
+      "week": 8,
+      "day": 1,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-underlying-sense1",
+        "v-subtext-sense1",
+        "v-inference-sense1",
+        "v-interpretation-sense1",
+        "v-convention-sense1"
+      ],
+      "syntaxId": "syn-extra-026",
+      "readingId": "read-extra-030",
+      "readingQuestionIds": [
+        "read-extra-030-q1",
+        "read-extra-030-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w08-d2",
+      "week": 8,
+      "day": 2,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-assume-sense1",
+        "v-transition-sense1",
+        "v-reference-sense1",
+        "v-ambiguously-sense1",
+        "v-background-sense1"
+      ],
+      "syntaxId": "syn-extra-027",
+      "readingId": "read-extra-031",
+      "readingQuestionIds": [
+        "read-extra-031-q1",
+        "read-extra-031-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w08-d3",
+      "week": 8,
+      "day": 3,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-structure-sense1",
+        "v-substitute-sense1",
+        "v-analyze-sense1",
+        "v-implicit-sense1",
+        "v-cohesion-sense1"
+      ],
+      "syntaxId": "syn-extra-028",
+      "readingId": "read-extra-032",
+      "readingQuestionIds": [
+        "read-extra-032-q1",
+        "read-extra-032-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w08-d4",
+      "week": 8,
+      "day": 4,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-enhance-sense1",
+        "v-explicit-sense1",
+        "v-unify-sense1",
+        "v-generate-sense1",
+        "v-establish-sense1"
+      ],
+      "syntaxId": "syn-extra-029",
+      "readingId": "read-extra-033",
+      "readingQuestionIds": [
+        "read-extra-033-q1",
+        "read-extra-033-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w08-d5",
+      "week": 8,
+      "day": 5,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-evident-sense1",
+        "v-evaluate-sense1",
+        "v-distinguish-sense1",
+        "v-continuity-sense1",
+        "v-signal-sense1"
+      ],
+      "syntaxId": "syn-extra-030",
+      "readingId": "read-extra-034",
+      "readingQuestionIds": [
+        "read-extra-034-q1",
+        "read-extra-034-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w09-d1",
+      "week": 9,
+      "day": 1,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-issue-sense1",
+        "v-articulate-sense1",
+        "v-conventional-sense1",
+        "v-fundamental-sense1",
+        "v-outline-sense1"
+      ],
+      "syntaxId": "syn-extra-031",
+      "readingId": "read-extra-035",
+      "readingQuestionIds": [
+        "read-extra-035-q1",
+        "read-extra-035-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w09-d2",
+      "week": 9,
+      "day": 2,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-summarize-sense1",
+        "v-essential-sense1",
+        "v-abstract-sense1",
+        "v-overall-sense1",
+        "v-highlight-sense1"
+      ],
+      "syntaxId": "syn-extra-032",
+      "readingId": "read-extra-036",
+      "readingQuestionIds": [
+        "read-extra-036-q1",
+        "read-extra-036-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w09-d3",
+      "week": 9,
+      "day": 3,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-major-sense1",
+        "v-objective-sense1",
+        "v-overarching-sense1",
+        "v-interpret-sense1",
+        "v-perspective-sense1"
+      ],
+      "syntaxId": "syn-extra-033",
+      "readingId": "read-extra-037",
+      "readingQuestionIds": [
+        "read-extra-037-q1",
+        "read-extra-037-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w09-d4",
+      "week": 9,
+      "day": 4,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-concept-sense1",
+        "v-conclusion-sense1",
+        "v-elaborate-sense1",
+        "v-synthesize-sense1",
+        "v-integrate-sense1"
+      ],
+      "syntaxId": "syn-extra-034",
+      "readingId": "read-extra-038",
+      "readingQuestionIds": [
+        "read-extra-038-q1",
+        "read-extra-038-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w09-d5",
+      "week": 9,
+      "day": 5,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-viewpoint-sense1",
+        "v-maintain-sense1",
+        "v-theme-sense1",
+        "v-illustrate-sense1",
+        "v-central-sense1"
+      ],
+      "syntaxId": "syn-extra-035",
+      "readingId": "read-extra-039",
+      "readingQuestionIds": [
+        "read-extra-039-q1",
+        "read-extra-039-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w10-d1",
+      "week": 10,
+      "day": 1,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-predict-sense1",
+        "v-deduce-sense1",
+        "v-irrelevant-sense1",
+        "v-constrain-sense1",
+        "v-coincide-sense1"
+      ],
+      "syntaxId": "syn-extra-036",
+      "readingId": "read-extra-040",
+      "readingQuestionIds": [
+        "read-extra-040-q1",
+        "read-extra-040-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w10-d2",
+      "week": 10,
+      "day": 2,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-deliberate-sense1",
+        "v-inevitable-sense1",
+        "v-deviation-sense1",
+        "v-eliminate-sense1",
+        "v-correspond-sense1"
+      ],
+      "syntaxId": "syn-extra-037",
+      "readingId": "read-extra-041",
+      "readingQuestionIds": [
+        "read-extra-041-q1",
+        "read-extra-041-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w10-d3",
+      "week": 10,
+      "day": 3,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-preserve-sense1",
+        "v-reluctant-sense1",
+        "v-compelling-sense1",
+        "v-tentative-sense1",
+        "v-appropriate-sense1"
+      ],
+      "syntaxId": "syn-extra-038",
+      "readingId": "read-extra-042",
+      "readingQuestionIds": [
+        "read-extra-042-q1",
+        "read-extra-042-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w10-d4",
+      "week": 10,
+      "day": 4,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-significant-sense1",
+        "v-allocate-sense1",
+        "v-extrapolate-sense1",
+        "v-plausible-sense1",
+        "v-contrary-sense1"
+      ],
+      "syntaxId": "syn-extra-039",
+      "readingId": "read-extra-043",
+      "readingQuestionIds": [
+        "read-extra-043-q1",
+        "read-extra-043-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w10-d5",
+      "week": 10,
+      "day": 5,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-relevant-sense1",
+        "v-dilemma-sense1",
+        "v-contradict-sense1",
+        "v-hypothesis-sense1",
+        "v-inhibit-sense1"
+      ],
+      "syntaxId": "syn-extra-040",
+      "readingId": "read-extra-044",
+      "readingQuestionIds": [
+        "read-extra-044-q1",
+        "read-extra-044-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w11-d1",
+      "week": 11,
+      "day": 1,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-viable-sense1",
+        "v-infrastructure-sense1",
+        "v-comprehensive-sense1",
+        "v-incentive-sense1",
+        "v-constraint-sense1"
+      ],
+      "syntaxId": "syn-extra-041",
+      "readingId": "read-extra-045",
+      "readingQuestionIds": [
+        "read-extra-045-q1",
+        "read-extra-045-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w11-d2",
+      "week": 11,
+      "day": 2,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-scarcity-sense1",
+        "v-feasible-sense1",
+        "v-mitigate-sense1",
+        "v-resilience-sense1",
+        "v-aggregate-sense1"
+      ],
+      "syntaxId": "syn-extra-042",
+      "readingId": "read-extra-046",
+      "readingQuestionIds": [
+        "read-extra-046-q1",
+        "read-extra-046-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w11-d3",
+      "week": 11,
+      "day": 3,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-transform-sense1",
+        "v-contingent-sense1",
+        "v-autonomous-sense1",
+        "v-coherent-sense1",
+        "v-compensate-sense1"
+      ],
+      "syntaxId": "syn-extra-043",
+      "readingId": "read-extra-047",
+      "readingQuestionIds": [
+        "read-extra-047-q1",
+        "read-extra-047-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w11-d4",
+      "week": 11,
+      "day": 4,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-trade-off-sense1",
+        "v-heterogeneous-sense1",
+        "v-interdependence-sense1",
+        "v-disparity-sense1",
+        "v-equitable-sense1"
+      ],
+      "syntaxId": "syn-extra-044",
+      "readingId": "read-extra-048",
+      "readingQuestionIds": [
+        "read-extra-048-q1",
+        "read-extra-048-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w11-d5",
+      "week": 11,
+      "day": 5,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-adverse-sense1",
+        "v-empirical-sense1",
+        "v-advocate-sense1",
+        "v-cognitive-sense1",
+        "v-credible-sense1"
+      ],
+      "syntaxId": "syn-extra-045",
+      "readingId": "read-extra-049",
+      "readingQuestionIds": [
+        "read-extra-049-q1",
+        "read-extra-049-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w12-d1",
+      "week": 12,
+      "day": 1,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-diminish-sense1",
+        "v-robust-sense1",
+        "v-optimize-sense1",
+        "v-sustainable-sense1",
+        "v-longitudinal-sense1"
+      ],
+      "syntaxId": "syn-extra-046",
+      "readingId": "read-extra-050",
+      "readingQuestionIds": [
+        "read-extra-050-q1",
+        "read-extra-050-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w12-d2",
+      "week": 12,
+      "day": 2,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-innovative-sense1",
+        "v-replicate-sense1",
+        "v-paradox-sense1",
+        "v-provisional-sense1",
+        "v-causal-sense1"
+      ],
+      "syntaxId": "syn-extra-047",
+      "readingId": "read-extra-051",
+      "readingQuestionIds": [
+        "read-extra-051-q1",
+        "read-extra-051-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w12-d3",
+      "week": 12,
+      "day": 3,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-exposure-sense1",
+        "v-uncertainty-sense1",
+        "v-imply-sense1",
+        "v-counterintuitive-sense1",
+        "v-marginal-sense1"
+      ],
+      "syntaxId": "syn-extra-048",
+      "readingId": "read-extra-052",
+      "readingQuestionIds": [
+        "read-extra-052-q1",
+        "read-extra-052-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w12-d4",
+      "week": 12,
+      "day": 4,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-implement-sense1",
+        "v-compromise-sense1",
+        "v-deteriorate-sense1",
+        "v-derive-sense1",
+        "v-pragmatic-sense1"
+      ],
+      "syntaxId": "syn-extra-049",
+      "readingId": "read-extra-053",
+      "readingQuestionIds": [
+        "read-extra-053-q1",
+        "read-extra-053-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    },
+    {
+      "id": "w12-d5",
+      "week": 12,
+      "day": 5,
+      "targetMinutes": 12,
+      "contentReviewTarget": 6,
+      "phaseDurationsMinutes": {
+        "review": 3,
+        "vocab": 3,
+        "syntax": 2,
+        "reading": 4
+      },
+      "vocabularyIds": [
+        "v-adaptive-sense1",
+        "v-ethical-sense1",
+        "v-perceive-sense1",
+        "v-accountability-sense1",
+        "v-cumulative-sense1"
+      ],
+      "syntaxId": "syn-extra-050",
+      "readingId": "read-extra-054",
+      "readingQuestionIds": [
+        "read-extra-054-q1",
+        "read-extra-054-q2"
+      ],
+      "isFixedSchedule": false,
+      "allowSrsAdjustment": true
+    }
+  ],
+  "bossQuests": [
+    {
+      "id": "boss-01",
+      "week": 1,
+      "titleKo": "학습 루틴과 핵심 정보 보스전",
+      "isReview": true,
+      "availability": "after_day5",
+      "vocabularyIds": [
+        "v-practice-sense1",
+        "v-avoid-sense1",
+        "v-include-sense1",
+        "v-focus-sense1",
+        "v-organize-sense1",
+        "v-review-sense1",
+        "v-develop-sense1",
+        "v-adequate-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-002",
+        "syn-extra-005"
+      ],
+      "readingId": "read-extra-004",
+      "readingQuestionIds": [
+        "read-extra-004-q1",
+        "read-extra-004-q2"
+      ],
+      "recommendedMinutes": 10,
+      "scoring": {
+        "correctXp": 10,
+        "firstAttemptOnly": true,
+        "noStreakPenalty": true,
+        "reviewNotNew": true
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "boss-02",
+      "week": 2,
+      "titleKo": "다의어와 문맥 보스전",
+      "isReview": true,
+      "availability": "after_day5",
+      "vocabularyIds": [
+        "v-ambiguity-sense1",
+        "v-combine-sense1",
+        "v-consider-sense1",
+        "v-choice-sense1",
+        "v-habit-sense1",
+        "v-literal-sense1",
+        "v-efficient-sense1",
+        "v-express-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-007",
+        "syn-extra-010"
+      ],
+      "readingId": "read-extra-008",
+      "readingQuestionIds": [
+        "read-extra-008-q1",
+        "read-extra-008-q2"
+      ],
+      "recommendedMinutes": 10,
+      "scoring": {
+        "correctXp": 10,
+        "firstAttemptOnly": true,
+        "noStreakPenalty": true,
+        "reviewNotNew": true
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "boss-03",
+      "week": 3,
+      "titleKo": "문장 구조 해독 I 보스전",
+      "isReview": true,
+      "availability": "after_day5",
+      "vocabularyIds": [
+        "v-emphasize-sense1",
+        "v-sequence-sense1",
+        "v-assumption-sense1",
+        "v-relative-sense1",
+        "v-assess-sense1",
+        "v-phrase-sense1",
+        "v-relate-sense1",
+        "v-separate-sense1"
+      ],
+      "syntaxIds": [
+        "syn-002",
+        "syn-005"
+      ],
+      "readingId": "read-extra-012",
+      "readingQuestionIds": [
+        "read-extra-012-q1",
+        "read-extra-012-q2"
+      ],
+      "recommendedMinutes": 10,
+      "scoring": {
+        "correctXp": 10,
+        "firstAttemptOnly": true,
+        "noStreakPenalty": true,
+        "reviewNotNew": true
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "boss-04",
+      "week": 4,
+      "titleKo": "문장 구조 해독 II 보스전",
+      "isReview": true,
+      "availability": "after_day5",
+      "vocabularyIds": [
+        "v-whether-sense1",
+        "v-while-sense1",
+        "v-require-sense1",
+        "v-regardless-sense1",
+        "v-allow-sense1",
+        "v-collapse-sense1",
+        "v-within-sense1",
+        "v-unless-sense1"
+      ],
+      "syntaxIds": [
+        "syn-007",
+        "syn-010"
+      ],
+      "readingId": "read-extra-016",
+      "readingQuestionIds": [
+        "read-extra-016-q1",
+        "read-extra-016-q2"
+      ],
+      "recommendedMinutes": 10,
+      "scoring": {
+        "correctXp": 10,
+        "firstAttemptOnly": true,
+        "noStreakPenalty": true,
+        "reviewNotNew": true
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "boss-05",
+      "week": 5,
+      "titleKo": "원인·결과·환경 보스전",
+      "isReview": true,
+      "availability": "after_day5",
+      "vocabularyIds": [
+        "v-accelerate-sense1",
+        "v-increase-sense1",
+        "v-cause-sense1",
+        "v-conflict-sense1",
+        "v-carbon-sense1",
+        "v-affect-sense1",
+        "v-disrupt-sense1",
+        "v-adaptation-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-012",
+        "syn-extra-015"
+      ],
+      "readingId": "read-extra-020",
+      "readingQuestionIds": [
+        "read-extra-020-q1",
+        "read-extra-020-q2"
+      ],
+      "recommendedMinutes": 10,
+      "scoring": {
+        "correctXp": 10,
+        "firstAttemptOnly": true,
+        "noStreakPenalty": true,
+        "reviewNotNew": true
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "boss-06",
+      "week": 6,
+      "titleKo": "근거와 판단 보스전",
+      "isReview": true,
+      "availability": "after_day5",
+      "vocabularyIds": [
+        "v-demonstrate-sense1",
+        "v-belief-sense1",
+        "v-reliable-sense1",
+        "v-decline-sense1",
+        "v-capacity-sense1",
+        "v-priority-sense1",
+        "v-convince-sense1",
+        "v-bias-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-017",
+        "syn-extra-020"
+      ],
+      "readingId": "read-extra-024",
+      "readingQuestionIds": [
+        "read-extra-024-q1",
+        "read-extra-024-q2"
+      ],
+      "recommendedMinutes": 10,
+      "scoring": {
+        "correctXp": 10,
+        "firstAttemptOnly": true,
+        "noStreakPenalty": true,
+        "reviewNotNew": true
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "boss-07",
+      "week": 7,
+      "titleKo": "글의 논리 I 보스전",
+      "isReview": true,
+      "availability": "after_day5",
+      "vocabularyIds": [
+        "v-emerge-sense1",
+        "v-claim-sense1",
+        "v-persuade-sense1",
+        "v-determine-sense1",
+        "v-encounter-sense1",
+        "v-argument-sense1",
+        "v-corroborate-sense1",
+        "v-distinct-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-022",
+        "syn-extra-025"
+      ],
+      "readingId": "read-extra-029",
+      "readingQuestionIds": [
+        "read-extra-029-q1",
+        "read-extra-029-q2"
+      ],
+      "recommendedMinutes": 10,
+      "scoring": {
+        "correctXp": 10,
+        "firstAttemptOnly": true,
+        "noStreakPenalty": true,
+        "reviewNotNew": true
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "boss-08",
+      "week": 8,
+      "titleKo": "글의 논리 II 보스전",
+      "isReview": true,
+      "availability": "after_day5",
+      "vocabularyIds": [
+        "v-subtext-sense1",
+        "v-interpretation-sense1",
+        "v-transition-sense1",
+        "v-background-sense1",
+        "v-analyze-sense1",
+        "v-explicit-sense1",
+        "v-evident-sense1",
+        "v-signal-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-027",
+        "syn-extra-030"
+      ],
+      "readingId": "read-extra-034",
+      "readingQuestionIds": [
+        "read-extra-034-q1",
+        "read-extra-034-q2"
+      ],
+      "recommendedMinutes": 10,
+      "scoring": {
+        "correctXp": 10,
+        "firstAttemptOnly": true,
+        "noStreakPenalty": true,
+        "reviewNotNew": true
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "boss-09",
+      "week": 9,
+      "titleKo": "주제·제목·요지 보스전",
+      "isReview": true,
+      "availability": "after_day5",
+      "vocabularyIds": [
+        "v-articulate-sense1",
+        "v-fundamental-sense1",
+        "v-essential-sense1",
+        "v-highlight-sense1",
+        "v-overarching-sense1",
+        "v-conclusion-sense1",
+        "v-viewpoint-sense1",
+        "v-central-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-032",
+        "syn-extra-035"
+      ],
+      "readingId": "read-extra-039",
+      "readingQuestionIds": [
+        "read-extra-039-q1",
+        "read-extra-039-q2"
+      ],
+      "recommendedMinutes": 10,
+      "scoring": {
+        "correctXp": 10,
+        "firstAttemptOnly": true,
+        "noStreakPenalty": true,
+        "reviewNotNew": true
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "boss-10",
+      "week": 10,
+      "titleKo": "빈칸·문장 연결 보스전",
+      "isReview": true,
+      "availability": "after_day5",
+      "vocabularyIds": [
+        "v-deduce-sense1",
+        "v-constrain-sense1",
+        "v-inevitable-sense1",
+        "v-correspond-sense1",
+        "v-compelling-sense1",
+        "v-allocate-sense1",
+        "v-relevant-sense1",
+        "v-inhibit-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-037",
+        "syn-extra-040"
+      ],
+      "readingId": "read-extra-044",
+      "readingQuestionIds": [
+        "read-extra-044-q1",
+        "read-extra-044-q2"
+      ],
+      "recommendedMinutes": 10,
+      "scoring": {
+        "correctXp": 10,
+        "firstAttemptOnly": true,
+        "noStreakPenalty": true,
+        "reviewNotNew": true
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "boss-11",
+      "week": 11,
+      "titleKo": "복합 상황의 의사결정 보스전",
+      "isReview": true,
+      "availability": "after_day5",
+      "vocabularyIds": [
+        "v-infrastructure-sense1",
+        "v-incentive-sense1",
+        "v-feasible-sense1",
+        "v-aggregate-sense1",
+        "v-autonomous-sense1",
+        "v-heterogeneous-sense1",
+        "v-adverse-sense1",
+        "v-credible-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-042",
+        "syn-extra-045"
+      ],
+      "readingId": "read-extra-049",
+      "readingQuestionIds": [
+        "read-extra-049-q1",
+        "read-extra-049-q2"
+      ],
+      "recommendedMinutes": 10,
+      "scoring": {
+        "correctXp": 10,
+        "firstAttemptOnly": true,
+        "noStreakPenalty": true,
+        "reviewNotNew": true
+      },
+      "reviewStatus": "draft"
+    },
+    {
+      "id": "boss-12",
+      "week": 12,
+      "titleKo": "종합 독해와 재진단 보스전",
+      "isReview": true,
+      "availability": "after_day5",
+      "vocabularyIds": [
+        "v-robust-sense1",
+        "v-sustainable-sense1",
+        "v-replicate-sense1",
+        "v-causal-sense1",
+        "v-imply-sense1",
+        "v-compromise-sense1",
+        "v-adaptive-sense1",
+        "v-cumulative-sense1"
+      ],
+      "syntaxIds": [
+        "syn-extra-047",
+        "syn-extra-050"
+      ],
+      "readingId": "read-extra-054",
+      "readingQuestionIds": [
+        "read-extra-054-q1",
+        "read-extra-054-q2"
+      ],
+      "recommendedMinutes": 10,
+      "scoring": {
+        "correctXp": 10,
+        "firstAttemptOnly": true,
+        "noStreakPenalty": true,
+        "reviewNotNew": true
+      },
+      "reviewStatus": "draft"
+    }
+  ]
+}
