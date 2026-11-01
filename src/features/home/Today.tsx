@@ -19,7 +19,7 @@ const stages: { title: string; icon: IconName; count: string; description: strin
     title: '오답 다시 도전',
     icon: 'book',
     count: '오답만',
-    description: '처음 헷갈린 단어만 마지막에 다시 풀어요',
+    description: '헷갈린 문제를 모아 두 번 맞혀요',
   },
 ];
 export function Today({
@@ -35,6 +35,8 @@ export function Today({
   onContinue,
   onMap,
   onWordbooks,
+  onMistakes,
+  mistakeCount,
   canContinue,
 }: {
   course: CourseDocument;
@@ -49,6 +51,8 @@ export function Today({
   onContinue: () => void;
   onMap: () => void;
   onWordbooks: () => void;
+  onMistakes: () => void;
+  mistakeCount: number;
   canContinue: boolean;
 }) {
   const number =
@@ -108,18 +112,38 @@ export function Today({
         )}
       </div>
       <div className="daily-route" aria-label="매일 학습 루틴">
-        {stages.map((stage, index) => (
-          <div className="daily-stage" key={stage.title}>
-            <span className={`mini-icon ${index % 2 ? 'blue' : 'green'}`}>
-              <Icon name={stage.icon} size={23} />
-            </span>
-            <div>
-              <strong>{stage.title}</strong>
-              <p>{stage.description}</p>
+        {stages.map((stage, index) =>
+          stage.title === '오답 다시 도전' ? (
+            <button
+              className="daily-stage daily-mistakes-button"
+              key={stage.title}
+              data-testid="today-mistakes"
+              disabled={busy}
+              onClick={onMistakes}
+            >
+              <span className="mini-icon green">
+                <Icon name="book" size={23} />
+              </span>
+              <span className="daily-stage-copy">
+                <strong>{stage.title}</strong>
+                <span>{stage.description}</span>
+              </span>
+              <b>{mistakeCount}개</b>
+              <Icon name="arrow" size={19} />
+            </button>
+          ) : (
+            <div className="daily-stage" key={stage.title}>
+              <span className={`mini-icon ${index % 2 ? 'blue' : 'green'}`}>
+                <Icon name={stage.icon} size={23} />
+              </span>
+              <div>
+                <strong>{stage.title}</strong>
+                <p>{stage.description}</p>
+              </div>
+              <b>{stage.count}</b>
             </div>
-            <b>{stage.count}</b>
-          </div>
-        ))}
+          ),
+        )}
       </div>
       <p className="gentle-note">
         처음에는 이번 회차 단어 5개로 기억 채우기를 시작해요. 다음부터 배운 단어를 복습해요.

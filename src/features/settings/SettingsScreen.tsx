@@ -1,4 +1,5 @@
 import { useState, type ChangeEvent } from 'react';
+import { version as appVersion } from '../../../package.json';
 import type { AppMode, Settings } from '../../core/types';
 import type { QuestDatabase } from '../../data/db';
 import { exportBackup, importBackup, resetDatabase } from '../../data/db';
@@ -310,7 +311,10 @@ export function SettingsScreen({
           )}
         </section>
       </div>
-      <p className="version">시몬치치 0.11.0{native ? ' · Android 앱' : ''}</p>
+      <p className="version">
+        시몬치치 {appVersion}
+        {native ? ' · Android 앱' : ''}
+      </p>
     </section>
   );
 }

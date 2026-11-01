@@ -1,8 +1,10 @@
 # 시몬치치 Android 설치
 
-Android에 APK를 한 번 설치하면 PC나 인터넷 연결 없이 앱을 실행하고 학습할 수 있습니다. PC는 설치 파일을 처음 휴대폰에 전달할 때만 필요합니다. 최신 파일명은 `simonchichi-0.11.0.apk`, 설치 후 표시 이름은 **시몬치치**입니다.
+Android에 APK를 한 번 설치하면 PC나 인터넷 연결 없이 앱을 실행하고 학습할 수 있습니다. PC는 설치 파일을 처음 휴대폰에 전달할 때만 필요합니다. 최신 파일명은 `simonchichi-0.12.0.apk`, 설치 후 표시 이름은 **시몬치치**입니다.
 
-이전 버전을 사용 중이라면 먼저 JSON 백업을 저장하고 **기존 앱을 삭제하지 않은 채 0.11.0 APK를 설치**합니다. 같은 서명의 업데이트는 기존 학습 기록과 친구 선택을 이어갑니다. 0.11.0은 새 옷 10종을 더해 무료 원래 옷 포함 14종을 제공합니다. 새 일반 옷 7종은 6,000 XP, 나이키 후드티·아디다스 패딩·버버리 코트는 각각 7,000 XP입니다. 기존 소유품·예전 결제 금액·학습 기록·잔액은 그대로 유지합니다. [사용 안내](USER_GUIDE.md)
+이전 버전을 사용 중이라면 먼저 JSON 백업을 저장하고 **기존 앱을 삭제하지 않은 채 0.12.0 APK를 설치**합니다. 같은 앱 ID와 서명의 업데이트로 기존 학습 기록·XP·진도·구매·친구 선택을 이어갑니다. 0.12.0에서는 오늘의 **오답 다시 도전**과 복습함의 **오답노트 보기**로 틀린 문제를 바로 확인하고 전용 퀴즈를 풀 수 있습니다. 최근 오답 뒤 서로 다른 퀴즈에서 두 번 맞히면 목록에서 해제하며, 전용 퀴즈는 추가 XP를 지급하지 않습니다. 기존 회차의 마지막 재시험은 유지합니다.
+
+옷은 무료 원래 옷 포함 14종입니다. 새 일반 옷 7종은 6,000 XP, 나이키 후드티·아디다스 패딩·버버리 코트는 각각 7,000 XP입니다. 기존 소유품·예전 결제 금액·학습 기록·잔액은 그대로 유지합니다. [사용 안내](USER_GUIDE.md)
 
 일반 실행에서 오늘 화면의 **학습 단어장**을 고르고 바로 시작합니다. 콘텐츠 준비 안내나 데모 토글은 없습니다. 이는 사용자가 적재된 자료를 사용하도록 허용한 정책이며 외부 교사의 교육 검수가 끝났다는 뜻은 아닙니다.
 
@@ -25,7 +27,7 @@ Android에 APK를 한 번 설치하면 PC나 인터넷 연결 없이 앱을 실�
 다른 위치의 같은 APK를 전달할 때는 경로와 포트를 지정할 수 있습니다.
 
 ```powershell
-node scripts/serve-android-download.mjs "C:\path\simonchichi-0.11.0.apk" 4180
+node scripts/serve-android-download.mjs "C:\path\simonchichi-0.12.0.apk" 4180
 ```
 
 서버는 시작 시 파일을 읽습니다. APK를 다시 빌드했으면 다운로드 서버도 다시 시작합니다.
@@ -40,6 +42,9 @@ node scripts/serve-android-download.mjs "C:\path\simonchichi-0.11.0.apk" 4180
 - [ ] 선택한 단어장과 학습 위치가 유지되고 어휘·구문·독해를 진행할 수 있다.
 - [ ] 단어 20개를 문제부터 풀고, 처음 틀린 단어만 독해 뒤 한 번 다시 나온다.
 - [ ] 재시험 중 종료/재개·백업/복원 뒤에도 같은 위치와 응답이 유지된다.
+- [ ] 오늘의 오답 버튼과 복습함에서 오답노트를 열고 틀린 직후 등록된 항목을 확인한다.
+- [ ] 서로 다른 오답 퀴즈에서 두 번 정답이면 해제되고 새 오답이면 횟수가 0으로 돌아간다.
+- [ ] 전용 오답 퀴즈의 중단·오프라인 재개·백업 복원이 가능하며 XP와 하루 완료 보너스를 추가하지 않는다.
 - [ ] 한 문제를 빠르게 여러 번 눌러도 XP가 중복으로 늘어나지 않는다.
 - [ ] 퀘스트 완료 후 앱을 다시 열어 완료 기록과 XP를 확인한다.
 - [ ] 기본 탐험 뒤 마무리하거나 다음 퀘스트를 선택하고, 같은 날 여러 기록이 지도·성장 기록에 남는지 확인한다.
@@ -64,7 +69,7 @@ node scripts/serve-android-download.mjs "C:\path\simonchichi-0.11.0.apk" 4180
 
 설정의 **백업 파일 저장**은 Android의 파일 저장 화면을 엽니다. 기기의 다운로드 폴더 등 원하는 위치에 JSON 파일을 저장합니다. **백업 파일 선택**으로 파일을 고른 뒤 **백업으로 복원**을 누르면 현재 앱의 기록을 교체합니다. 지원 스키마·콘텐츠 버전·정답·보상 정합성을 검증한 백업만 복원합니다. 웹/PWA에서는 내보내기 버튼 이름이 **백업 다운로드**입니다.
 
-0.11.0도 기존 구매·새 옷·장착을 함께 포함한 스키마 6으로 내보내고 이전 스키마 1·2·3·4·5도 복원합니다. 기존 영수증은 원래 금액을 유지하고 새 구매에는 해당 상품의 현재 가격을 적용합니다. 예전 데모 백업을 원본 그대로 읽어 원래 모드로 검증한 뒤 현재 앱 저장소에 맞춰 내부 모드만 옮깁니다. 답변·SRS·XP·ID는 보존하며 자동 병합은 하지 않습니다. 독립 단어장·뜻 자료는 APK에 포함되며 개인 학습 기록 JSON에 복사되지 않습니다.
+0.12.0도 기존 구매·옷·장착과 새 오답 퀴즈 기록을 함께 포함한 스키마 6으로 내보내고 이전 스키마 1·2·3·4·5도 복원합니다. 기존 영수증은 원래 금액을 유지하고 새 구매에는 해당 상품의 현재 가격을 적용합니다. 예전 데모 백업을 원본 그대로 읽어 원래 모드로 검증한 뒤 현재 앱 저장소에 맞춰 내부 모드만 옮깁니다. 답변·SRS·XP·ID는 보존하며 자동 병합은 하지 않습니다. 독립 단어장·뜻 자료는 APK에 포함되며 개인 학습 기록 JSON에 복사되지 않습니다.
 
 앱을 삭제하거나 Android 설정에서 **데이터 지우기**를 하면 학습 기록과 설정을 잃을 수 있으므로 먼저 백업합니다. 브라우저/PWA와 Android 앱의 저장소는 별개이며, 이전 브라우저 기록을 가져오려면 해당 브라우저에서 내보낸 유효한 JSON 백업을 앱에서 복원합니다.
 
@@ -74,7 +79,7 @@ APK를 업데이트할 때는 기존 앱 위에 설치합니다. 서명이 다�
 
 Capacitor 8의 최소 Android 버전은 Android 7(API 24)입니다. 실제 실행에는 호환되는 최신 Android System WebView/Chrome이 필요합니다. 구형 기기·제조사별 차이는 실제 기기로 확인해야 합니다. [Capacitor Android 공식 문서](https://capacitorjs.com/docs/android)
 
-현재 옷 확장 검사는 [0.11.0 보고서](OUTFIT_EXPANSION_REPORT.md), 이전 액세서리 확장 검사는 [0.10.0 보고서](ACCESSORY_EXPANSION_REPORT.md), 이전 가격 조정 검사는 [0.9.0 보고서](PRICE_BALANCE_REPORT.md), 이전 단어 테스트 검사는 [0.8.0 보고서](TEST_FIRST_FLOW_REPORT.md), 이전 배경 확장 검사는 [0.7.0 보고서](BACKGROUND_EXPANSION_REPORT.md), 이전 꾸미기/보상 검사는 [0.6.0 보고서](AVATAR_ROOM_REPORT.md), 이전 과정 개편 검사는 [0.5.0 보고서](WORDBOOK_COURSES_REPORT.md), 이전 뜻 보강 검사는 [0.4.0 보고서](WORDBOOK_MEANINGS_REPORT.md), 최초 단어장 검사는 [0.3.0 보고서](WORDBOOK_IMPORT_REPORT.md), 이전 연속 탐험·시스템 백업 검사는 [0.2.0 보고서](CONTINUOUS_QUEST_REPORT.md), 최초 설치 검사는 [0.1.0 보고서](ANDROID_BUILD_REPORT.md)에 기록했습니다. 실제 Android 휴대폰은 아직 검증하지 않았습니다. 브라우저 Chromium/WebKit 테스트만으로 Android APK 설치와 네이티브 파일 저장 동작을 검증했다고 보고하지 않습니다.
+현재 오답 기능의 검사 범위는 [0.12.0 보고서](MISTAKES_REPORT.md), 이전 옷 확장 검사는 [0.11.0 보고서](OUTFIT_EXPANSION_REPORT.md), 이전 액세서리 확장 검사는 [0.10.0 보고서](ACCESSORY_EXPANSION_REPORT.md), 이전 가격 조정 검사는 [0.9.0 보고서](PRICE_BALANCE_REPORT.md), 이전 단어 테스트 검사는 [0.8.0 보고서](TEST_FIRST_FLOW_REPORT.md), 이전 배경 확장 검사는 [0.7.0 보고서](BACKGROUND_EXPANSION_REPORT.md), 이전 꾸미기/보상 검사는 [0.6.0 보고서](AVATAR_ROOM_REPORT.md), 이전 과정 개편 검사는 [0.5.0 보고서](WORDBOOK_COURSES_REPORT.md), 이전 뜻 보강 검사는 [0.4.0 보고서](WORDBOOK_MEANINGS_REPORT.md), 최초 단어장 검사는 [0.3.0 보고서](WORDBOOK_IMPORT_REPORT.md), 이전 연속 탐험·시스템 백업 검사는 [0.2.0 보고서](CONTINUOUS_QUEST_REPORT.md), 최초 설치 검사는 [0.1.0 보고서](ANDROID_BUILD_REPORT.md)에 기록했습니다. 실제 Android 휴대폰은 아직 검증하지 않았습니다. 브라우저 Chromium/WebKit 테스트만으로 Android APK 설치와 네이티브 파일 저장 동작을 검증했다고 보고하지 않습니다.
 
 ## 소스에서 APK 다시 만들기
 
@@ -93,8 +98,8 @@ npm run android:build
 
 결과 파일은 다음 위치에 생성됩니다.
 
-- `artifacts/android/simonchichi-0.11.0.apk`
-- `artifacts/android/simonchichi-0.11.0.apk.sha256`
+- `artifacts/android/simonchichi-0.12.0.apk`
+- `artifacts/android/simonchichi-0.12.0.apk.sha256`
 
 이 결과는 **개인 체험용 디버그 서명 APK**입니다. Play 스토어 제출용 릴리스 서명·배포는 포함하지 않습니다. 같은 서명으로 업데이트하려면 사용한 개발 키를 보존해야 합니다. 기본 debug keystore는 보통 사용자 폴더의 `.android/debug.keystore`에 생성되며, 다른 PC에서 새로 생성한 키는 기존 앱과 다를 수 있습니다.
 
@@ -104,15 +109,13 @@ APK에는 `dist-android` 자료를 포함합니다. `capacitor.config.ts`에 `se
 
 개인 학습 기기가 아닌 별도 API 36 테스트 에뮬레이터를 사용합니다. 이전 버전의 테스트 기록을 준비한 뒤 같은 서명의 새 APK를 `adb install -r`로 덮어 설치하고, 기기의 비행기 모드·Wi-Fi·모바일 데이터 상태를 직접 확인합니다. WebView의 `navigator.onLine`만으로 오프라인을 판정하지 않습니다.
 
-현재 검사는 `scripts/test-android-outfits.mjs`를 사용합니다. 기존 0.10.0 테스트의 **7개 세션·101개 답변·4개 구매, 누적 998 / 지출 580 / 잔액 418 XP** 상태가 있는 전용 에뮬레이터를 전제로 합니다. `ANDROID_HOME`과 `ANDROID_SERIAL`을 해당 SDK·테스트 장치로 설정하고 데이터를 지우지 않은 채 비행기 모드에서 실행합니다. 임의의 개인 학습 기록이나 빈 설치용 검사가 아닙니다.
+현재 검사는 `scripts/test-android-mistakes.mjs`를 사용합니다. 기존 0.11.0 테스트의 **7개 세션·101개 답변·4개 구매, 누적 998 / 지출 580 / 잔액 418 XP** 상태가 있는 전용 에뮬레이터를 전제로 합니다. `ANDROID_HOME`과 `ANDROID_SERIAL`을 해당 SDK·테스트 장치로 설정하고 데이터를 지우지 않은 채 비행기 모드에서 실행합니다. 임의의 개인 학습 기록이나 빈 설치용 검사가 아닙니다.
 
 ```powershell
-node scripts/test-android-outfits.mjs --prepare
-node scripts/test-android-outfits.mjs --apk artifacts/android/simonchichi-0.11.0.apk --expected-sha256 eac298e44c1b60897cd7e4c0c2fd65a3bd73548b8346c899322e5a7fa77c1f5b
-# 이미 완료한 테스트 상태를 추가 학습 없이 재확인할 때
-node scripts/test-android-outfits.mjs --verify --expected-sha256 eac298e44c1b60897cd7e4c0c2fd65a3bd73548b8346c899322e5a7fa77c1f5b
+node scripts/test-android-mistakes.mjs --prepare
+node scripts/test-android-mistakes.mjs --apk artifacts/android/simonchichi-0.12.0.apk --expected-sha256 5eb0704ba066b359690be346277632fdfb40514df12c9cdf6950a1f6961cd686
 ```
 
-실제 명령·해시·검사 범위는 [0.11.0 보고서](OUTFIT_EXPANSION_REPORT.md)에 기록합니다. 네이티브 옷 검사는 원래 기록 보존, 옷 14개 목록·새 상품 미리보기·일반/프리미엄 가격·부족한 잔액, 기존 소유품 무료 장착과 오프라인 재시작을 확인합니다. 새 고가 상품 구매 성공은 합성 고잔액 자료를 사용한 별도 웹·단위 검사로 구분합니다. 이전 `test-android-test-first.mjs`는 0.7.0→0.8.0의 단어 흐름 검사이며 과거 결과를 현재 버전의 검증으로 대신하지 않습니다.
+실제 명령·해시·검사 범위는 [0.12.0 보고서](MISTAKES_REPORT.md)에 기록합니다. 업데이트 직후 여섯 테이블 전체 일치, 기존 오답 표시, 미응답 오답 퀴즈 한 개의 생성·나가기·오프라인 재개를 확인했습니다. 기존 답변·보상·구매를 바꾸지 않았으며 새 정답 제출·시스템 백업 선택창·실제 휴대폰은 이 네이티브 검사의 범위가 아닙니다. 정답 두 번 해제와 백업 복원은 별도 웹·단위 검사로 구분합니다. 이전 버전의 검사 스크립트와 보고서는 과거 이력으로 유지합니다.
 
 시스템 저장창의 실제 저장·취소·파일 선택 복원은 브라우저 백업 검사와 별도로 보고합니다. 테스트 장치에 기록을 만들거나 파일을 저장하는 스크립트는 개인 기기에서 실행하지 않습니다.

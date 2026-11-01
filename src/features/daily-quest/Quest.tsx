@@ -95,7 +95,9 @@ export function Quest(props: Props) {
       data-phase={step.phase}
       data-course-flow={session.courseFlow ?? 'legacy'}
     >
-      <h1 className="sr-only">{phaseNames[step.phase]} 학습</h1>
+      <h1 className="sr-only">
+        {session.sessionKind === 'mistakes' ? '오답 퀴즈' : `${phaseNames[step.phase]} 학습`}
+      </h1>
       <div className="lesson-topbar">
         <button
           className="icon-button lesson-close"
@@ -108,7 +110,9 @@ export function Quest(props: Props) {
           className="lesson-progress"
           value={session.currentQuestionIndex}
           max={session.steps.length}
-          aria-label="오늘 퀘스트 진행률"
+          aria-label={
+            session.sessionKind === 'mistakes' ? '오답 퀴즈 진행률' : '오늘 퀘스트 진행률'
+          }
           aria-valuetext={`${session.currentQuestionIndex} / ${session.steps.length} 완료`}
         />
         <span
@@ -120,7 +124,9 @@ export function Quest(props: Props) {
         </span>
       </div>
       <div className="lesson-stage">
-        <span className="lesson-stage-label">{phaseNames[step.phase]}</span>
+        <span className="lesson-stage-label">
+          {session.sessionKind === 'mistakes' ? '오답 다시 도전' : phaseNames[step.phase]}
+        </span>
         <span>
           {session.currentQuestionIndex + 1} / {session.steps.length}
         </span>
@@ -386,18 +392,22 @@ function Question({
           </button>
         ) : result ? (
           <div className="answer-actions lesson-answer-actions">
-            {!result.isCorrect && !second && !isRetest && !testFirst && (
-              <button
-                className="secondary lesson-retry"
-                disabled={busy}
-                onClick={() => {
-                  setAnswer('');
-                  setRetry(true);
-                }}
-              >
-                한 번 더 도전
-              </button>
-            )}
+            {!result.isCorrect &&
+              !second &&
+              !isRetest &&
+              !testFirst &&
+              session.sessionKind !== 'mistakes' && (
+                <button
+                  className="secondary lesson-retry"
+                  disabled={busy}
+                  onClick={() => {
+                    setAnswer('');
+                    setRetry(true);
+                  }}
+                >
+                  한 번 더 도전
+                </button>
+              )}
             <button
               className="primary lesson-primary"
               disabled={busy}

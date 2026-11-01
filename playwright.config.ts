@@ -2,7 +2,13 @@ import { defineConfig, devices } from '@playwright/test';
 
 export default defineConfig({
   testDir: './tests/e2e',
-  testMatch: ['quest.spec.ts', 'wordbooks.spec.ts', 'room.spec.ts', 'test-first.spec.ts'],
+  testMatch: [
+    'quest.spec.ts',
+    'wordbooks.spec.ts',
+    'room.spec.ts',
+    'test-first.spec.ts',
+    'mistakes.spec.ts',
+  ],
   fullyParallel: true,
   // Limit concurrent browsers for the large schema-6 restore fixtures.
   workers: 2,

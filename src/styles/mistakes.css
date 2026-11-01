@@ -1,0 +1,131 @@
+.daily-mistakes-button {
+  width: 100%;
+  text-align: left;
+  color: var(--ink);
+  background: var(--panel);
+  border: 0;
+  border-radius: 0;
+  min-height: 76px;
+}
+.daily-mistakes-button:hover {
+  background: color-mix(in srgb, var(--blue) 7%, var(--panel));
+}
+.daily-stage-copy {
+  flex: 1;
+  min-width: 0;
+}
+.daily-stage-copy > span {
+  display: block;
+  color: var(--muted);
+  font-size: 12px;
+  margin-top: 4px;
+}
+.mistakes-entry {
+  margin: 20px 0;
+}
+.mistakes-entry h2 {
+  margin-bottom: 8px;
+}
+.mistakes-entry p,
+.mistakes-quiz-card p {
+  line-height: 1.7;
+}
+.mistakes-heading {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  margin: 22px 0;
+}
+.mistakes-heading h1 {
+  margin: 5px 0 0;
+}
+.mistakes-heading .eyebrow {
+  font-size: 9px;
+}
+.mistakes-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin: 24px 0 17px;
+}
+.mistakes-filters button {
+  min-height: 44px;
+  padding: 8px 13px;
+  border: 2px solid var(--line);
+  border-radius: 15px;
+  color: var(--muted);
+  background: var(--panel);
+  font-weight: 800;
+}
+.mistakes-filters button[aria-pressed='true'] {
+  color: var(--blue);
+  background: color-mix(in srgb, var(--blue) 9%, var(--panel));
+  border-color: var(--blue);
+}
+.mistakes-search {
+  display: grid;
+  gap: 7px;
+  font-size: 13px;
+  font-weight: 800;
+}
+.mistakes-search input {
+  min-height: 48px;
+  width: 100%;
+  padding: 10px 14px;
+  border: 2px solid var(--line);
+  border-radius: 14px;
+  color: var(--ink);
+  background: var(--panel);
+  font: inherit;
+}
+.mistakes-list {
+  display: grid;
+  gap: 13px;
+  margin-bottom: 16px;
+}
+.mistake-item-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  color: var(--muted);
+}
+.mistake-item-top strong {
+  color: var(--blue);
+  background: color-mix(in srgb, var(--blue) 9%, var(--panel));
+  border-radius: 12px;
+  padding: 7px 11px;
+}
+.mistake-item h2 {
+  font-size: 21px;
+  overflow-wrap: anywhere;
+  margin: 12px 0 6px;
+}
+.mistake-item p {
+  line-height: 1.7;
+  white-space: pre-line;
+  overflow-wrap: anywhere;
+}
+.mistake-item summary {
+  cursor: pointer;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  color: var(--blue);
+  font-size: 13px;
+  font-weight: 800;
+}
+.mistake-item details[open] {
+  border-top: 1px solid var(--line);
+  margin-top: 14px;
+}
+.mistake-item blockquote {
+  margin-left: 0;
+  border-left: 3px solid var(--green);
+  padding-left: 12px;
+  line-height: 1.7;
+}
+.mistake-passage {
+  max-height: 260px;
+  overflow: auto;
+}

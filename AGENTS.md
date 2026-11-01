@@ -70,6 +70,13 @@ Build a **local-first, mobile-first PWA for one Korean middle-school (Grade 8) a
 
 ## Non-negotiable product constraints
 
+### Mistake notebook and compatible updates — 0.12.0 user request
+
+- Today’s ‘오답 다시 도전’ is a real button that opens the global mistake notebook, including an informative empty state. Reviews keeps the avatar room and existing review test, with a separate notebook entry.
+- Derive mistakes from existing attempts and immutable session snapshots. Group vocabulary by canonical entity ID across books and modes, and syntax/reading by question ID. After the latest wrong answer, two correct answers in different quiz sessions clear an item; another wrong answer resets the count. Count at most one success per item per session, including a course tail or legacy retry. Hint-assisted answers can clear the notebook but do not become unaided mastery evidence.
+- A `sessionKind: 'mistakes'` round freezes up to ten active questions with their original authored choices, grading and reading evidence. It resumes independently of daily lessons, has no immediate retry, and awards no extra XP or daily completion bonus. Do not count it as a completed course lesson.
+- Preserve database names, Dexie version 3, backup schema 6 and every existing attempt, reward, purchase and session ID. Accept legacy backups 1–6. Reconstruct notebook state without rewriting old records. Android updates retain `com.simonchichi.app`, the signing certificate and WebView origin; web updates retain the deployed origin and worker scope. Verify record and XP preservation rather than assuming version compatibility.
+
 1. Target iPhone Safari and Add to Home Screen; do not build a native iOS app in MVP.
 2. Start with **zero network AI dependency**, no login, no analytics, no payments, no ads.
 3. Use original or explicitly licensed items only. Enable the user-accepted bundled wordbooks in normal use under the current policy above. Preserve honest source review metadata; do not claim independent educational approval. The original expanded bank and its IDs remain intact.

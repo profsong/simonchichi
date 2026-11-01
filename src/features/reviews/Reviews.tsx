@@ -19,6 +19,8 @@ export function Reviews({
   legacyReward,
   onRoomItem,
   roomMessage,
+  mistakeCount,
+  onMistakes,
 }: {
   title: string;
   learnedCount: number;
@@ -35,6 +37,8 @@ export function Reviews({
   legacyReward: boolean;
   onRoomItem: (id: string) => void;
   roomMessage?: string;
+  mistakeCount: number;
+  onMistakes: () => void;
 }) {
   return (
     <section className="reviews-screen">
@@ -80,6 +84,15 @@ export function Reviews({
             ? `배운 단어가 ${learnedCount}개예요. 10단어를 배운 뒤 시작할 수 있어요.`
             : '하루 횟수·추가 XP 제한 없이, 원할 때 다시 도전해요.'}
         </p>
+      </section>
+      <section className="panel mistakes-entry" aria-label="오답 다시 도전">
+        <span className="eyebrow">ONE MORE LITTLE STEP</span>
+        <h2>오답노트</h2>
+        <p>단어 · 문장 · 독해에서 헷갈린 문제 {mistakeCount}개를 모았어요.</p>
+        <p className="muted">서로 다른 퀴즈에서 두 번 맞히면 오답노트에서 빠져요.</p>
+        <button className="secondary wide" onClick={onMistakes} disabled={busy}>
+          오답노트 보기 <Icon name="arrow" />
+        </button>
       </section>
       <button className="wordbook-library-link" onClick={onWordbooks}>
         <span className="mini-icon blue">

@@ -63,9 +63,9 @@ export function deriveReviewRewardPolicy({
 export function rewardForAttempt(
   attempt: PracticeAttempt,
   priorRewards: RewardEvent[],
-  session?: Pick<LearningSession, 'rewardPolicy'>,
+  session?: Pick<LearningSession, 'rewardPolicy' | 'sessionKind'>,
 ): RewardEvent | null {
-  if (session?.rewardPolicy) return null;
+  if (session?.rewardPolicy || session?.sessionKind === 'mistakes') return null;
   const firstId = `question:${attempt.questionId}:first`;
   const first = priorRewards.find((reward) => reward.id === firstId);
   if (attempt.firstTry) {
@@ -133,6 +133,7 @@ export function completionReward(
   const id = `completion:${day}`;
   if (
     session.sessionKind === 'review-test' ||
+    session.sessionKind === 'mistakes' ||
     session.status !== 'completed' ||
     session.steps.length === 0 ||
     session.currentQuestionIndex !== session.steps.length ||

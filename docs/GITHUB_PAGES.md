@@ -1,10 +1,8 @@
 # GitHub Pages 배포 안내
 
-시몬치치는 정적 웹 앱이므로 GitHub Pages에 배포할 수 있습니다. 이번 변경은 프로젝트 하위 경로 지원과 배포 워크플로를 준비한 것입니다. **이 문서를 작성한 시점에는 실제 GitHub Actions 배포나 공개 주소의 실행을 검증하지 않았습니다.**
+실제 배포한 앱은 [시몬치치 GitHub Pages](https://profsong.github.io/simonchichi/)에서 실행합니다. 저장소는 [profsong/simonchichi](https://github.com/profsong/simonchichi)이며 `main`에 올린 변경은 검사·빌드가 통과한 뒤 자동 배포됩니다. 각 버전의 실제 실행 상태와 실패 원인은 [GitHub Actions](https://github.com/profsong/simonchichi/actions)에서 확인합니다.
 
-요청한 저장소가 `profsong/simonchichi`이면 기본 배포 주소는 `https://profsong.github.io/simonchichi/`가 됩니다. 이는 배포 성공 뒤 사용할 예상 주소이며 현재 가동을 확인한 링크가 아닙니다.
-
-현재 연결에서 해당 저장소 조회는 404였으며 저장소 생성·Pages 설정을 실행할 수 없어 원격 파일을 올리지 않았습니다. **다음 진행에는 사용자가 GitHub에서 `profsong/simonchichi` 공개 저장소를 README 포함으로 만들고, 연결된 앱에 저장소 접근을 허용한 뒤 Pages의 Source를 GitHub Actions로 설정해야 합니다.** 로컬 준비 완료와 실제 게시 완료를 구분합니다.
+최초 준비 단계에는 연결 도구의 저장소 조회가 404여서 로컬 소스·정적 ZIP만 만들었습니다. 그때의 ‘저장소 생성·접근 허용 필요’ 안내는 과거 이력이며 현재 상태가 아닙니다. 최신 0.12.0의 로컬 검증은 [오답노트 보고서](MISTAKES_REPORT.md), 해당 배포와 기존 실서비스 브라우저 업데이트 결과는 별도 `artifacts/pages/deployment-result-0.12.json`에 기록합니다. 로컬 테스트 성공을 새 Actions 실행의 성공으로 미리 간주하지 않습니다.
 
 ## 공개 범위와 학습 기록
 
@@ -114,21 +112,21 @@ npx playwright test --config playwright.pages.config.ts
 npx playwright test --config playwright.production.config.ts
 ```
 
-2026-11-01 최종 로컬 타입 검사·전체 린트·전체 단위 **201/201(15파일)**가 통과했습니다. 오프라인 준비 표시와 비동기 응답 순서 보완의 관련 단위 **28/28**도 통과했습니다. 최초 린트는 새 `dist-pages-test/` 생성물을 소스로 읽어 실패했고, ESLint·Prettier의 생성물 제외 규칙을 추가한 뒤 다시 통과했습니다.
+2026-11-01 오프라인 준비 표시 보완 단계의 로컬 타입 검사·전체 린트·전체 단위 **201/201(15파일)**가 통과했습니다. 오프라인 준비 표시와 비동기 응답 순서 보완의 관련 단위 **28/28**도 통과했습니다. 최초 린트는 새 `dist-pages-test/` 생성물을 소스로 읽어 실패했고, ESLint·Prettier의 생성물 제외 규칙을 추가한 뒤 다시 통과했습니다.
 
-최종 프로젝트 경로 **6/6**와 기존 루트 경로 **2/2**가 Chromium·WebKit에서 통과했습니다. 프로젝트 경로 검사에는 기존 아이콘·JS/CSS·manifest·worker 범위·라이선스, 오프라인 정답/10 XP 저장·재개, 스키마 6 백업 다운로드와 여섯 테이블 일치에 더해 다음 online-404 조건을 포함합니다.
+2026-11-02의 0.12.0 최종 소스에서도 타입·린트·전체 단위 **218개**, 프로젝트 경로 **6/6**와 기존 루트 경로 **2/2**가 Chromium·WebKit에서 통과했습니다. 새 오답·기존 회차 10건을 포함한 대상 웹 검사는 총18건입니다. 프로젝트 경로 검사에는 기존 아이콘·JS/CSS·manifest·worker 범위·라이선스, 오프라인 정답/10 XP 저장·재개, 스키마 6 백업 다운로드와 여섯 테이블 일치에 더해 다음 online-404 조건을 포함합니다.
 
 - 인터넷 연결을 유지하고 시작 문서·JS/CSS·manifest·`sw.js`·라이선스의 서버 응답을 실제 HTML 404로 전환했습니다.
 - 정상 캐시가 있는 동일 브라우저에서 새 페이지를 열면 캐시 응답 200으로 실행되고 답변 1개·10 XP·여섯 테이블과 백업이 유지됐습니다. 라이선스도 캐시에서 열리고 준비 완료 표시가 복구됐습니다.
 - `sw.js`의 추가 업데이트 요청은 서버 404로 실패했으며 기존 활성 worker와 controller가 유지됐습니다. 같은 서버를 처음 여는 빈 브라우저 context는 404이고 등록된 worker도 없었습니다.
 
-실제 결과는 `artifacts/pages/pages-e2e-results.json`, `artifacts/pages/online404-evidence.json`, 최종 19개 정적 파일의 해시는 `artifacts/pages/final-tested-tree.json`에 보관합니다. 이 검사는 로컬 서버로 게시 중단을 모사한 것이며 GitHub 공개 범위 전환·실제 iPhone·장기 캐시 보존을 검사한 것이 아닙니다.
+0.12.0 실제 결과는 `artifacts/mistakes/pages-e2e-results.json`과 `artifacts/mistakes/production-e2e-results.json`, 최종 19개 정적 파일의 해시는 `artifacts/pages/final-tested-tree.json`에 보관합니다. 온라인 404 세부 응답은 Pages 결과의 첨부 자료에 있습니다. 이 검사는 로컬 서버로 게시 중단을 모사한 것이며 GitHub 공개 범위 전환·실제 iPhone·장기 캐시 보존을 검사한 것이 아닙니다.
 
-워크플로 YAML·권한·실행 순서·배포 폴더 검증, ignore의 22개 제외/보존 경로 확인, 변경 문서 포맷 검사도 통과했습니다. GitHub에서의 `npm ci`·Actions 권한·실제 공개 배포는 첫 실행에서 별도로 확인해야 합니다.
+워크플로 YAML·권한·실행 순서·배포 폴더 검증, ignore의 22개 제외/보존 경로 확인, 변경 문서 포맷 검사도 통과했습니다. GitHub에서의 `npm ci`·Actions 권한·실제 공개 배포는 각 실행의 Actions 결과로 별도 확인합니다.
 
 배포 후 iPhone Safari에서 최종 HTTPS 주소를 온라인으로 열고 **설정의 오프라인 준비**를 확인합니다. 공유 → **홈 화면에 추가** 뒤 새 아이콘으로 실행하고 비행기 모드에서 학습·재개·방 꾸미기·출처 링크를 점검합니다. 백업 다운로드와 복원도 파일 앱을 통해 직접 확인하고 [iPhone 체크리스트](IPHONE_TEST_CHECKLIST.md)에 기기·iOS 버전·결과를 기록합니다. **실제 iPhone/홈 화면 검증은 아직 하지 않았으며 Playwright WebKit 통과로 대체하지 않습니다.**
 
-앱 업데이트는 온라인에서 새 버전을 확인한 뒤 적용합니다. 브라우저 데이터 삭제로 업데이트 문제를 해결하려 하기 전에 백업을 보관합니다. 다음 단계는 지정 저장소의 실제 Actions 배포와 최종 HTTPS 주소에서의 iPhone 확인입니다.
+앱 업데이트는 온라인에서 새 버전을 확인한 뒤 적용합니다. 브라우저 데이터 삭제로 업데이트 문제를 해결하려 하기 전에 백업을 보관합니다. 다음 확인은 새 버전의 Actions 배포 결과·기존 앱의 업데이트 적용과 최종 HTTPS 주소에서의 실제 iPhone 검사입니다.
 
 ## 이번 변경 파일
 

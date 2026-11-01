@@ -4,6 +4,7 @@ import type { LearningSession } from '../../core/types';
 import { getCourse } from '../../data/courses';
 import { Icon } from '../../components/Icon';
 import { Mascot, type AvatarId } from '../../components/Mascot';
+import { getActiveMistakes, mistakeKey } from '../../core/mistakes';
 
 export function Completion({
   session,
@@ -51,6 +52,44 @@ export function Completion({
   const next = data.reviews
     .filter((r) => vocabulary.has(r.entityId))
     .sort((a, b) => a.dueDay.localeCompare(b.dueDay))[0]?.dueDay;
+  if (session.sessionKind === 'mistakes') {
+    const remaining = new Set(
+      getActiveMistakes(data.attempts, data.sessions).map((item) => item.key),
+    );
+    const cleared = session.steps.filter(
+      (step) =>
+        !remaining.has(
+          mistakeKey({
+            entityId: step.entityId,
+            entityType: step.entityType,
+            questionId: step.id,
+          }),
+        ),
+    ).length;
+    return (
+      <section
+        className="completion"
+        data-testid="quest-completion"
+        data-session-id={session.sessionId}
+        data-session-kind="mistakes"
+      >
+        <Mascot variant={avatar} wardrobe={wardrobe} mood="celebrate" size={180} />
+        <span className="completion-label">A LITTLE STRONGER!</span>
+        <h1>오답 퀴즈 완료!</h1>
+        <p>
+          {correct} / {attempts.length}개 첫 정답 · 오답노트에서 {cleared}개를 지웠어요.
+        </p>
+        <p className="panel">
+          한 번 맞힌 문제는 다음 퀴즈에서 한 번 더 확인해요. 두 번 맞힌 문제는 오답노트에서 빠져요.
+        </p>
+        <div className="completion-action">
+          <button className="primary wide" onClick={onHome} disabled={busy}>
+            오답노트로 <Icon name="check" />
+          </button>
+        </div>
+      </section>
+    );
+  }
   return (
     <section
       className="completion"

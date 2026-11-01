@@ -2,7 +2,7 @@ import type { RoomSelection } from './room-catalog';
 
 export type AppMode = 'learner' | 'demo';
 export type CourseId = 'advanced-300' | 'suneung-2000';
-export type SessionKind = 'course' | 'review-test';
+export type SessionKind = 'course' | 'review-test' | 'mistakes';
 export type Phase = 'review' | 'vocab' | 'syntax' | 'reading' | 'retest';
 export type QuestionMode =
   | 'recognition'

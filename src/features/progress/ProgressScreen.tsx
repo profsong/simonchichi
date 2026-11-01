@@ -56,7 +56,13 @@ export function ProgressScreen({ data, course }: { data: StudyData; course: Cour
           <p>
             <strong data-testid="completed-plan-count">{completedPlans.length}</strong> /{' '}
             {course.lessons.length}회 완료 · 총{' '}
-            {completed.filter((session) => session.sessionKind !== 'review-test').length}번의 탐험
+            {
+              completed.filter(
+                (session) =>
+                  session.sessionKind !== 'review-test' && session.sessionKind !== 'mistakes',
+              ).length
+            }
+            번의 탐험
           </p>
           <small>하루 기본 탐험 뒤에도 다음 단계로 이어갈 수 있어요.</small>
         </div>
@@ -146,13 +152,15 @@ export function ProgressScreen({ data, course }: { data: StudyData; course: Cour
               const sessionCourse = getCourses().find((item) => item.id === session.courseId);
               const lesson = sessionCourse?.lessons.find((item) => item.id === session.planId);
               const label =
-                session.sessionKind === 'review-test'
-                  ? `${sessionCourse?.title ?? ''} · 10단어 복습`
-                  : lesson
-                    ? `${sessionCourse?.title} · ${lesson.number}회`
-                    : plan
-                      ? `이전 탐험 · 챕터 ${plan.week} · ${plan.day}단계`
-                      : '이전 기억 복습';
+                session.sessionKind === 'mistakes'
+                  ? '오답 퀴즈'
+                  : session.sessionKind === 'review-test'
+                    ? `${sessionCourse?.title ?? ''} · 10단어 복습`
+                    : lesson
+                      ? `${sessionCourse?.title} · ${lesson.number}회`
+                      : plan
+                        ? `이전 탐험 · 챕터 ${plan.week} · ${plan.day}단계`
+                        : '이전 기억 복습';
               const day = session.completedDay ?? session.localDay;
               return (
                 <li

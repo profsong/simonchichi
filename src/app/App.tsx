@@ -20,6 +20,7 @@ import { localDay } from '../core/scheduler';
 import { resolveAvatar } from '../core/avatar';
 import { availableXp, ownedRoomItemIds, resolveRoom } from '../core/economy';
 import { deriveReviewRewardPolicy } from '../core/rewards';
+import { buildMistakeQuest, getActiveMistakes } from '../core/mistakes';
 import type { CourseId, Settings } from '../core/types';
 import { Icon, type IconName } from '../components/Icon';
 import { MascotMark, Mascot } from '../components/Mascot';
@@ -28,13 +29,14 @@ import { Completion } from '../features/daily-quest/Completion';
 import { Today } from '../features/home/Today';
 import { WorldMap } from '../features/home/WorldMap';
 import { Reviews } from '../features/reviews/Reviews';
+import { MistakesScreen } from '../features/reviews/MistakesScreen';
 import { WordbooksScreen } from '../features/wordbooks/WordbooksScreen';
 import { SettingsScreen } from '../features/settings/SettingsScreen';
 import { ProgressScreen } from '../features/progress/ProgressScreen';
 import { useStudyData } from './useStudyData';
 import { useAppRuntime } from '../platform/useAppRuntime';
 
-type Tab = 'today' | 'map' | 'reviews' | 'wordbooks' | 'progress' | 'settings';
+type Tab = 'today' | 'map' | 'reviews' | 'mistakes' | 'wordbooks' | 'progress' | 'settings';
 const tabs: { id: Tab; label: string; icon: IconName }[] = [
   { id: 'today', label: '오늘', icon: 'home' },
   { id: 'map', label: '모험 지도', icon: 'map' },
@@ -121,9 +123,14 @@ export function App() {
       item.status === 'in_progress',
   );
   const focusedSession = sessions.find((item) => item.sessionId === activeSessionId);
+  const activeMistakes = getActiveMistakes(data.attempts, data.sessions);
+  const mistakeSession = sessions.find(
+    (item) => item.sessionKind === 'mistakes' && item.status === 'in_progress',
+  );
   const completedToday = data.sessions.filter(
     (item) =>
       item.sessionKind !== 'review-test' &&
+      item.sessionKind !== 'mistakes' &&
       item.status === 'completed' &&
       (item.completedDay ?? item.localDay) === today,
   );
@@ -194,6 +201,34 @@ export function App() {
         );
         setActiveSessionId(started.sessionId);
       }
+      setInQuest(true);
+      window.scrollTo({ top: 0, behavior: 'instant' });
+    });
+  }
+  async function startMistakes() {
+    await run(async () => {
+      if (mistakeSession) {
+        setActiveSessionId(mistakeSession.sessionId);
+      } else {
+        const mistakePlan = buildMistakeQuest({
+          attempts: data!.attempts,
+          sessions: data!.sessions,
+          appMode: mode,
+        });
+        if (!mistakePlan) return;
+        const previous = sessions.find(
+          (item) => item.sessionKind === 'mistakes' && item.status === 'completed',
+        );
+        const started = await startOrResumeSession(
+          db,
+          mistakePlan,
+          localDay(),
+          contentVersion,
+          previous ? { continueFromSessionId: previous.sessionId } : undefined,
+        );
+        setActiveSessionId(started.sessionId);
+      }
+      setTab('mistakes');
       setInQuest(true);
       window.scrollTo({ top: 0, behavior: 'instant' });
     });
@@ -273,7 +308,13 @@ export function App() {
             busy={busy}
             onContinue={() => focusedSession && void start(focusedSession.sessionId)}
             onHome={() =>
-              navigate(focusedSession?.sessionKind === 'review-test' ? 'reviews' : 'today')
+              navigate(
+                focusedSession?.sessionKind === 'mistakes'
+                  ? 'mistakes'
+                  : focusedSession?.sessionKind === 'review-test'
+                    ? 'reviews'
+                    : 'today',
+              )
             }
           />
         )}
@@ -286,7 +327,13 @@ export function App() {
             avatar={avatar}
             wardrobe={room}
             onExit={() =>
-              navigate(focusedSession.sessionKind === 'review-test' ? 'reviews' : 'today')
+              navigate(
+                focusedSession.sessionKind === 'mistakes'
+                  ? 'mistakes'
+                  : focusedSession.sessionKind === 'review-test'
+                    ? 'reviews'
+                    : 'today',
+              )
             }
             onAnswer={(answer, responseMs, retry) =>
               void run(async () => {
@@ -322,9 +369,16 @@ export function App() {
               onContinue={() => session && void start(session.sessionId)}
               onMap={() => navigate('map')}
               onWordbooks={() => openWordbooks()}
+              onMistakes={() => navigate('mistakes')}
+              mistakeCount={activeMistakes.length}
             />
             {sessions
-              .filter((item) => !item.courseId && item.status === 'in_progress')
+              .filter(
+                (item) =>
+                  !item.courseId &&
+                  item.sessionKind !== 'mistakes' &&
+                  item.status === 'in_progress',
+              )
               .map((legacy) => (
                 <div className="panel" key={legacy.sessionId}>
                   <p>이전에 시작한 탐험도 이어갈 수 있어요.</p>
@@ -365,6 +419,17 @@ export function App() {
             legacyReward={!!reviewSession && !reviewSession.rewardPolicy}
             roomMessage={roomMessage}
             onRoomItem={selectRoomItem}
+            mistakeCount={activeMistakes.length}
+            onMistakes={() => navigate('mistakes')}
+          />
+        )}
+        {tab === 'mistakes' && !focused && (
+          <MistakesScreen
+            mistakes={activeMistakes}
+            hasSession={!!mistakeSession}
+            busy={busy}
+            onStart={() => void startMistakes()}
+            onBack={() => navigate('reviews')}
           />
         )}
         {tab === 'wordbooks' && !focused && (
@@ -396,7 +461,9 @@ export function App() {
             <button
               key={t.id}
               aria-current={
-                tab === t.id || (tab === 'wordbooks' && t.id === 'reviews') ? 'page' : undefined
+                tab === t.id || ((tab === 'wordbooks' || tab === 'mistakes') && t.id === 'reviews')
+                  ? 'page'
+                  : undefined
               }
               onClick={() => navigate(t.id)}
             >

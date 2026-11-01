@@ -6,6 +6,7 @@ import { availableXp, resolveRoom, roomSelectionIsOwned } from '../core/economy'
 import { getRoomItem, getRoomItemPrice, roomPricingVersion, roomSlot } from '../core/room-catalog';
 import { validateStep } from '../core/quest-builder';
 import { buildCourseRetests, validCoursePlan, validCourseRetests } from '../core/course-quest';
+import { validMistakePlan } from '../core/mistakes';
 import { addDays, localDay, scheduleReview } from '../core/scheduler';
 import {
   defaultSettings,
@@ -133,7 +134,7 @@ const sessionSchema = z.strictObject({
   updatedAt: instantSchema,
   hintStepIds: z.array(idSchema).max(100),
   courseId: z.enum(['advanced-300', 'suneung-2000']).optional(),
-  sessionKind: z.enum(['course', 'review-test']).optional(),
+  sessionKind: z.enum(['course', 'review-test', 'mistakes']).optional(),
   courseVersion: textSchema.optional(),
   courseFlow: z.literal('test-first-v1').optional(),
   retestQuestionIds: z.array(idSchema).max(20).optional(),
@@ -277,6 +278,7 @@ export interface SessionPlan {
 }
 
 export function sessionScope(session: Pick<LearningSession, 'courseId' | 'sessionKind'>): string {
+  if (session.sessionKind === 'mistakes') return 'mistakes';
   return session.courseId ? `${session.courseId}:${session.sessionKind}` : 'legacy';
 }
 
@@ -328,7 +330,7 @@ export async function startOrResumeSession(
   options?: { continueFromSessionId: string },
 ): Promise<LearningSession> {
   daySchema.parse(day);
-  return db.transaction('rw', db.sessions, db.reviews, db.purchases, async () => {
+  return db.transaction('rw', db.sessions, db.reviews, db.attempts, db.purchases, async () => {
     const sessions = (await db.sessions.toArray()).sort(creationOrder);
     const scoped = sessions.filter((session) => sessionScope(session) === sessionScope(plan));
     const latest = scoped.at(-1);
@@ -374,19 +376,25 @@ export async function startOrResumeSession(
       return latest;
     if (!plan.steps.length) throw new Error('학습할 콘텐츠가 아직 준비되지 않았어요.');
     if (
-      plan.courseId
-        ? !validCoursePlan(plan, day)
-        : plan.sessionKind ||
-          plan.courseVersion ||
-          plan.courseFlow ||
-          !validPlanId(plan.planId, day, db.mode)
+      plan.sessionKind === 'mistakes'
+        ? !validMistakePlan(plan, await db.attempts.toArray(), sessions, db.mode)
+        : plan.courseId
+          ? !validCoursePlan(plan, day)
+          : plan.sessionKind ||
+            plan.courseVersion ||
+            plan.courseFlow ||
+            !validPlanId(plan.planId, day, db.mode)
     )
       throw new Error('학습 구성을 다시 확인해 주세요.');
     if (new Set(plan.steps.map((step) => step.id)).size !== plan.steps.length)
       throw new Error('학습 구성을 다시 확인해 주세요.');
     if (plan.steps.some((step) => step.retestOf))
       throw new Error('학습 구성을 다시 확인해 주세요.');
-    if (!plan.steps.every((step) => validateStep(step, db.mode)))
+    if (
+      !plan.steps.every((step) =>
+        validateStep(step, plan.sessionKind === 'mistakes' ? 'demo' : db.mode),
+      )
+    )
       throw new Error('학습 구성을 다시 확인해 주세요.');
     if (plan.sessionKind === 'review-test') {
       const learned = new Set((await db.reviews.toArray()).map((review) => review.entityId));
@@ -409,6 +417,7 @@ export async function startOrResumeSession(
       hintStepIds: [],
       createdAt: timestamp,
       studyEvents: [],
+      ...(plan.sessionKind === 'mistakes' ? { sessionKind: 'mistakes' as const } : {}),
       ...(plan.courseId
         ? {
             courseId: plan.courseId,
@@ -450,6 +459,8 @@ export async function submitAnswer(
       if (session.status !== 'in_progress' || step?.kind !== 'question')
         throw new Error('다음 학습 화면에서 답해 주세요.');
       const questionId = step.retestOf ?? step.id;
+      if (session.sessionKind === 'mistakes' && retry)
+        throw new Error('이번 답은 저장했어요. 다음 오답 퀴즈에서 다시 만나요.');
       if (session.courseFlow && retry && !step.retestOf)
         throw new Error('첫 답은 저장했어요. 단어 재시험은 독해 뒤에 만나요.');
       retry = !!step.retestOf || retry;
@@ -689,6 +700,11 @@ function canonical(value: unknown): string {
 function validateBackup(backup: Backup, mode: AppMode, contentVersion: string): void {
   if (backup.appMode !== mode || backup.contentVersion !== contentVersion) throw invalidData();
   if (backup.schemaVersion >= 4 && !backup.purchases) throw invalidData();
+  if (
+    backup.schemaVersion < 6 &&
+    backup.sessions.some((session) => session.sessionKind === 'mistakes')
+  )
+    throw invalidData();
   const purchases = backup.purchases ?? [];
   if (
     backup.schemaVersion < 6 &&
@@ -731,6 +747,7 @@ function validateBackup(backup: Backup, mode: AppMode, contentVersion: string): 
     orderedSessions.map((session) => [sessionScope(session), session.sessionId]),
   );
   const sessionsPerDay = new Map<string, number>();
+  let previousMistakeSession: LearningSession | undefined;
   for (const session of orderedSessions) {
     // Explicit restores can carry archived original-course snapshots into the
     // current owner database. They still must match the immutable source bank;
@@ -745,14 +762,34 @@ function validateBackup(backup: Backup, mode: AppMode, contentVersion: string): 
     )
       throw invalidData();
     if (
-      session.courseId
-        ? !validCoursePlan(session, session.localDay)
-        : session.sessionKind ||
-          session.courseVersion ||
-          session.courseFlow ||
-          !validPlanId(session.planId, session.localDay, sourceMode)
+      session.sessionKind === 'mistakes'
+        ? !session.createdAt ||
+          !session.studyEvents ||
+          !validMistakePlan(
+            session,
+            backup.attempts.filter((attempt) => attempt.completedAt < session.createdAt!),
+            backup.sessions,
+            mode,
+          )
+        : session.courseId
+          ? !validCoursePlan(session, session.localDay)
+          : session.sessionKind ||
+            session.courseVersion ||
+            session.courseFlow ||
+            !validPlanId(session.planId, session.localDay, sourceMode)
     )
       throw invalidData();
+    if (session.sessionKind === 'mistakes') {
+      // A new round can only follow the committed completion of the previous
+      // mistake quiz, matching the transactional start/resume intention token.
+      if (
+        previousMistakeSession &&
+        (previousMistakeSession.status !== 'completed' ||
+          previousMistakeSession.updatedAt >= session.createdAt!)
+      )
+        throw invalidData();
+      previousMistakeSession = session;
+    }
     if (session.courseId && (!session.createdAt || !session.studyEvents)) throw invalidData();
     if (!validCourseRetests(session, attemptsBySession.get(session.sessionId) ?? []))
       throw invalidData();
@@ -842,6 +879,7 @@ function validateBackup(backup: Backup, mode: AppMode, contentVersion: string): 
     )
       throw invalidData();
     if (!attempt.firstTry) {
+      if (session.sessionKind === 'mistakes') throw invalidData();
       const first = attempts.get(attemptId(attempt.sessionId, step.retestOf ?? step.id, true));
       if (
         !first ||

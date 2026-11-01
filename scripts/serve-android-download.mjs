@@ -56,7 +56,7 @@ a:focus-visible{outline:3px solid #087dc0;outline-offset:5px}a{color:#0677b0}ol{
 </style></head><body><main><div class="card">
 <span class="tag">Android ${version} · 개인용 앱</span><h1>시몬치치</h1>
 <p>몬치치와 20단어씩, 나만의 영어 모험.<br>APK를 한 번 설치하면 PC를 끄고 오프라인으로 실행할 수 있어요.</p>
-<p class="note"><strong>이번 업데이트</strong> · 새 옷 10종을 더해 원래 옷을 포함해 총 14종이 되었어요. 새 일반 옷 7종은 6,000 XP, 나이키 후드티·아디다스 패딩·버버리 코트는 각각 7,000 XP입니다. 세 탐험 친구에게 어울리는 옷과 액세서리를 골라 보세요. 기존 학습 기록과 구매품, XP 잔액은 그대로 이어집니다.</p>
+<p class="note"><strong>이번 업데이트</strong> · 오늘 화면의 ‘오답 다시 도전’에서 오답노트를 열 수 있어요. 단어·문장·독해 오답을 모아 서로 다른 퀴즈에서 두 번 맞히면 목록에서 빠져요. 기존 앱을 삭제하지 말고 새 APK를 덮어 설치하세요. 기존 학습 기록과 구매품, XP 잔액은 그대로 이어집니다.</p>
 <a class="download" href="${downloadPath}" download="${filename}">Android APK 다운로드 · ${size} MB</a>
 <p class="note">이전 버전이 설치되어 있다면 <strong>앱을 삭제하지 않고</strong> 새 APK를 열어 ‘업데이트’를 선택하세요. 같은 서명으로 기존 기록을 이어갑니다. 업데이트 전 설정에서 백업을 저장해 두세요.</p>
 <p class="note">Android 7 이상과 최신 Android System WebView/Chrome이 필요해요. 가족이 사용하는 개인용 디버그 서명 APK입니다.</p>
